@@ -10,5 +10,5 @@ design:
   css_style: null
   css_class: null
   background:
-    image: welcome.png
+    image: welcome.jpg
 ---
