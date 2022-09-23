@@ -10,5 +10,5 @@ design:
   css_style: null
   css_class: null
   background:
-    image: text2-sand-banner.png
+    image: welcome.png
 ---
