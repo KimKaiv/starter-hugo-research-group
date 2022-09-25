@@ -1,7 +1,7 @@
 ---
 title: Prediction Markets for Climate Risk
 
-event: Wowchemy Conference
+event: Industry-University Workshop
 event_url: 
 
 location: Woburn House

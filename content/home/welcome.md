@@ -8,16 +8,6 @@ headless: true    # This file represents a page section.
 weight: 10        # Order that this section will appear.
 #title: ""
 
-
-#Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width.
-#image: 
-#  placement: 3
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-#  focal_point: ""
-#  preview_only: false
-#  image_parallax: true
-
-
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
