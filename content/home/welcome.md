@@ -3,11 +3,11 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: blank # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-#title: "**Climate Risk and Uncertainty Collective Intelligence Aggregation Laboratory**"
-# hero_media: welcome.jpg
+widget: blank     # See https://wowchemy.com/docs/page-builder/
+headless: true    # This file represents a page section.
+weight: 10        # Order that this section will appear.
+#title: ""
+
 
 #Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width.
 #image: 
@@ -70,19 +70,5 @@ advanced:
 <br>
 
 ## **We employ *expert prediction markets* -- hosted on the AGORA prediction-market platform -- to elicit, aggregate, and summarise knowledge on future climate risks, drawing on expertise from diverse areas of physical, social, and policy science.** 
-=======
-widget: hero
-headless: true
-weight: 10
-title: CUCIAL
-hero_media: welcome.jpg
-widget_id: welcome-banner
-active: true
-design:
-  columns: "1"
-  css_style: null
-  css_class: null
-  background:
-    image: welcome.jpg
----
+
 
