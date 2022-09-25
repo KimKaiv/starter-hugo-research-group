@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Challenges | CRUCIAL</title>
+    <link>https://CRUCIALab.net/challenge/</link>
+      <atom:link href="https://CRUCIALab.net/challenge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Challenges</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 21:00:43 +0100</lastBuildDate>
+    <image>
+      <url>https://CRUCIALab.net/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_512x512_fill_lanczos_center_3.png</url>
+      <title>Challenges</title>
+      <link>https://CRUCIALab.net/challenge/</link>
+    </image>
+    
+    <item>
+      <title>Multi-disciplinary problem</title>
+      <link>https://CRUCIALab.net/challenge/multi-disciplinary/</link>
+      <pubDate>Sat, 24 Sep 2022 21:00:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/multi-disciplinary/</guid>
+      <description>&lt;p&gt;Top emitters have a large influence on the annual rate of GHG emissions.&lt;/p&gt;
+&lt;p&gt;The top 4 emitters &amp;ndash; China, the USA, India, and Russia &amp;ndash; account for 55% of
+annual CO2 emissions from fossil fuels
+(&lt;a href=&#34;https://worldpopulationreview.com/country-rankings/carbon-footprint-by-country&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;source&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;These country emissions are antropogenic and exogenous to physical-science based climate modelling.&lt;/p&gt;
+&lt;p&gt;To develop an undertanding of the anthropogenic contribution to future CO2 concentrations,
+there is a need for &lt;em&gt;country specialists&lt;/em&gt; in the politics, energy policies, environmental
+regulations, and economics of each substantial emitter.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-co2-emissions-from-fossil-fuels-by-country-2019&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Country breakdown of fossil-fuel CO2 emissions&#34; srcset=&#34;
+               /challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_b743bbb64e4e42d977877ad8f82ed364.webp 400w,
+               /challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_b9adb656bb5f16906882ee6a6db8d940.webp 760w,
+               /challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_b743bbb64e4e42d977877ad8f82ed364.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;469&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: CO2 emissions from fossil fuels by country, 2019
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abundance of Choice</title>
+      <link>https://CRUCIALab.net/challenge/abundance-of-choice/</link>
+      <pubDate>Sat, 24 Sep 2022 17:28:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/abundance-of-choice/</guid>
+      <description>&lt;p&gt;Complex statistical analysis and mathematical modelling involve multitudes of
+choices and assumptions. Recent &lt;em&gt;&amp;ldquo;many analysts, one data set&amp;rdquo;&lt;/em&gt; studies show the
+danger of relying solely on one research team.&lt;/p&gt;
+&lt;p&gt;Here we present several examples from this literature.&lt;/p&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;silberzahn-et-al-2018httpsjournalssagepubcomdoiabs1011772515245917747646-----social-science-psychology&#34;&gt;&lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/2515245917747646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silberzahn et al. (2018)&lt;/a&gt; &amp;mdash; social science, psychology&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Twenty-nine teams involving 61 analysts used the same data set to address the same
+research question: whether soccer referees are more likely to give red cards to
+dark-skin-toned players than to light-skin-toned players. &amp;hellip;Twenty teams (69%) found a
+statistically significant positive effect, and 9 teams (31%) did not observe a significant
+relationship. Overall, the 29 different analyses used 21 unique combinations of covariates.
+&lt;em&gt;&amp;hellip;significant variation in the results of analyses of complex data may be difficult
+to avoid, even by experts with honest intentions.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-table-covariates-included-by-each-team&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Covariates included by each team&#34; srcset=&#34;
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_0bf380a3f7d7296e188a98256b7ff0e7.webp 400w,
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_f6af3706076fddae0d7b0e6a2d51f33f.webp 760w,
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_0bf380a3f7d7296e188a98256b7ff0e7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;283&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Table: Covariates included by each team.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-odds-ratios-across-29-teams&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Odds Ratios across 29 teams&#34; srcset=&#34;
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_3c2e96873026dd2b8ba9f03ba84a87ee.webp 400w,
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_43c18810f7705b2c7bf9612fe0a3a906.webp 760w,
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_3c2e96873026dd2b8ba9f03ba84a87ee.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;408&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Odds ratios across 29 teams.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-or-point-estimates-clustered-by-analytic-approach&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;OR point estimates clustered by analytic approach&#34; srcset=&#34;
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_cb89893110826cb53b03f39d7beef117.webp 400w,
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_c20f5003f5948319eb4eecd99225a541.webp 760w,
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_cb89893110826cb53b03f39d7beef117.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;444&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: OR point estimates clustered by analytic approach.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The observed results from analyzing a complex data set
+can be highly contingent on justifiable, but subjective,
+analytic decisions. Uncertainty in interpreting research
+results is therefore not just a function of statistical power
+or the use of questionable research practices; it is also
+a function of the many reasonable decisions that
+researchers must make in order to conduct the research.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;huntington-klein-et-al-2021httpsonlinelibrarywileycomdoiepdf101111ecin12992-----economics&#34;&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecin.12992&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huntington-Klein et al. (2021)&lt;/a&gt; &amp;mdash; economics&lt;/h2&gt;
+&lt;p&gt;These researchers ask whether two published empirical studies reporting causal
+empirical results replicate when this is attempted by multiple research teams.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Black et al. (2008) Staying in the classroom and out of the maternity ward?
+The effect of compulsory schooling laws on teenage births. &lt;em&gt;The Economic Journal&lt;/em&gt;,
+118(530): 1025&amp;ndash;1054. &lt;a href=&#34;https://academic.oup.com/ej/article-abstract/118/530/1025/5089485&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fairlie et al. (2011) Is employer-based health insurance a barrier to entrepreneurship?
+&lt;em&gt;Journal of Health Economics&lt;/em&gt;, 30(1): 146&amp;ndash;162. &lt;a href=&#34;https://www.rand.org/pubs/working_papers/WR637-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;They recruit 49 published researchers to participate in replication teams.&lt;/p&gt;
+&lt;p&gt;After attrition (due to a short completion window), they obtained 7 independent
+replications of each study.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-results-from-compulsory-education-1-replication-study&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Compulsory education&#34; srcset=&#34;
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_3bd7d97ba3139c197adbe686d8728a8e.webp 400w,
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_ed5f9216e153b118d9c09b6d681727d5.webp 760w,
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_3bd7d97ba3139c197adbe686d8728a8e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Results from compulsory education (#1.) replication study.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-results-from-health-insurance-2replication-study&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Health insurance&#34; srcset=&#34;
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_db3d51769d1136830b493f302b04d0a8.webp 400w,
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_5887a29f709deb71f404a5b5ba7d04d4.webp 760w,
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_db3d51769d1136830b493f302b04d0a8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Results from health insurance (#2.)replication study.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Researchers make hundreds of decisions about data collection, preparation, and
+analysis in their research. &amp;hellip;We find large differences in data preparation and analysis
+decisions, many of which would not likely be reported in a publication. No two
+replicators reported the same sample size. Statistical significance varied across
+replications, and for one of the studies the effect&amp;rsquo;s sign varied as well. &lt;em&gt;The
+standard deviation of estimates across replications was 3&amp;ndash;4 times the mean reported
+standard error.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;breznau-et-al-2022httpsosfiopreprintsmetaarxivcd5j9-----economics-statistics&#34;&gt;&lt;a href=&#34;https://osf.io/preprints/metaarxiv/cd5j9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breznau et al. (2022)&lt;/a&gt; &amp;mdash; economics, statistics&lt;/h2&gt;
+&lt;p&gt;These authors settle on the research question: &lt;em&gt;does immigration reduce support for
+social policies among the public&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;They recruited 162 participants across 73 teams.&lt;/p&gt;
+&lt;p&gt;Each team was provided with a database of answers to a 6-question module on the
+role of government in providing different social services, which is part of the
+long-running International Social Survey Programme (ISSP). They were also provided
+with a wide range of World Bank, OECD, and immigration data.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-variation-in-average-marginal-effect-ame-across-73-teams-testing-the-same-hypothesis-with-the-same-data-ame-point-estimate-and-confidence-interval-for-each-team&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Variation in AME&#34; srcset=&#34;
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_58f07cd358dace17379381d4fdbc2b01.webp 400w,
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_25d85ce1a5be31be26ea2254995ddad8.webp 760w,
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_58f07cd358dace17379381d4fdbc2b01.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;455&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Variation in Average Marginal Effect (AME) across 73 teams testing the same hypothesis with the same data. AME, point estimate, and Confidence Interval for each team.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;major research steps explain at most 2.6% of total variance in effect sizes and
+10% of the deviance in subjective conclusions. Expertise, prior beliefs and attitudes
+explain even less. &lt;em&gt;Each generated model was unique, which points to a vast universe
+of research design variability normally hidden from view&lt;/em&gt; in the presentation, consumption,
+and perhaps even creation of scientific results.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;
+&lt;p&gt;These studies have explicit selection criteria to ensure that they recruit only competent
+researchers.&lt;/p&gt;
+&lt;p&gt;Prior to studies of this nature, the &amp;ldquo;degrees of freedom&amp;rdquo; inherent in empirical
+analysis were not fully appreciated by researchers.&lt;/p&gt;
+&lt;p&gt;More than abundance of choice, these studies reveal a vast universe of previously hidden
+research-design and analysis-operationalisation variability.&lt;/p&gt;
+&lt;br&gt; 
+&lt;br&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Circularity problem</title>
+      <link>https://CRUCIALab.net/challenge/circularity-problem/</link>
+      <pubDate>Sat, 24 Sep 2022 17:05:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/circularity-problem/</guid>
+      <description>&lt;p&gt;Unconditional forecasts of global temperature alone have an ambiguous interpretation.&lt;/p&gt;
+&lt;p&gt;Suppose a forecast portends a small global temperature anomaly.&lt;/p&gt;
+&lt;p&gt;Are future temperatures low because CO2 emissions will be tamed aggressively, or
+because climate turns out to be much less sensitive to atmospheric CO2 concentrations
+than currently believed?&lt;/p&gt;
+&lt;p&gt;Predictions of e.g. global temperature alone lack&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the pathway of the policy variable (CO2 concentration), and&lt;/li&gt;
+&lt;li&gt;the relationship between the policy variable and the outcome variable (global temperature).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In monetary policy, the relationship between interest rates (the policy variable)
+and inflation and the output gap (the targets of policy) is known as the &amp;lsquo;Taylor rule&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;There is no &amp;lsquo;Taylor rule&amp;rsquo; for emissions policy over time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;not for one country, and certaintly not across all top emitters&lt;/li&gt;
+&lt;li&gt;the net Zero commitment formally moves toward this, but statements of intention
+do not necessarily translate into operational, enforced regulations in all countries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How can climate-risk information providers resolve this circularity problem?&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data gaps</title>
+      <link>https://CRUCIALab.net/challenge/data-gaps/</link>
+      <pubDate>Sat, 24 Sep 2022 17:00:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/data-gaps/</guid>
+      <description>&lt;p&gt;Data gaps are particularly substantial and pressing for &lt;em&gt;forward-looking&lt;/em&gt; risk information.&lt;/p&gt;
+&lt;p&gt;And where forward-looking information exists, it is largely based on (i) announced intentions, or
+(b) scenarios for which there currently exists no relative likelihood information.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;ngfs-2021-progress-report-on-bridging-data-gapshttpswwwngfsnetsitesdefaultfilesmediasdocumentsprogress_report_on_bridging_data_gapspdf&#34;&gt;&lt;a href=&#34;https://www.ngfs.net/sites/default/files/medias/documents/progress_report_on_bridging_data_gaps.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NGFS (2021) Progress report on bridging data gaps&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Stakeholders report the need for more forward-looking data and granular data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While acknowledging the need for a forward-looking perspective, stakeholders still
+largely rely on metrics that are backward-looking in nature. &amp;hellip;Stakeholders have
+pointed out that they cannot rely on such metrics alone. They also need to finance
+transition and analyse the pathways to climate goals over time by also using forwardlooking metrics.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;ngfs-2022-final-report-on-bridging-data-gapshttpswwwngfsnetsitesdefaultfilesmediasdocumentsfinal_report_on_bridging_data_gapspdf&#34;&gt;&lt;a href=&#34;https://www.ngfs.net/sites/default/files/medias/documents/final_report_on_bridging_data_gaps.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NGFS (2022) Final report on bridging data gaps&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[Credit Rating Agencies] also reported that the biggest gaps are in the forward-looking data, which
+are essential for consistency of accounting treatments and scenario assumptions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The importance of forward-looking data is stressed by the stakeholders.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Recommendation 3: Develop well-defined and decision-useful metrics, and methodological
+standards. To further advance this goal, there is a need to substantially increase the
+harmonisation of forward-looking metrics.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bad Incentives</title>
+      <link>https://CRUCIALab.net/challenge/bad-incentives/</link>
+      <pubDate>Fri, 23 Sep 2022 13:27:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/bad-incentives/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;Climate Service Provider&lt;/em&gt; (CSP) industry is growing rapidly to meet demand.&lt;/p&gt;
+&lt;p&gt;In this drive to meet growing demand, a number of issues rooted in adverse incentives have been overlooked.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Issue #1:&lt;/strong&gt; Price competition, asymmetric information, and multi-decadal &amp;lsquo;discovery time&amp;rsquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“In many ways, the marketplace is operating on blind faith in model validation and the
+professional competence in applying those models,” with some, “products and services
+that may be operating outside of the bounds of scientific merit” (&lt;a href=&#34;https://www.science.org/doi/10.1126/science.aay8442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keenan, 2019, &amp;ldquo;A climate
+intelligence arms race in financial markets&amp;rdquo; &lt;em&gt;Science&lt;/em&gt;.&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“If providers of climate forecasts are paid upfront irrespective of accuracy, you don’t need to
+be an economist to spot the problem with that arrangement.” &lt;a href=&#34;https://www.lancaster.ac.uk/lums/news/how-prediction-markets-could-improve-climate-risk-policies-and-investment-decisions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark Roulston&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Issue #2:&lt;/strong&gt; Possibility of &amp;lsquo;results-led&amp;rsquo; research. Parallels with Credit-Rating Agencies pre-2007!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Issue #3:&lt;/strong&gt; The &amp;lsquo;public good&amp;rsquo; nature of much climate-risk information.&lt;/p&gt;
+&lt;p&gt;If privately funded: how to restrict access (to private-good or club-good status) so that
+individual organisations can benefit from funding the development of climate-risk information?&lt;/p&gt;
+&lt;p&gt;If publicly funded: how to fund this very applied type of research, in the required
+frequency of updates, when the output isn’t in the form of a piece of work suitable for a
+high-ranked academic journal?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Issue #4:&lt;/strong&gt; The &amp;lsquo;downscaling&amp;rsquo; from global models is more questionable on multi-decadal horizons of
+climate change.&lt;/p&gt;
+&lt;p&gt;Prcisions vs. accuracy, and &amp;lsquo;false precision&amp;rsquo;. For box-ticking exercises low accuracy might not matter.
+But for informing societally transformative policies, regulations, and business-investment decisions,
+false precision and low accuracy are fundamentally problematic in their consequences: misallocation of effort, resource, and painful sacrifice (which is on the horizon).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRUCIAL</title>
+    <link>https://CRUCIALab.net/</link>
+      <atom:link href="https://CRUCIALab.net/index.xml" rel="self" type="application/rss+xml" />
+    <description>CRUCIAL</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 21:00:43 +0100</lastBuildDate>
+    <image>
+      <url>https://CRUCIALab.net/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_512x512_fill_lanczos_center_3.png</url>
+      <title>CRUCIAL</title>
+      <link>https://CRUCIALab.net/</link>
+    </image>
+    
+    <item>
+      <title>Multi-disciplinary problem</title>
+      <link>https://CRUCIALab.net/challenge/multi-disciplinary/</link>
+      <pubDate>Sat, 24 Sep 2022 21:00:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/multi-disciplinary/</guid>
+      <description>&lt;p&gt;Top emitters have a large influence on the annual rate of GHG emissions.&lt;/p&gt;
+&lt;p&gt;The top 4 emitters &amp;ndash; China, the USA, India, and Russia &amp;ndash; account for 55% of
+annual CO2 emissions from fossil fuels
+(&lt;a href=&#34;https://worldpopulationreview.com/country-rankings/carbon-footprint-by-country&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;source&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;These country emissions are antropogenic and exogenous to physical-science based climate modelling.&lt;/p&gt;
+&lt;p&gt;To develop an undertanding of the anthropogenic contribution to future CO2 concentrations,
+there is a need for &lt;em&gt;country specialists&lt;/em&gt; in the politics, energy policies, environmental
+regulations, and economics of each substantial emitter.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-co2-emissions-from-fossil-fuels-by-country-2019&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Country breakdown of fossil-fuel CO2 emissions&#34; srcset=&#34;
+               /challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_b743bbb64e4e42d977877ad8f82ed364.webp 400w,
+               /challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_b9adb656bb5f16906882ee6a6db8d940.webp 760w,
+               /challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/multi-disciplinary/multi-disciplinary_national_CO2_shares_hu1e271bf1e98a3ccc92d1863f5d3e86fa_292185_b743bbb64e4e42d977877ad8f82ed364.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;469&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: CO2 emissions from fossil fuels by country, 2019
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abundance of Choice</title>
+      <link>https://CRUCIALab.net/challenge/abundance-of-choice/</link>
+      <pubDate>Sat, 24 Sep 2022 17:28:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/abundance-of-choice/</guid>
+      <description>&lt;p&gt;Complex statistical analysis and mathematical modelling involve multitudes of
+choices and assumptions. Recent &lt;em&gt;&amp;ldquo;many analysts, one data set&amp;rdquo;&lt;/em&gt; studies show the
+danger of relying solely on one research team.&lt;/p&gt;
+&lt;p&gt;Here we present several examples from this literature.&lt;/p&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;silberzahn-et-al-2018httpsjournalssagepubcomdoiabs1011772515245917747646-----social-science-psychology&#34;&gt;&lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/2515245917747646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silberzahn et al. (2018)&lt;/a&gt; &amp;mdash; social science, psychology&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Twenty-nine teams involving 61 analysts used the same data set to address the same
+research question: whether soccer referees are more likely to give red cards to
+dark-skin-toned players than to light-skin-toned players. &amp;hellip;Twenty teams (69%) found a
+statistically significant positive effect, and 9 teams (31%) did not observe a significant
+relationship. Overall, the 29 different analyses used 21 unique combinations of covariates.
+&lt;em&gt;&amp;hellip;significant variation in the results of analyses of complex data may be difficult
+to avoid, even by experts with honest intentions.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-table-covariates-included-by-each-team&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Covariates included by each team&#34; srcset=&#34;
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_0bf380a3f7d7296e188a98256b7ff0e7.webp 400w,
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_f6af3706076fddae0d7b0e6a2d51f33f.webp 760w,
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_0bf380a3f7d7296e188a98256b7ff0e7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;283&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Table: Covariates included by each team.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-odds-ratios-across-29-teams&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Odds Ratios across 29 teams&#34; srcset=&#34;
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_3c2e96873026dd2b8ba9f03ba84a87ee.webp 400w,
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_43c18810f7705b2c7bf9612fe0a3a906.webp 760w,
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_3c2e96873026dd2b8ba9f03ba84a87ee.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;408&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Odds ratios across 29 teams.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-or-point-estimates-clustered-by-analytic-approach&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;OR point estimates clustered by analytic approach&#34; srcset=&#34;
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_cb89893110826cb53b03f39d7beef117.webp 400w,
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_c20f5003f5948319eb4eecd99225a541.webp 760w,
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_cb89893110826cb53b03f39d7beef117.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;444&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: OR point estimates clustered by analytic approach.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The observed results from analyzing a complex data set
+can be highly contingent on justifiable, but subjective,
+analytic decisions. Uncertainty in interpreting research
+results is therefore not just a function of statistical power
+or the use of questionable research practices; it is also
+a function of the many reasonable decisions that
+researchers must make in order to conduct the research.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;huntington-klein-et-al-2021httpsonlinelibrarywileycomdoiepdf101111ecin12992-----economics&#34;&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecin.12992&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huntington-Klein et al. (2021)&lt;/a&gt; &amp;mdash; economics&lt;/h2&gt;
+&lt;p&gt;These researchers ask whether two published empirical studies reporting causal
+empirical results replicate when this is attempted by multiple research teams.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Black et al. (2008) Staying in the classroom and out of the maternity ward?
+The effect of compulsory schooling laws on teenage births. &lt;em&gt;The Economic Journal&lt;/em&gt;,
+118(530): 1025&amp;ndash;1054. &lt;a href=&#34;https://academic.oup.com/ej/article-abstract/118/530/1025/5089485&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fairlie et al. (2011) Is employer-based health insurance a barrier to entrepreneurship?
+&lt;em&gt;Journal of Health Economics&lt;/em&gt;, 30(1): 146&amp;ndash;162. &lt;a href=&#34;https://www.rand.org/pubs/working_papers/WR637-1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;They recruit 49 published researchers to participate in replication teams.&lt;/p&gt;
+&lt;p&gt;After attrition (due to a short completion window), they obtained 7 independent
+replications of each study.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-results-from-compulsory-education-1-replication-study&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Compulsory education&#34; srcset=&#34;
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_3bd7d97ba3139c197adbe686d8728a8e.webp 400w,
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_ed5f9216e153b118d9c09b6d681727d5.webp 760w,
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_3bd7d97ba3139c197adbe686d8728a8e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Results from compulsory education (#1.) replication study.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-results-from-health-insurance-2replication-study&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Health insurance&#34; srcset=&#34;
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_db3d51769d1136830b493f302b04d0a8.webp 400w,
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_5887a29f709deb71f404a5b5ba7d04d4.webp 760w,
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_db3d51769d1136830b493f302b04d0a8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Results from health insurance (#2.)replication study.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Researchers make hundreds of decisions about data collection, preparation, and
+analysis in their research. &amp;hellip;We find large differences in data preparation and analysis
+decisions, many of which would not likely be reported in a publication. No two
+replicators reported the same sample size. Statistical significance varied across
+replications, and for one of the studies the effect&amp;rsquo;s sign varied as well. &lt;em&gt;The
+standard deviation of estimates across replications was 3&amp;ndash;4 times the mean reported
+standard error.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;breznau-et-al-2022httpsosfiopreprintsmetaarxivcd5j9-----economics-statistics&#34;&gt;&lt;a href=&#34;https://osf.io/preprints/metaarxiv/cd5j9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breznau et al. (2022)&lt;/a&gt; &amp;mdash; economics, statistics&lt;/h2&gt;
+&lt;p&gt;These authors settle on the research question: &lt;em&gt;does immigration reduce support for
+social policies among the public&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;They recruited 162 participants across 73 teams.&lt;/p&gt;
+&lt;p&gt;Each team was provided with a database of answers to a 6-question module on the
+role of government in providing different social services, which is part of the
+long-running International Social Survey Programme (ISSP). They were also provided
+with a wide range of World Bank, OECD, and immigration data.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-variation-in-average-marginal-effect-ame-across-73-teams-testing-the-same-hypothesis-with-the-same-data-ame-point-estimate-and-confidence-interval-for-each-team&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Variation in AME&#34; srcset=&#34;
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_58f07cd358dace17379381d4fdbc2b01.webp 400w,
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_25d85ce1a5be31be26ea2254995ddad8.webp 760w,
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_58f07cd358dace17379381d4fdbc2b01.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;455&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Variation in Average Marginal Effect (AME) across 73 teams testing the same hypothesis with the same data. AME, point estimate, and Confidence Interval for each team.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;major research steps explain at most 2.6% of total variance in effect sizes and
+10% of the deviance in subjective conclusions. Expertise, prior beliefs and attitudes
+explain even less. &lt;em&gt;Each generated model was unique, which points to a vast universe
+of research design variability normally hidden from view&lt;/em&gt; in the presentation, consumption,
+and perhaps even creation of scientific results.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;
+&lt;p&gt;These studies have explicit selection criteria to ensure that they recruit only competent
+researchers.&lt;/p&gt;
+&lt;p&gt;Prior to studies of this nature, the &amp;ldquo;degrees of freedom&amp;rdquo; inherent in empirical
+analysis were not fully appreciated by researchers.&lt;/p&gt;
+&lt;p&gt;More than abundance of choice, these studies reveal a vast universe of previously hidden
+research-design and analysis-operationalisation variability.&lt;/p&gt;
+&lt;br&gt; 
+&lt;br&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Circularity problem</title>
+      <link>https://CRUCIALab.net/challenge/circularity-problem/</link>
+      <pubDate>Sat, 24 Sep 2022 17:05:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/circularity-problem/</guid>
+      <description>&lt;p&gt;Unconditional forecasts of global temperature alone have an ambiguous interpretation.&lt;/p&gt;
+&lt;p&gt;Suppose a forecast portends a small global temperature anomaly.&lt;/p&gt;
+&lt;p&gt;Are future temperatures low because CO2 emissions will be tamed aggressively, or
+because climate turns out to be much less sensitive to atmospheric CO2 concentrations
+than currently believed?&lt;/p&gt;
+&lt;p&gt;Predictions of e.g. global temperature alone lack&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the pathway of the policy variable (CO2 concentration), and&lt;/li&gt;
+&lt;li&gt;the relationship between the policy variable and the outcome variable (global temperature).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In monetary policy, the relationship between interest rates (the policy variable)
+and inflation and the output gap (the targets of policy) is known as the &amp;lsquo;Taylor rule&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;There is no &amp;lsquo;Taylor rule&amp;rsquo; for emissions policy over time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;not for one country, and certaintly not across all top emitters&lt;/li&gt;
+&lt;li&gt;the net Zero commitment formally moves toward this, but statements of intention
+do not necessarily translate into operational, enforced regulations in all countries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How can climate-risk information providers resolve this circularity problem?&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data gaps</title>
+      <link>https://CRUCIALab.net/challenge/data-gaps/</link>
+      <pubDate>Sat, 24 Sep 2022 17:00:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/data-gaps/</guid>
+      <description>&lt;p&gt;Data gaps are particularly substantial and pressing for &lt;em&gt;forward-looking&lt;/em&gt; risk information.&lt;/p&gt;
+&lt;p&gt;And where forward-looking information exists, it is largely based on (i) announced intentions, or
+(b) scenarios for which there currently exists no relative likelihood information.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;ngfs-2021-progress-report-on-bridging-data-gapshttpswwwngfsnetsitesdefaultfilesmediasdocumentsprogress_report_on_bridging_data_gapspdf&#34;&gt;&lt;a href=&#34;https://www.ngfs.net/sites/default/files/medias/documents/progress_report_on_bridging_data_gaps.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NGFS (2021) Progress report on bridging data gaps&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Stakeholders report the need for more forward-looking data and granular data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While acknowledging the need for a forward-looking perspective, stakeholders still
+largely rely on metrics that are backward-looking in nature. &amp;hellip;Stakeholders have
+pointed out that they cannot rely on such metrics alone. They also need to finance
+transition and analyse the pathways to climate goals over time by also using forwardlooking metrics.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;ngfs-2022-final-report-on-bridging-data-gapshttpswwwngfsnetsitesdefaultfilesmediasdocumentsfinal_report_on_bridging_data_gapspdf&#34;&gt;&lt;a href=&#34;https://www.ngfs.net/sites/default/files/medias/documents/final_report_on_bridging_data_gaps.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NGFS (2022) Final report on bridging data gaps&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[Credit Rating Agencies] also reported that the biggest gaps are in the forward-looking data, which
+are essential for consistency of accounting treatments and scenario assumptions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The importance of forward-looking data is stressed by the stakeholders.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Recommendation 3: Develop well-defined and decision-useful metrics, and methodological
+standards. To further advance this goal, there is a need to substantially increase the
+harmonisation of forward-looking metrics.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bad Incentives</title>
+      <link>https://CRUCIALab.net/challenge/bad-incentives/</link>
+      <pubDate>Fri, 23 Sep 2022 13:27:43 +0100</pubDate>
+      <guid>https://CRUCIALab.net/challenge/bad-incentives/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;Climate Service Provider&lt;/em&gt; (CSP) industry is growing rapidly to meet demand.&lt;/p&gt;
+&lt;p&gt;In this drive to meet growing demand, a number of issues rooted in adverse incentives have been overlooked.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Issue #1:&lt;/strong&gt; Price competition, asymmetric information, and multi-decadal &amp;lsquo;discovery time&amp;rsquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“In many ways, the marketplace is operating on blind faith in model validation and the
+professional competence in applying those models,” with some, “products and services
+that may be operating outside of the bounds of scientific merit” (&lt;a href=&#34;https://www.science.org/doi/10.1126/science.aay8442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keenan, 2019, &amp;ldquo;A climate
+intelligence arms race in financial markets&amp;rdquo; &lt;em&gt;Science&lt;/em&gt;.&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“If providers of climate forecasts are paid upfront irrespective of accuracy, you don’t need to
+be an economist to spot the problem with that arrangement.” &lt;a href=&#34;https://www.lancaster.ac.uk/lums/news/how-prediction-markets-could-improve-climate-risk-policies-and-investment-decisions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark Roulston&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Issue #2:&lt;/strong&gt; Possibility of &amp;lsquo;results-led&amp;rsquo; research. Parallels with Credit-Rating Agencies pre-2007!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Issue #3:&lt;/strong&gt; The &amp;lsquo;public good&amp;rsquo; nature of much climate-risk information.&lt;/p&gt;
+&lt;p&gt;If privately funded: how to restrict access (to private-good or club-good status) so that
+individual organisations can benefit from funding the development of climate-risk information?&lt;/p&gt;
+&lt;p&gt;If publicly funded: how to fund this very applied type of research, in the required
+frequency of updates, when the output isn’t in the form of a piece of work suitable for a
+high-ranked academic journal?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Issue #4:&lt;/strong&gt; The &amp;lsquo;downscaling&amp;rsquo; from global models is more questionable on multi-decadal horizons of
+climate change.&lt;/p&gt;
+&lt;p&gt;Prcisions vs. accuracy, and &amp;lsquo;false precision&amp;rsquo;. For box-ticking exercises low accuracy might not matter.
+But for informing societally transformative policies, regulations, and business-investment decisions,
+false precision and low accuracy are fundamentally problematic in their consequences: misallocation of effort, resource, and painful sacrifice (which is on the horizon).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction-market innovations can improve climate-risk forecasts</title>
+      <link>https://CRUCIALab.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</link>
+      <pubDate>Thu, 01 Sep 2022 00:01:26 +0100</pubDate>
+      <guid>https://CRUCIALab.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRUCIAL White Paper</title>
+      <link>https://CRUCIALab.net/publication/crucial-white-paper/</link>
+      <pubDate>Fri, 01 Jul 2022 00:01:26 +0100</pubDate>
+      <guid>https://CRUCIALab.net/publication/crucial-white-paper/</guid>
+      <description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What?&lt;/em&gt;&lt;/strong&gt;
+Information markets use market-like 
+mechanisms to elicit and aggregate 
+information. Information markets are not 
+designed to transfer ownership or risk but to 
+exploit the proven ability of markets to 
+discover and synthesize information. 
+Information markets can solve the problems of 
+aggregating diverse climate expertise and
+aligning the incentives of providers. They
+could become the primary mechanism for 
+obtaining forward-looking expertise about 
+climate-related risks.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Why?&lt;/em&gt;&lt;/strong&gt;
+Climate change is recognised as an important 
+source of risk. Regulators now believe that 
+climate-related risks pose, not only a threat to 
+individual firms, but possibly to the stability of 
+the financial system.
+In 2017 the G20’s Task Force on Climate-Related Financial Disclosures (TCFD) 
+published recommendations that firms should 
+disclose forward-looking information about 
+physical and transition climate-related risks. 
+More than two thousand companies have 
+voluntarily signed-up to these 
+recommendations. Regulators and exchanges 
+in many countries plan to make climate-related disclosures mandatory. These trends 
+have created a demand for forward-looking 
+information about climate, such as emissions 
+pathways and changes in physical climate 
+risks. Companies requiring this information 
+are a nascent source of funding for applied 
+climate research. They are particularly 
+interested in the efficiency with which 
+distributed information can be aggregated 
+and communicated for use in decision making 
+and risk management. 
+The marketplace for climate information is 
+diverse and fragmented. Relevant expertise 
+exists in public agencies, academia, think 
+tanks, as well as an emerging class of private 
+companies known as climate service 
+providers (CSPs). Given the long horizons 
+involved, few providers have established track 
+records, so it is difficult for users to evaluate 
+their skill. Furthermore, most forecasts are 
+offered with no warranty. This creates a 
+situation in which bad forecasts can drive out 
+good ones; a situation reminiscent of credit 
+ratings for mortgage-backed securities in the 
+run-up to the subprime crisis.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How?&lt;/em&gt;&lt;/strong&gt;
+We propose a climate information exchange 
+that hosts markets predicting climate-related 
+variables. These variables will include high-level ones, such as global greenhouse gas 
+concentrations, and more granular ones like
+sea-level rise in specific locations. Market 
+participants will include individuals and 
+institutions with expertise across the range of 
+disciplines relevant to climate forecasting, 
+including meteorology, climatology, 
+economics, social sciences, and policy. 
+Participants will use on-platform credits 
+representing a claim on a proportion of 
+research funds distributed through the 
+exchange. These funds will come from public, 
+private, and philanthropic sources interested 
+in effective altruism.
+The exchange will use AGORA, developed by 
+Hivemind Technologies Ltd. AGORA has been 
+used to run expert information markets for 
+seasonal forecasts, El Niño events, Atlantic 
+hurricane activity, and crop yields. AGORA
+solves several problems that have afflicted 
+previous attempts to create information 
+markets for climate: an automated market 
+maker guarantees liquidity allowing markets 
+to function in the absence of uninformed 
+“noise” traders. AGORA supports very large 
+outcome spaces, enabling consensus 
+probability distributions to be extracted, not 
+just probabilities for binary events.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Where?&lt;/em&gt;&lt;/strong&gt;
+Many of the markets will have horizons of 
+more than a decade. The consensus forecasts 
+generated will be a public good, to be 
+distributed for free. There is a strong case for 
+the exchange to be hosted by a university, 
+which will become a hub for international 
+climate expertise.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why no climate warranties?</title>
+      <link>https://CRUCIALab.net/post/why-no-climate-warranties/</link>
+      <pubDate>Thu, 10 Mar 2022 18:41:05 +0100</pubDate>
+      <guid>https://CRUCIALab.net/post/why-no-climate-warranties/</guid>
+      <description>&lt;p&gt;The market for climate risk forecasts suffers from a problem economists call 
+“asymmetric information”: the sellers of forecasts probably know more about their 
+accuracy than the buyers. A short or medium range weather forecast can be verified 
+in a couple of weeks, and reasonable statistics about their accuracy can be 
+accumulated in a matter of months but, because a climate forecast might not verify 
+for years or decades, buyers cannot usually use a forecaster’s track record to assess 
+their accuracy. A market in which the quality of a product won’t be apparent for years 
+is susceptible to “adverse selection”, which is economists’ way of saying it will be 
+a magnet for charlatans. This creates a challenge for providers of climate forecasts 
+who are competent and have invested in research and development to improve the accuracy: 
+how can they persuade buyers that &lt;em&gt;they&lt;/em&gt; are not charlatans?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Talk is cheap.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Climate service providers can emphasise their credentials and highlight the scientific 
+effort that goes into their products; they might allow users to see how their models 
+work &amp;mdash; although many users don’t have the expertise to assess the models, and if the 
+seller uses proprietary models this might not be option anyway. The problem with these 
+solutions is that “talk is cheap”, and it is difficult for a buyer to distinguish 
+authentic expertise from slick marketing.&lt;/p&gt;
+&lt;p&gt;The economist George Akerlof, who won a Nobel Prize for his work on information 
+asymmetries, explained the problem in a &lt;a href=&#34;https://www.jstor.org/stable/1879431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;classic paper published in 1970&lt;/a&gt; which 
+described the market for used cars. As with climate forecasts, it is difficult 
+for the buyer of a used car to know its quality and, also like climate forecasts, 
+a car is an infrequent purchase so there is little opportunity to accumulate much 
+first-hand knowledge about the reliability of a seller. These attributes made the 
+market for used cars attractive to less-than-reputable characters, creating the 
+stereotype of the untrustworthy used-car dealer.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Dealers offered warranties to differentiate themselves from competitors.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The reputation of used-car dealers has improved since the 1970s, partly because 
+the sector adopted one of the strategies for dealing with asymmetric information 
+described by Akerlof: offering cash back warranties. In the U.K. used-car 
+warranties became mandatory in 2015, but even before then, dealers offered 
+warranties to differentiate themselves from competitors and enable them to 
+charge higher prices.&lt;/p&gt;
+&lt;p&gt;A promise of a refund if a product fails can serve two distinct purposes: 
+indemnifying the buyer for losses caused by the failure and providing a credible 
+signal that the seller believes failure is unlikely. An inaccurate climate 
+forecast may cause the user a loss far above the price they paid for the forecast: 
+for example, they may build sea defences that are too low, or too high. While a 
+forecast provider might not be able to indemnify the user against all costs, 
+they can still offer a refund to signal their confidence in the accuracy of the 
+forecast. The credibility of the signal is determined, not by whether the refund 
+will compensate the user, but whether it will be painful for the provider.&lt;/p&gt;
+&lt;p&gt;Climate forecasts, generally, are not categorically right or wrong: they are 
+probabilistic forecasts — or they should be — in which probabilities are assigned 
+to specified outcomes. How could the terms of a refund be structured for this type 
+of product? There is a literature on this subject going back 70 years, when &lt;a href=&#34;https://journals.ametsoc.org/view/journals/mwre/78/1/1520-0493_1950_078_0001_vofeit_2_0_co_2.xml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glenn 
+Brier introduced a quadratic scoring rule for assessing probability forecasts&lt;/a&gt; and 
+&lt;a href=&#34;https://www.jstor.org/stable/2984087&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I.J. Good suggested the logarithmic scoring rule as a way to reward forecasters.&lt;/a&gt; 
+Since then more work has been done on the concept of &lt;a href=&#34;https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“proper scoring rules”&lt;/a&gt; for 
+incentivizing forecasters. More recently, proper scoring rules have been &lt;a href=&#34;https://www.jstor.org/stable/43189651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suggested 
+as the basis for incentives that screen the views of informed and uninformed experts 
+when only a single forecast is being made.&lt;/a&gt; There are subtleties to be appreciated, 
+and pitfalls to avoid, but in principle a proper scoring rule could be used to 
+evaluate the quality of a probabilistic forecast and determine the refund to which 
+the buyer is entitled. This can only be done when the actual outcome becomes known, 
+which in some cases may be more than twenty years after the forecast is made. Some 
+people might think that providing a warranty on a timescale of decades is 
+unrealistic but other industries do it: e.g., 10-year structural warranties for 
+new houses or the lifetime warranties offered by high-end manufacturers that can 
+be claimed decades after a product is purchased. It is also analogous to deferring 
+bonuses in the finance industry. Climate service providers unwilling to expose 
+themselves to some risk on climatic timescales are arguably in the wrong business.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“A well-structured warranty can be used to communicate how much confidence a forecast provider has.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The information asymmetry in the market for climate forecasts is at least as bad 
+as the one for used cars, so why aren’t warranties commonplace? There is no need 
+for a regulator to force forecasters to provide warranties. As with used-cars, 
+any provider is free to unilaterally offer warranties to differentiate themselves. 
+One possibility is that few climate service providers have enough confidence in 
+their forecasts to give warranties. However, a probabilistic forecast combined 
+with a well-structured warranty can be used to communicate how much (or little) 
+confidence a forecast provider has, and this is information that the forecast user 
+should want. An alternative explanation is that there is little demand from buyers 
+for sellers to provide a credible signal of their confidence in forecast accuracy. 
+This interpretation is consistent with the view that buyers of climate risk 
+information use it to satisfy regulators, auditors, or other stakeholders, but 
+aren’t really worried about its accuracy; they just need it to give them “plausible 
+deniability”. Worse than indifference, is the possibility that some organisations 
+&lt;em&gt;want&lt;/em&gt; inaccurate forecasts. Back in the early 2000s, the issuers of mortgage-backed 
+securities didn’t want accurate credit ratings for them, they wanted top-notch 
+ratings, even if these did not reflect the true risk of default. These issuers would 
+play rating agencies off against each other to get their desired ratings, and the 
+ensuing proliferation of mis-rated securities contributed to the subprime crisis of 
+2007/08.&lt;/p&gt;
+&lt;p&gt;End-users of climate risk forecasts who care about accuracy should signal their 
+commitment by being prepared to pay more for forecasts that come with a warranty. 
+This will motivate reputable providers to offer such guarantees, thus differentiating 
+themselves from less able providers. Without a strategy to combat asymmetric 
+information about climate forecasts it is possible that climate service providers 
+will gradually acquire the reputation of 1970s used-car dealers.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This article originally appeared on Medium as &lt;a href=&#34;https://medium.com/@Mark_Roulston/why-no-climate-warranties-c32abe91b181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Why no climate warranties?&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction Markets for Climate Risk</title>
+      <link>https://CRUCIALab.net/event/woburn-house/</link>
+      <pubDate>Tue, 08 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>https://CRUCIALab.net/event/woburn-house/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_bbaf7be3e1d055acc9000e42308a8640.webp 400w,
+               /event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_211850a605332e1c963f20259709b4d8.webp 760w,
+               /event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_bbaf7be3e1d055acc9000e42308a8640.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;144&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;industry-and-academic-leaders-come-together-for-climate-risk-workshop&#34;&gt;Industry and academic leaders come together for climate risk workshop&lt;/h1&gt;
+&lt;p&gt;An event co-organised by a Lancaster University Management School economist brought industry and academic figures together to discuss the links between investment strategies and climate change.&lt;/p&gt;
+&lt;p&gt;Dr Kim Kaivanto (Economics) was part of the team behind the Workshop on Prediction Markets for Climate Risk, held at Woburn House, in London.&lt;/p&gt;
+&lt;p&gt;Researchers and academics with expertise in market mechanisms and climate risk from Lancaster University, Oxford University, the University of Exeter, Imperial College London, the University of Reading and the London School of Economics attended the event online and in-person.&lt;/p&gt;
+&lt;p&gt;They were joined by representatives of organisations concerned about the accuracy of the climate information they use for decision making, risk management and risk disclosure. These included Aviva, Gallagher Re, Axa XL, BNP Paribas, Premetrica, Economics for the Environment Consultancy, National Bank of Belgium, Weather Logistics Ltd., Global Assoc Risk Professionals, Insight Investment, APG Asset Management, Jupiter Intelligence, Federated Hermes, and Smarkets.&lt;/p&gt;
+&lt;p&gt;Dr Kaivanto said: “Many planning and investment decisions require an understanding of how future climate change will manifest itself. There are many sources of information and expertise, but decision-makers face significant difficulties in accessing, interpreting, and appraising it.&lt;/p&gt;
+&lt;p&gt;“This workshop provided the opportunity for academia and finance professionals to discuss how we can establish a UK-based prediction market exchange that will seek to deliver robust and publicly available climate forecasts. It could serve as a mechanism to fund research that targets the highest priority climate risks of sponsoring institutions in an incentive compatible way for providers.”&lt;/p&gt;
+&lt;p&gt;In his presentation at Woburn House, Dr Kaivanto outlined structural issues with the climate risk information and forecast markets, including how the decadal “discovery times” required to ascertain the accuracy of climate forecasts creates an information asymmetry in which providers are likely to know more about the quality of the forecasts than users. This asymmetry makes the market vulnerable to adverse selection in which low-quality forecasts drive out higher-quality forecasts.&lt;/p&gt;
+&lt;p&gt;He also discussed the potential risks of relying on single models and providers for climate risk assessment, and the circularity problem in climate prediction, and how it might be solved by allowing forecasters to make predictions of climate conditioned on greenhouse gas concentrations, which is possible using two-dimensional, joint-outcome markets (e.g. CO2 concentration and global temperature anomaly).&lt;/p&gt;
+&lt;p&gt;The session concluded that participants in prediction markets should be seen as sources of information who are rewarded for impounding their information into prediction market prices, not as sources of revenue for the market maker, or for better-informed or quicker market participants. Selection of participants – potentially restricted to individuals or organisations (academic, private sector or NGOs) – would allow for a diverse and credible pool of expertise, adding to the credibility of the markets.&lt;/p&gt;
+&lt;p&gt;Participants also concluded that the information the markets would generate would have the attributes of a ‘public good’: non-rival and non-excludable, with funding typically from governments, philanthropic foundations, or consortia of end-users – the latter of whom could limit access to the information, for more of a ‘club good’.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This report on the workshop originally appeared &lt;a href=&#34;https://www.lancaster.ac.uk/lums/news/industry-and-academic-leaders-come-together-for-climate-risk-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cost witout benefit</title>
+      <link>https://CRUCIALab.net/post/cost-without-benefit/</link>
+      <pubDate>Fri, 17 Dec 2021 18:41:05 +0100</pubDate>
+      <guid>https://CRUCIALab.net/post/cost-without-benefit/</guid>
+      <description>&lt;p&gt;In 1970, the economist George Akerlof published what would become a classic paper called, 
+“&lt;a href=&#34;https://www.jstor.org/stable/1879431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Market for Lemons: Quality Uncertainty and Market Mechanisms.&lt;/a&gt;” The “lemons” he was 
+referring to were low-quality used cars. His insight was that, in markets where buyers 
+cannot evaluate products, they will not pay a premium for purported high quality. This, 
+in turn, will give sellers little incentive to provide high quality products. Consequently, 
+the average quality of products in the market declines, further reducing the amount buyers 
+are willing to pay. In economics jargon an “information asymmetry” between buyers and sellers 
+results in “adverse selection”. The process identified by Akerlof is now a textbook example 
+of market failure.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A buyer of short-range weather forecasts does not need to know about meteorology to evaluate them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The used car market is not the only one susceptible to the “lemon” problem. (Ironically, in the market for actual lemons, buyers can easily assess freshness and taste). A rapidly growing market that is also vulnerable is the one for information about long-range climate risks. A buyer of short-range weather forecasts does not need to know about meteorology to evaluate them. They just need to know some statistics and be able to collect a sufficiently large sample of forecasts and subsequent outcomes to estimate the skill of the provider. For forecasts 1–2 days ahead, this sample might be obtained in a matter of months. However, companies increasingly need forecasts of climate-related risks on horizons of years, and even decades. Obviously, on these time scales, waiting to see how forecasts turn out before choosing a provider is not practical. Some providers want to keep their models and methods proprietary, but even with full transparency it can be hard for non-specialists to judge their quality. When a market has these characteristics, buyers need to be alert to the danger that bad products will crowd out good ones.&lt;/p&gt;
+&lt;p&gt;There are theoretical reasons why the quality of climate information may deteriorate, but is 
+there evidence of this happening in practice? In 2019, an &lt;a href=&#34;https://www.science.org/doi/10.1126/science.aay8442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article in Science&lt;/a&gt; suggested that 
+some climate information products might be “&amp;hellip;operating outside of the bounds of scientific merit” 
+and, if you work in the field of climate risk, you have probably heard stories of providers 
+pushing precision and granularity beyond what is scientifically plausible. But is there systematic 
+evidence that some climate information has a lemon flavour?&lt;/p&gt;
+&lt;p&gt;Shortcomings in long-range climate-related predictions might not become apparent for years but there are already indications of problems. Hain et al. recently looked at six different metrics of firm-level exposure to physical climate risks. Three of the measures, from TruCost (part of S&amp;amp;P), Carbon4 Finance and South Pole, were based on the output of climate models, while the other three, from Truvalue Labs (part of FactSet) and two academic groups were constructed by analysing the content of social media, earnings calls and 10-K filings. The correlations between the metrics were generally low, both overall and within specific sectors. Indeed, after allowing for the multiplicity of correlations tested, there were arguably no significant correlations between different metrics. Think about this for a moment: six metrics all claiming to measure the same thing, or at least to be proxies for the same thing, yet they don’t correlate with each other. Even the most generous interpretation implies that most of the metrics contain little information about the common factor they claim to measure. Perhaps one of the metrics is a good measure, but which one? Perhaps none of the metrics are informative. Consider an analogy in which there are six different blood tests to measure the same substance, but when hundreds of subjects are given all six tests there is no correlation between the results. Would a doctor base clinical decisions on any of these tests? Would a medical regulator allow such a situation?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By the time the accuracy becomes apparent all those involved are likely to have moved on.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The problem of information asymmetry between buyers and sellers might be compounded when the buyers of climate information are not concerned with the accuracy of the information either. Much of the demand for forward-looking climate information is driven by regulators and shareholders expecting firms to disclose their climate-related risks. The exercise is one of “putting numbers in boxes”, and by the time the accuracy of the numbers becomes apparent, all those involved are likely to have moved on. This is not conducive to accurate disclosure.&lt;/p&gt;
+&lt;p&gt;At this point, you might protest that there are many people involved in climate-risk who want to provide accurate and rigorous information that is supported by science, and there are many people who want such information to make accurate disclosures of risk to shareholders. This is true, but it misses the point: the problems in the market for climate-risk information are structural. The used-car market did not become a market for lemons because it was populated by untrustworthy salesmen; it attracted and created the stereotype of the used-car salesman because of its intrinsic information asymmetries.&lt;/p&gt;
+&lt;p&gt;If information asymmetry and the potential for adverse selection in the market for forward-looking climate information is not addressed, it is likely that more evidence will accumulate that undermines the credibility of climate-related risk disclosures. This will make mandatory disclosures a cost to businesses without any offsetting benefit to society.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This article originally appeared on Medium as &lt;a href=&#34;https://medium.com/@Mark_Roulston/how-climate-related-risk-disclosures-could-become-a-cost-without-a-benefit-e74085062e31&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How climate-related risk disclosures could become a cost without a benefit&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How good are AGORA forecasts?</title>
+      <link>https://CRUCIALab.net/post/how-good-are-agora-forecasts/</link>
+      <pubDate>Tue, 24 Nov 2020 18:41:05 +0100</pubDate>
+      <guid>https://CRUCIALab.net/post/how-good-are-agora-forecasts/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;“Calibration means the frequency of events matches their predicted probabilities”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are two desirable characteristics that probability forecasts should have: 
+&lt;em&gt;calibration&lt;/em&gt; and &lt;em&gt;sharpness&lt;/em&gt;. Calibration means that the frequency of events matches 
+their predicted probabilities while sharpness refers to how often predicted probabilities 
+are close to 0% or 100% for binary forecasts or how narrow the forecast distribution is 
+for a numerical value. Making sharp forecasts is trivial if you don’t care about 
+calibration, so in this blog we will investigate whether forecasts produced by AGORA 
+are calibrated.&lt;/p&gt;
+&lt;p&gt;If I predict a 90% chance of an event occurring and it doesn’t happen then I am not 
+wrong because I allowed for a 10% chance of it not happening. If, however, I repeatedly 
+predict a 90% chance of things occurring and they keep failing to happen you will lose 
+confidence in my ability as a forecaster. This is because my forecasts are not well
+calibrated. Calibration means the frequency of events matches their predicted 
+probabilities: for example, if you record all the times I said there was a 60% 
+chance of something occurring, that something should have happened 60% of those times.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-an-illustration-of-the-percentiles-of-a-predicted-probability-distribution-if-the-predicted-distribution-is-well-calibrated-there-is-a-5-chance-the-actual-value-will-fall-below-the-5th-percentile-a-25-chance-it-will-fall-below-the-25th-percentile-etc&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Normal distribution&#34; srcset=&#34;
+               /post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_fc503aa7bd30259b584e0a144a443119.webp 400w,
+               /post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_f62d7ff834d5460c18e741deda1c933b.webp 760w,
+               /post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_fc503aa7bd30259b584e0a144a443119.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;632&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 1&lt;/strong&gt;: An illustration of the percentiles of a predicted probability distribution. If the predicted distribution is well calibrated there is a 5% chance the actual value will fall below the 5th percentile, a 25% chance it will fall below the 25th percentile etc.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For well calibrated forecasts of numerical values half the time the actual value 
+should fall below the median (50th percentile) of the predicted distribution and 
+half the time it should fall above it. Similarly, the actual value should fall 
+below the 10th percentile of the predicted distribution in 10 per cent of cases, 
+below the 20th percentile in 20 per cent of cases, and so on. These percentiles 
+are illustrated in Figure 1. If we plot the percentage of forecasts for which the
+actual value falls below a given percentile of the forecast distribution we should 
+get a diagonal line. Because we have a finite number of forecasts there will be 
+deviations from this line, even if the forecasts are perfectly calibrated, with 
+the size of the deviations shrinking as the number of forecasts used in the analysis 
+increases.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-a-calibration-plot-for-23-agora-probabilistic-at-a-normalized-lead-time-of-075-after-25-of-the-time-between-opening-and-settlement-has-elapsed-the-grey-envelope-shows-the-amount-of-deviation-from-the-diagonal-that-can-be-expected-if-the-23-forecasts-were-perfectly-calibrated-the-plot-is-consistent-with-agora-forecasts-being-well-calibrated&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;0.75 lead-time calibration plot&#34; srcset=&#34;
+               /post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_08efc9f35ac03b8a8b2260125e2bc06c.webp 400w,
+               /post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_cba2f8ed7de98267aee30bcb80bb29eb.webp 760w,
+               /post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_08efc9f35ac03b8a8b2260125e2bc06c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;759&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 2&lt;/strong&gt;: A calibration plot for 23 AGORA probabilistic at a normalized lead time of 0.75 (after 25% of the time between opening and settlement has elapsed). The grey envelope shows the amount of deviation from the diagonal that can be expected if the 23 forecasts were perfectly calibrated. The plot is consistent with AGORA forecasts being well calibrated.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;When performing a calibration analysis we need to choose a forecast lead time. If 
+all the forecasts in the analysis are of the same type then this is straightforward: 
+for example, we might want to check the calibration of rainfall forecasts 3 days 
+before the target date. If, however, we are dealing with different types of forecasts, 
+choosing a common lead time might not make sense: Harold Wilson said that, “A week 
+is a long time in politics”, but a week is no time at all in climate prediction. We 
+will express all lead times relative to the duration of the prediction market: A 
+normalized lead time of 0.25 means that a quarter of the time between opening and 
+settlement remains until settlement.&lt;/p&gt;
+&lt;p&gt;Figure 2 shows the calibration of 23 AGORA forecasts. The forecasts included in 
+the analysis were all the public markets that have been run on the AGORA platform 
+with cash incentives for participants. This includes predictions of monthly UK 
+temperature, values of an El Niño-Southern Oscillation index and monthly totals 
+of COVID-19 cases in the U.S. The yellow line follows the diagonal with some 
+deviations but the deviations lie within the grey envelope, which indicates how 
+much deviation would occur with 23 perfectly calibrated forecasts.&lt;/p&gt;
+&lt;p&gt;Figures 3 and 4 show the calibration plot for normalized lead time of 0.50 and 
+0.25. The plot for 0.25 suggests the frequency of the actual value falling below 
+the median is only about 30% although this deviation is still consistent with 
+calibrated forecasts due to the relatively small number of forecasts in the analysis.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-as-figure-2-but-for-a-normalized-lead-time-of-05&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;0.50 lead-time calibration plot&#34; srcset=&#34;
+               /post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_9e1685bca80c36af472c9cf6ba8c8d47.webp 400w,
+               /post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_1ab5b4c3a7081951e3e912026d63ccb7.webp 760w,
+               /post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_9e1685bca80c36af472c9cf6ba8c8d47.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;759&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 3&lt;/strong&gt;: As figure 2 but for a normalized lead time of 0.5
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-4-as-figure-2-but-for-a-normalized-lead-time-of-025&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;0.25 lead-time calibration plot&#34; srcset=&#34;
+               /post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_6954c7242f4ae369301b6edeab448e6f.webp 400w,
+               /post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_016c76393c339ca7faba61fd8344d5e8.webp 760w,
+               /post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_6954c7242f4ae369301b6edeab448e6f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;759&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 4&lt;/strong&gt;: As figure 2 but for a normalized lead time of 0.25
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“AGORA forecasts are consistent with being well calibrated.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These results show the AGORA forecasts are consistent with being well calibrated 
+so it is not unreasonable to take the probabilities that AGORA produces at face 
+value. Prescriptions of how to make rational decisions in the face of uncertainty 
+often assume that quantitative probabilities can be assigned to potential outcomes. 
+AGORA prediction markets can be used as a source of these probabilities.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This article originally appeared on Medium as &lt;a href=&#34;https://medium.com/hvmd/how-good-are-agora-forecasts-8065bf372067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How good are AGORA forecasts?&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://CRUCIALab.net/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://CRUCIALab.net/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

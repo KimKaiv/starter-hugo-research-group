@@ -1,0 +1,1665 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Kim Kaivanto" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Complex statistical analysis and mathematical modelling involve multitudes of choices and assumptions. Recent &ldquo;many analysts, one data set&rdquo; studies show the danger of relying solely on one research team.
+Here we present several examples from this literature." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://CRUCIALab.net/challenge/abundance-of-choice/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.5707bae28a49ccd4e72ceb69e62e6fe1.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://CRUCIALab.net/challenge/abundance-of-choice/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@wowchemy" />
+    <meta property="twitter:creator" content="@wowchemy" />
+  
+  <meta property="og:site_name" content="CRUCIAL" />
+  <meta property="og:url" content="https://CRUCIALab.net/challenge/abundance-of-choice/" />
+  <meta property="og:title" content="Abundance of Choice | CRUCIAL" />
+  <meta property="og:description" content="Complex statistical analysis and mathematical modelling involve multitudes of choices and assumptions. Recent &ldquo;many analysts, one data set&rdquo; studies show the danger of relying solely on one research team.
+Here we present several examples from this literature." /><meta property="og:image" content="https://CRUCIALab.net/challenge/abundance-of-choice/featured.png" />
+    <meta property="twitter:image" content="https://CRUCIALab.net/challenge/abundance-of-choice/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-09-24T17:28:43&#43;01:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-09-24T17:28:43&#43;01:00">
+  
+
+  
+
+
+
+  
+
+  
+
+
+  <title>Abundance of Choice | CRUCIAL</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="65c4910dd99b42bbcb4c8715818c6a90" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">CRUCIAL</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">CRUCIAL</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#welcome"><span>Intro</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#challenge"><span>Challenges</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#agora"><span>AGORA</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#data"><span>Data</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#events"><span>Events</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#backers"><span>Backers</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Abundance of Choice</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 24, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 384px;">
+  <div style="position: relative">
+    <img src="/challenge/abundance-of-choice/featured_hu7bbcf7c972a3fda5dc61fa5ece07ec60_1755666_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="384" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Complex statistical analysis and mathematical modelling involve multitudes of
+choices and assumptions. Recent <em>&ldquo;many analysts, one data set&rdquo;</em> studies show the
+danger of relying solely on one research team.</p>
+<p>Here we present several examples from this literature.</p>
+<br> 
+<h2 id="silberzahn-et-al-2018httpsjournalssagepubcomdoiabs1011772515245917747646-----social-science-psychology"><a href="https://journals.sagepub.com/doi/abs/10.1177/2515245917747646" target="_blank" rel="noopener">Silberzahn et al. (2018)</a> &mdash; social science, psychology</h2>
+<blockquote>
+<p>Twenty-nine teams involving 61 analysts used the same data set to address the same
+research question: whether soccer referees are more likely to give red cards to
+dark-skin-toned players than to light-skin-toned players. &hellip;Twenty teams (69%) found a
+statistically significant positive effect, and 9 teams (31%) did not observe a significant
+relationship. Overall, the 29 different analyses used 21 unique combinations of covariates.
+<em>&hellip;significant variation in the results of analyses of complex data may be difficult
+to avoid, even by experts with honest intentions.</em></p>
+</blockquote>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-table-covariates-included-by-each-team">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Covariates included by each team" srcset="
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_0bf380a3f7d7296e188a98256b7ff0e7.webp 400w,
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_f6af3706076fddae0d7b0e6a2d51f33f.webp 760w,
+               /challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/challenge/abundance-of-choice/silber_table_hucff2bad6104e6c8ad58ba87240b01630_143415_0bf380a3f7d7296e188a98256b7ff0e7.webp"
+               width="760"
+               height="283"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Table: Covariates included by each team.
+    </figcaption></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-figure-odds-ratios-across-29-teams">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Odds Ratios across 29 teams" srcset="
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_3c2e96873026dd2b8ba9f03ba84a87ee.webp 400w,
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_43c18810f7705b2c7bf9612fe0a3a906.webp 760w,
+               /challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/challenge/abundance-of-choice/silber_ORs_by_team_hub94d93adb1091de03a6f2571854b40c8_373684_3c2e96873026dd2b8ba9f03ba84a87ee.webp"
+               width="760"
+               height="408"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Figure: Odds ratios across 29 teams.
+    </figcaption></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-figure-or-point-estimates-clustered-by-analytic-approach">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="OR point estimates clustered by analytic approach" srcset="
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_cb89893110826cb53b03f39d7beef117.webp 400w,
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_c20f5003f5948319eb4eecd99225a541.webp 760w,
+               /challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/challenge/abundance-of-choice/silber_ORs_by_analytic_approach_hue12b52ba6f142b35d3da4c25d1212a03_822901_cb89893110826cb53b03f39d7beef117.webp"
+               width="760"
+               height="444"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Figure: OR point estimates clustered by analytic approach.
+    </figcaption></figure>
+</p>
+<blockquote>
+<p>The observed results from analyzing a complex data set
+can be highly contingent on justifiable, but subjective,
+analytic decisions. Uncertainty in interpreting research
+results is therefore not just a function of statistical power
+or the use of questionable research practices; it is also
+a function of the many reasonable decisions that
+researchers must make in order to conduct the research.</p>
+</blockquote>
+<br> 
+<h2 id="huntington-klein-et-al-2021httpsonlinelibrarywileycomdoiepdf101111ecin12992-----economics"><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecin.12992" target="_blank" rel="noopener">Huntington-Klein et al. (2021)</a> &mdash; economics</h2>
+<p>These researchers ask whether two published empirical studies reporting causal
+empirical results replicate when this is attempted by multiple research teams.</p>
+<ol>
+<li>Black et al. (2008) Staying in the classroom and out of the maternity ward?
+The effect of compulsory schooling laws on teenage births. <em>The Economic Journal</em>,
+118(530): 1025&ndash;1054. <a href="https://academic.oup.com/ej/article-abstract/118/530/1025/5089485" target="_blank" rel="noopener">Link</a></li>
+<li>Fairlie et al. (2011) Is employer-based health insurance a barrier to entrepreneurship?
+<em>Journal of Health Economics</em>, 30(1): 146&ndash;162. <a href="https://www.rand.org/pubs/working_papers/WR637-1.html" target="_blank" rel="noopener">Link</a></li>
+</ol>
+<p>They recruit 49 published researchers to participate in replication teams.</p>
+<p>After attrition (due to a short completion window), they obtained 7 independent
+replications of each study.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-figure-results-from-compulsory-education-1-replication-study">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Compulsory education" srcset="
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_3bd7d97ba3139c197adbe686d8728a8e.webp 400w,
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_ed5f9216e153b118d9c09b6d681727d5.webp 760w,
+               /challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/challenge/abundance-of-choice/hk_compulsory_education_huf21826a9f73f65d5737f6ada49f4b8c0_53902_3bd7d97ba3139c197adbe686d8728a8e.webp"
+               width="760"
+               height="400"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Figure: Results from compulsory education (#1.) replication study.
+    </figcaption></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-figure-results-from-health-insurance-2replication-study">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Health insurance" srcset="
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_db3d51769d1136830b493f302b04d0a8.webp 400w,
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_5887a29f709deb71f404a5b5ba7d04d4.webp 760w,
+               /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_db3d51769d1136830b493f302b04d0a8.webp"
+               width="760"
+               height="396"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Figure: Results from health insurance (#2.)replication study.
+    </figcaption></figure>
+</p>
+<blockquote>
+<p>Researchers make hundreds of decisions about data collection, preparation, and
+analysis in their research. &hellip;We find large differences in data preparation and analysis
+decisions, many of which would not likely be reported in a publication. No two
+replicators reported the same sample size. Statistical significance varied across
+replications, and for one of the studies the effect&rsquo;s sign varied as well. <em>The
+standard deviation of estimates across replications was 3&ndash;4 times the mean reported
+standard error.</em></p>
+</blockquote>
+<br> 
+<h2 id="breznau-et-al-2022httpsosfiopreprintsmetaarxivcd5j9-----economics-statistics"><a href="https://osf.io/preprints/metaarxiv/cd5j9/" target="_blank" rel="noopener">Breznau et al. (2022)</a> &mdash; economics, statistics</h2>
+<p>These authors settle on the research question: <em>does immigration reduce support for
+social policies among the public</em>?</p>
+<p>They recruited 162 participants across 73 teams.</p>
+<p>Each team was provided with a database of answers to a 6-question module on the
+role of government in providing different social services, which is part of the
+long-running International Social Survey Programme (ISSP). They were also provided
+with a wide range of World Bank, OECD, and immigration data.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-figure-variation-in-average-marginal-effect-ame-across-73-teams-testing-the-same-hypothesis-with-the-same-data-ame-point-estimate-and-confidence-interval-for-each-team">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Variation in AME" srcset="
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_58f07cd358dace17379381d4fdbc2b01.webp 400w,
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_25d85ce1a5be31be26ea2254995ddad8.webp 760w,
+               /challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/challenge/abundance-of-choice/breznau_AME_hudff59ae9cfb36d6ff6cae1eec6b9b4d0_167941_58f07cd358dace17379381d4fdbc2b01.webp"
+               width="760"
+               height="455"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Figure: Variation in Average Marginal Effect (AME) across 73 teams testing the same hypothesis with the same data. AME, point estimate, and Confidence Interval for each team.
+    </figcaption></figure>
+</p>
+<blockquote>
+<p>&hellip;major research steps explain at most 2.6% of total variance in effect sizes and
+10% of the deviance in subjective conclusions. Expertise, prior beliefs and attitudes
+explain even less. <em>Each generated model was unique, which points to a vast universe
+of research design variability normally hidden from view</em> in the presentation, consumption,
+and perhaps even creation of scientific results.</p>
+</blockquote>
+<br> 
+<h2 id="synopsis">Synopsis</h2>
+<p>These studies have explicit selection criteria to ensure that they recruit only competent
+researchers.</p>
+<p>Prior to studies of this nature, the &ldquo;degrees of freedom&rdquo; inherent in empirical
+analysis were not fully appreciated by researchers.</p>
+<p>More than abundance of choice, these studies reveal a vast universe of previously hidden
+research-design and analysis-operationalisation variability.</p>
+<br> 
+<br> 
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://CRUCIALab.net/challenge/abundance-of-choice/&amp;text=Abundance%20of%20Choice" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://CRUCIALab.net/challenge/abundance-of-choice/&amp;t=Abundance%20of%20Choice" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Abundance%20of%20Choice&amp;body=https://CRUCIALab.net/challenge/abundance-of-choice/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://CRUCIALab.net/challenge/abundance-of-choice/&amp;title=Abundance%20of%20Choice" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Abundance%20of%20Choice%20https://CRUCIALab.net/challenge/abundance-of-choice/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://CRUCIALab.net/challenge/abundance-of-choice/&amp;title=Abundance%20of%20Choice" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/kim-kaivanto/"><img class="avatar mr-3 avatar-circle" src="/author/kim-kaivanto/avatar_hu3de92b8f3607bd476e6ade6a8ae183a7_95810_270x270_fill_q75_lanczos_center.jpg" alt="Kim Kaivanto"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/kim-kaivanto/">Kim Kaivanto</a></h5>
+      <h6 class="card-subtitle">Senior Lecturer in Economics</h6>
+      <p class="card-text">economics and finance, normative and behavioural, academic and applied</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Kim_Kaivanto" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://orcid.org/0000-0002-5309-4157" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/cue4ward" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/kimkaivanto/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 Kim Kaivanto. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.54dd6e4d8f2e4b1d098381b57f18dd83.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
