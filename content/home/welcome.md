@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -86,4 +85,4 @@ design:
   background:
     image: welcome.jpg
 ---
->>>>>>> d80980544ef9acb4c969e421b6c6c668a2703438
+
