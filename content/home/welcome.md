@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -70,3 +71,19 @@ advanced:
 <br>
 
 ## **We employ *expert prediction markets* -- hosted on the AGORA prediction-market platform -- to elicit, aggregate, and summarise knowledge on future climate risks, drawing on expertise from diverse areas of physical, social, and policy science.** 
+=======
+widget: hero
+headless: true
+weight: 10
+title: CUCIAL
+hero_media: welcome.jpg
+widget_id: welcome-banner
+active: true
+design:
+  columns: "1"
+  css_style: null
+  css_class: null
+  background:
+    image: welcome.jpg
+---
+>>>>>>> d80980544ef9acb4c969e421b6c6c668a2703438
