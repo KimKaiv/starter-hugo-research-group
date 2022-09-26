@@ -27,6 +27,6 @@ design:
   #   4 = Citation
   #   5 = Showcase  
   # masonry
-  view: 3
+  view: 5
   columns: '1'
 ---

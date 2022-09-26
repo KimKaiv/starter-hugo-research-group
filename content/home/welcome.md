@@ -9,12 +9,11 @@ weight: 10        # Order that this section will appear.
 #title: ""
 
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
+# # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  # Add custom styles
+# # Add custom styles
 #  css_style:
 #  css_class:
-  #
   background:
     # Name of image in `assets/media/`.
     image: welcome.png
@@ -25,7 +24,7 @@ design:
     # Options include `left`, `center` (default), or `right`. [or top!]
     image_position: bottom
     # Use a fun parallax-like fixed background effect on desktop? true/false
-    image_parallax: true
+    image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
   spacing:
@@ -35,6 +34,7 @@ design:
 advanced:    
   css_class: fullscreen 
 
+##
 ## Many planning, policy, and investment decisions require high-quality information on 
 ## the risks and uncertainties of future climate change. While there are many relevant 
 ## sources of information and expertise, decision makers face significant difficulties 
@@ -45,17 +45,20 @@ advanced:
 ## the need for a level playing field among a diverse range of scientific and social-
 ## scientific disciplines, the circularity problem in unconditional forecasts, and 
 ## persistent data gaps. 
-
+##
 ---
 
 <br>
 
-# **Climate Risk and Uncertainty Collective Intelligence Aggregation Laboratory**
+# <span style="font-size:60px">**C R U C I A L**</span>
 
 <br>
+
+## <font size="7">**Climate Risk and Uncertainty Collective Intelligence Aggregation Laboratory**</font>
+
 <br>
 
-## **CRUCIAL's mission is to deliver calibrated, high-quality climate-risk forecasts.** 
+## **CRUCIAL's mission is to deliver calibrated, high-quality climate-risk forecasts.**
 
 <br>
 
