@@ -1,38 +1,34 @@
 ---
 # Display name
-title: Kim Kaivanto 
+title: Todd Kaplan
 
 # Username (this should match the folder name)
-authors: kimk
+authors: toddk
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position 
-role: Senior Lecturer in Economics
+role: Professor of Economics
 
 # Organizations/Affiliations
 organizations:
- - name: Lancaster University
-   url: "https://www.lancaster.ac.uk/lums/people/kim-kaivanto" 
+ - name: University of Exeter
+   url: "https://http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Todd_Kaplan" 
 
 # Short bio (displayed in user profile at end of posts)
-bio: economics and finance, normative and behavioural, academic and applied 
+bio: 
 
 interests:
- - Decision theory
- - Behavioural economics
- - Behavioural finance
- - Security behaviour
- - Distributed consensus algorithms
- - Prediction markets
- - Risk, Uncertainty
+ - Economic theory
+ - Industrial organisation
+ - Experimental economics
 
 education:
   courses:
   - course: PhD in Economics
-    institution: Warwick Business School
-    year: 2003
+    institution: University of Minnesota 
+    year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,10 +43,10 @@ social:
    link: https://www.researchgate.net/profile/Kim_Kaivanto
  - icon: orcid
    icon_pack: ai
-   link: http://orcid.org/0000-0002-5309-4157
+   link: http://orcid.org/0000-0001-7519-5672
  - icon: twitter
    icon_pack: fab
-   link: https://twitter.com/cue4ward
+   link: 
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -59,7 +55,7 @@ social:
 #   link: https://github.com/KimKaiv
  - icon: linkedin
    icon_pack: fab
-   link: https://www.linkedin.com/in/kimkaivanto/  
+   link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -72,9 +68,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: 
- - Principal Investigators
  - Core Team
- - Researchers
+
 
 
 # Profile text from below the "---"
@@ -83,9 +78,6 @@ user_groups:
 # I have worked on a diverse range of research and consultancy projects, including such special topics such as investor sentiment, security behaviour, civil aerospace R&D support schemes, air transport CO2 emissions, venture capital, the exploitation of social science research, and airport slot allocation rulings. 
 
 ---
-My research centres on the interplay between normative and behavioural models of decision 
-making under risk and uncertainty, with applications in financial and non-financial problem settings. 
-
 
 
 

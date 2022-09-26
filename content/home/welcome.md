@@ -24,7 +24,7 @@ design:
     # Options include `left`, `center` (default), or `right`. [or top!]
     image_position: bottom
     # Use a fun parallax-like fixed background effect on desktop? true/false
-    image_parallax: false
+    image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
   spacing:
@@ -58,10 +58,10 @@ advanced:
 
 <br>
 
-## **CRUCIAL's mission is to deliver calibrated, high-quality climate-risk forecasts.**
+## CRUCIAL's mission is to deliver calibrated, high-quality climate-risk forecasts.
 
 <br>
 
-## **We employ *expert prediction markets* -- hosted on the AGORA prediction-market platform -- to elicit, aggregate, and summarise knowledge on future climate risks, drawing on expertise from diverse areas of physical, social, and policy science.** 
+## We employ *expert prediction markets* -- hosted on the AGORA prediction-market platform -- to elicit, aggregate, and summarise knowledge on future climate risks, drawing on expertise from diverse areas of physical, social, and policy science.
 
 
