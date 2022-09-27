@@ -16,7 +16,7 @@ design:
   #   4 = Citation
   #   5 = Showcase  
   #   masonry
-  view: showcase
+  view: 5
   
   # For Showcase view, flip alternate rows?
   #flip_alt_rows: false  

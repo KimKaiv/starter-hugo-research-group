@@ -9,16 +9,11 @@ image:
 #  caption: ""
   focal_point: "Top"
 #  preview_only: false
+
+
+# ([source](https://worldpopulationreview.com/country-rankings/carbon-footprint-by-country))
 ---
-
-Top emitters have a large influence on the annual rate of GHG emissions. 
-
-The top 4 emitters -- China, the USA, India, and Russia -- account for 55\% of 
-annual CO2 emissions from fossil fuels 
-([source](https://worldpopulationreview.com/country-rankings/carbon-footprint-by-country
-)). 
-
-These country emissions are antropogenic and exogenous to physical-science based climate modelling. 
+Top emitters have a large influence on the annual rate of GHG emissions. The top 4 emitters -- China, the USA, India, and Russia -- account for 55\% of annual CO2 emissions from fossil fuels. These country emissions are antropogenic and exogenous to physical-science based climate modelling. 
 
 To develop an undertanding of the anthropogenic contribution to future CO2 concentrations, 
 there is a need for _country specialists_ in the politics, energy policies, environmental 
