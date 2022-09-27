@@ -31,8 +31,8 @@ main:
   - name: Events
     url: /#events
     weight: 90
-  - name: Backers
-    url: /#backers
+  - name: Partners
+    url: /#partners
     weight: 95
   - name: Contact
     url: /#contact
