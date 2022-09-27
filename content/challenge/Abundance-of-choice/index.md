@@ -77,10 +77,10 @@ standard error._
 
 ## [Breznau et al. (2022)](https://osf.io/preprints/metaarxiv/cd5j9/) --- economics, statistics
 
-These authors settle on the research question: _does immigration reduce support for 
+These authors pose the question: _does immigration reduce support for 
 social policies among the public_?
 
-They recruited 162 participants across 73 teams. 
+To answer it, they recruited 162 participants across 73 teams. 
 
 Each team was provided with a database of answers to a 6-question module on the 
 role of government in providing different social services, which is part of the
