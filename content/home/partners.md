@@ -19,7 +19,7 @@ design:
 ---
 <center> 
 
-![LUMS logo](LUMS_logo.png)
+[ ![LUMS logo](LUMS_logo.png) ](https://www.lancaster.ac.uk/lums/)
 
 </center>
 
@@ -27,7 +27,7 @@ design:
 
 <center> 
 
-![LEEP logo](LEEP_logo_white_bg.png)
+[ ![LEEP logo](LEEP_logo_white_bg.png )](https://www.exeter.ac.uk/research/leep/)
 
 </center>
 
@@ -38,7 +38,7 @@ design:
 <center> 
 
 The AGORA platform was developed by the Winton Group. 
-![Winton Group](Winton_logo_2015_right_size.png)
+[ ![Winton Group](Winton_logo_2015_smaller_size.png) ](https://www.winton.com/)
 
 </center>
 
