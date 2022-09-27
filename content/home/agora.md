@@ -43,6 +43,10 @@ advanced:
 ## scientific disciplines, the circularity problem in unconditional forecasts, and 
 ## persistent data gaps. 
 ##
+
+#<center>{{< figure src="June2018.gif"  >}}</center>
+#<span style="font-size:17px">Figure: The evolution of prices in a joint-outcome market for UK monthly temperature and rainfall for June 2018. The participants were 24 teams from British universities. The black dots show the values of temperature and rainfall for previous Junes and the blue cross shows the actual value for June 2018.</span>
+
 ---
 
 
@@ -54,8 +58,6 @@ AGORA has been tested over the past three years and used to run prediction marke
 Hivemind transferred the IP for AGORA to Lancaster University in 2022 for use in CRUCIAL.
 
 
-<center>{{< figure src="June2018.gif"  >}}</center>
-<span style="font-size:17px">Figure: The evolution of prices in a joint-outcome market for UK monthly temperature and rainfall for June 2018. The participants were 24 teams from British universities. The black dots show the values of temperature and rainfall for previous Junes and the blue cross shows the actual value for June 2018.</span>
 
 <br>
 
