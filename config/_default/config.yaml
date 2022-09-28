@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CRUCIAL # Website name
-baseURL: 'https://purple-pond-037701f03.1.azurestaticapps.net' # Website URL
-#baseURL: 'https://CRUCIALab.net'
+#baseURL: 'https://purple-pond-037701f03.1.azurestaticapps.net' # Website URL
+baseURL: 'https://CRUCIALab.net'
 
 ############################
 ## LANGUAGE
