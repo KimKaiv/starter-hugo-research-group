@@ -19,7 +19,7 @@ design:
 ---
 <center> 
 
-[ ![LUMS logo](LUMS-logo[2].svg) ](https://www.lancaster.ac.uk/lums/)
+[ ![LUMS logo](LUMS-logo[3].png) ](https://www.lancaster.ac.uk/lums/)
 
 </center>
 

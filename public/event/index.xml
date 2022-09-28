@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Events | CRUCIAL</title>
-    <link>https://purple-pond-037701f03.1.azurestaticapps.net/event/</link>
-      <atom:link href="https://purple-pond-037701f03.1.azurestaticapps.net/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://CRUCIALab.net/event/</link>
+      <atom:link href="https://CRUCIALab.net/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Feb 2022 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://purple-pond-037701f03.1.azurestaticapps.net/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_512x512_fill_lanczos_center_3.png</url>
+      <url>https://CRUCIALab.net/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
-      <link>https://purple-pond-037701f03.1.azurestaticapps.net/event/</link>
+      <link>https://CRUCIALab.net/event/</link>
     </image>
     
     <item>
       <title>Prediction Markets for Climate Risk</title>
-      <link>https://purple-pond-037701f03.1.azurestaticapps.net/event/woburn-house/</link>
+      <link>https://CRUCIALab.net/event/woburn-house/</link>
       <pubDate>Tue, 08 Feb 2022 14:00:00 +0000</pubDate>
-      <guid>https://purple-pond-037701f03.1.azurestaticapps.net/event/woburn-house/</guid>
+      <guid>https://CRUCIALab.net/event/woburn-house/</guid>
       <description>&lt;p&gt;
 
 
@@ -39,7 +39,7 @@
                /event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_bbaf7be3e1d055acc9000e42308a8640.webp 400w,
                /event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_211850a605332e1c963f20259709b4d8.webp 760w,
                /event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://purple-pond-037701f03.1.azurestaticapps.net/event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_bbaf7be3e1d055acc9000e42308a8640.webp&#34;
+               src=&#34;https://CRUCIALab.net/event/woburn-house/foot_hue389a492d2a1656f1a3c5aaf695d06b2_67715_bbaf7be3e1d055acc9000e42308a8640.webp&#34;
                width=&#34;760&#34;
                height=&#34;144&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
