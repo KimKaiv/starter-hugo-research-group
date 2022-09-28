@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Roulston | CRUCIAL</title>
-    <link>https://CRUCIALab.net/author/mark-roulston/</link>
-      <atom:link href="https://CRUCIALab.net/author/mark-roulston/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://purple-pond-037701f03.1.azurestaticapps.net/author/mark-roulston/</link>
+      <atom:link href="https://purple-pond-037701f03.1.azurestaticapps.net/author/mark-roulston/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Roulston</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:01:26 +0100</lastBuildDate>
     <image>
-      <url>https://CRUCIALab.net/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_512x512_fill_lanczos_center_3.png</url>
+      <url>https://purple-pond-037701f03.1.azurestaticapps.net/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_512x512_fill_lanczos_center_3.png</url>
       <title>Mark Roulston</title>
-      <link>https://CRUCIALab.net/author/mark-roulston/</link>
+      <link>https://purple-pond-037701f03.1.azurestaticapps.net/author/mark-roulston/</link>
     </image>
     
     <item>
       <title>Prediction-market innovations can improve climate-risk forecasts</title>
-      <link>https://CRUCIALab.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</link>
+      <link>https://purple-pond-037701f03.1.azurestaticapps.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</link>
       <pubDate>Thu, 01 Sep 2022 00:01:26 +0100</pubDate>
-      <guid>https://CRUCIALab.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</guid>
+      <guid>https://purple-pond-037701f03.1.azurestaticapps.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CRUCIAL White Paper</title>
-      <link>https://CRUCIALab.net/publication/crucial-white-paper/</link>
+      <link>https://purple-pond-037701f03.1.azurestaticapps.net/publication/crucial-white-paper/</link>
       <pubDate>Fri, 01 Jul 2022 00:01:26 +0100</pubDate>
-      <guid>https://CRUCIALab.net/publication/crucial-white-paper/</guid>
+      <guid>https://purple-pond-037701f03.1.azurestaticapps.net/publication/crucial-white-paper/</guid>
       <description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
 &lt;br&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;What?&lt;/em&gt;&lt;/strong&gt;
@@ -125,9 +125,9 @@ climate expertise.&lt;/p&gt;
     
     <item>
       <title>Why no climate warranties?</title>
-      <link>https://CRUCIALab.net/post/why-no-climate-warranties/</link>
+      <link>https://purple-pond-037701f03.1.azurestaticapps.net/post/why-no-climate-warranties/</link>
       <pubDate>Thu, 10 Mar 2022 18:41:05 +0100</pubDate>
-      <guid>https://CRUCIALab.net/post/why-no-climate-warranties/</guid>
+      <guid>https://purple-pond-037701f03.1.azurestaticapps.net/post/why-no-climate-warranties/</guid>
       <description>&lt;p&gt;The market for climate risk forecasts suffers from a problem economists call 
 “asymmetric information”: the sellers of forecasts probably know more about their 
 accuracy than the buyers. A short or medium range weather forecast can be verified 
@@ -231,9 +231,9 @@ will gradually acquire the reputation of 1970s used-car dealers.&lt;/p&gt;
     
     <item>
       <title>Cost witout benefit</title>
-      <link>https://CRUCIALab.net/post/cost-without-benefit/</link>
+      <link>https://purple-pond-037701f03.1.azurestaticapps.net/post/cost-without-benefit/</link>
       <pubDate>Fri, 17 Dec 2021 18:41:05 +0100</pubDate>
-      <guid>https://CRUCIALab.net/post/cost-without-benefit/</guid>
+      <guid>https://purple-pond-037701f03.1.azurestaticapps.net/post/cost-without-benefit/</guid>
       <description>&lt;p&gt;In 1970, the economist George Akerlof published what would become a classic paper called, 
 “&lt;a href=&#34;https://www.jstor.org/stable/1879431&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Market for Lemons: Quality Uncertainty and Market Mechanisms.&lt;/a&gt;” The “lemons” he was 
 referring to were low-quality used cars. His insight was that, in markets where buyers 
@@ -268,9 +268,9 @@ evidence that some climate information has a lemon flavour?&lt;/p&gt;
     
     <item>
       <title>How good are AGORA forecasts?</title>
-      <link>https://CRUCIALab.net/post/how-good-are-agora-forecasts/</link>
+      <link>https://purple-pond-037701f03.1.azurestaticapps.net/post/how-good-are-agora-forecasts/</link>
       <pubDate>Tue, 24 Nov 2020 18:41:05 +0100</pubDate>
-      <guid>https://CRUCIALab.net/post/how-good-are-agora-forecasts/</guid>
+      <guid>https://purple-pond-037701f03.1.azurestaticapps.net/post/how-good-are-agora-forecasts/</guid>
       <description>&lt;p&gt;&lt;strong&gt;“Calibration means the frequency of events matches their predicted probabilities”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;There are two desirable characteristics that probability forecasts should have: 
 &lt;em&gt;calibration&lt;/em&gt; and &lt;em&gt;sharpness&lt;/em&gt;. Calibration means that the frequency of events matches 
@@ -308,7 +308,7 @@ chance of something occurring, that something should have happened 60% of those 
                /post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_fc503aa7bd30259b584e0a144a443119.webp 400w,
                /post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_f62d7ff834d5460c18e741deda1c933b.webp 760w,
                /post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_fc503aa7bd30259b584e0a144a443119.webp&#34;
+               src=&#34;https://purple-pond-037701f03.1.azurestaticapps.net/post/how-good-are-agora-forecasts/normald_hu13e4b697727ee04d039eeb86276590db_40642_fc503aa7bd30259b584e0a144a443119.webp&#34;
                width=&#34;760&#34;
                height=&#34;632&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -349,7 +349,7 @@ increases.&lt;/p&gt;
                /post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_08efc9f35ac03b8a8b2260125e2bc06c.webp 400w,
                /post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_cba2f8ed7de98267aee30bcb80bb29eb.webp 760w,
                /post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_08efc9f35ac03b8a8b2260125e2bc06c.webp&#34;
+               src=&#34;https://purple-pond-037701f03.1.azurestaticapps.net/post/how-good-are-agora-forecasts/calibration_lead75_hu0a8c8bbdc336901a73d82ceab9f87aa1_199466_08efc9f35ac03b8a8b2260125e2bc06c.webp&#34;
                width=&#34;760&#34;
                height=&#34;759&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -399,7 +399,7 @@ calibrated forecasts due to the relatively small number of forecasts in the anal
                /post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_9e1685bca80c36af472c9cf6ba8c8d47.webp 400w,
                /post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_1ab5b4c3a7081951e3e912026d63ccb7.webp 760w,
                /post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_9e1685bca80c36af472c9cf6ba8c8d47.webp&#34;
+               src=&#34;https://purple-pond-037701f03.1.azurestaticapps.net/post/how-good-are-agora-forecasts/calibration_lead50_hu31b9b0587f2695c03240d66e69d5aef4_27727_9e1685bca80c36af472c9cf6ba8c8d47.webp&#34;
                width=&#34;760&#34;
                height=&#34;759&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -429,7 +429,7 @@ calibrated forecasts due to the relatively small number of forecasts in the anal
                /post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_6954c7242f4ae369301b6edeab448e6f.webp 400w,
                /post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_016c76393c339ca7faba61fd8344d5e8.webp 760w,
                /post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://CRUCIALab.net/post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_6954c7242f4ae369301b6edeab448e6f.webp&#34;
+               src=&#34;https://purple-pond-037701f03.1.azurestaticapps.net/post/how-good-are-agora-forecasts/calibration_lead25_hu2c02e0b230d2949f0f23e4c5afed84ac_27605_6954c7242f4ae369301b6edeab448e6f.webp&#34;
                width=&#34;760&#34;
                height=&#34;759&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
