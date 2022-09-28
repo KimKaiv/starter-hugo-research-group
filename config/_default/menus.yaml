@@ -22,7 +22,7 @@ main:
   - name: Publications
     url: /#publications
     weight: 60
-  - name: Data
+  - name: Data  # <--
     url: /#data
     weight: 70
   - name: Posts
