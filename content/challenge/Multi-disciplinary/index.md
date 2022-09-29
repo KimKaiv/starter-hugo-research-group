@@ -3,7 +3,7 @@ title: "Multi-disciplinary problem"
 date: 2022-09-24T21:00:43+01:00
 #draft: true 
 
-summary: "Top emitters have a large influence on the annual rate of GHG emissions. To develop an undertanding of the anthropogenic contribution to future CO2 concentrations, there is a need for _country specialists_ in the politics, energy policies, environmental regulations, and economics of each substantial emitter."
+summary: "Top emitters have a large influence on the annual rate of GHG emissions. To develop an understanding of the anthropogenic contribution to future CO2 concentrations, there is a need for _country specialists_ in the politics, energy policies, environmental regulations, and economics of each substantial emitter."
 
 
 image: 
