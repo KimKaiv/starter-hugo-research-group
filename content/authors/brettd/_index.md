@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brett Day 
+title: Brett Day
 
 # Username (this should match the folder name)
 authors: brettd

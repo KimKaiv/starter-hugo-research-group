@@ -17,7 +17,7 @@ organizations:
    url: "https://www.exeter.ac.uk/research/leep/" 
 
 # Short bio (displayed in user profile at end of posts)
-bio: economics and finance, normative and behavioural, academic and applied 
+bio: climate science and data science
 
 interests:
  - Climate Science
@@ -79,8 +79,13 @@ user_groups:
 
 # Profile text from below the "---"
 ---
-
-Profile text here. 
+Mark led the development of the AGORA prediction market platform while at
+investment firm Winton Group, where he worked for a decade, and at Hivemind, a
+technology company spun-out from Winton in 2018. He has a Ph.D in planetary
+science from Caltech for a thesis on the predictability of El Niño and he continued
+research on climate predictability at Oxford and Pennsylvania State Universities
+before working at the U.K. Met Office, prior to joining Winton. At Winton he led the
+integration of weather and climate information into quantitative trading strategies.
 
 
 
