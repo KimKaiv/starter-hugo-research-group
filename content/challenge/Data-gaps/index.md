@@ -14,7 +14,10 @@ image:
 Data gaps are particularly substantial and pressing for _forward-looking_ risk information. 
 
 And where forward-looking information exists, it is largely based on (i) announced intentions, or 
-(b) scenarios for which there currently exists no relative likelihood information. 
+(b) scenarios for which relative likelihood information currently does not exist. Moreover,
+numerous organizations have created their own scenario sets. Users of forward-looking 
+information do not know how to evaluate the range of different scenarios, and which
+scenarios should be given more attention, and which less attention. 
 
 <br>
 
