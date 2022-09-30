@@ -17,7 +17,7 @@ image:
 ---
 
 The top 4 emitters -- China, the USA, India, and Russia -- account for 55\% of annual 
-CO2 emissions from fossil fuels. These country emissions are antropogenic and exogenous 
+CO2 emissions from fossil fuels. These country emissions are anthropogenic and exogenous 
 to physical-science based climate modelling. 
 
 To develop an undertanding of the anthropogenic contribution to future CO2 concentrations, 
