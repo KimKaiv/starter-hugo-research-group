@@ -5,8 +5,8 @@ summary: ''
 authors: ["Mark Roulston"]
 tags: []
 categories: []
-date: 2022-10-01T18:41:05+01:00
-lastmod: 2022-10-01T18:41:05+01:00
+date: 2022-10-01T00:41:05+01:00
+lastmod: 2022-10-01T00:41:05+01:00
 featured: false
 draft: false
 
@@ -26,7 +26,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-AGORA is a platform for hosting prediction markets in which participants can bet on the outcome of events or the values of particular quantities. This article is an introduction into how to trade prediction markets on AGORA. We will cover the mechanics of how you place trades and also offer some tips on how to translate your judgments and opinions into trading strategies.
+
+AGORA is a platform for hosting prediction markets in which participants can bet 
+on the outcome of events or the values of particular quantities. This article is 
+an introduction to trading on AGORA prediction markets. We will cover the 
+mechanics of how you place trades and also offer some tips on how to translate 
+your judgments and opinions into trading strategies.
 
 If you have been invited to participate in an AGORA market then you can login to the platform and you will see a screen showing a list of the individual markets open to you (your list will be different to the one below).
 
@@ -116,7 +121,10 @@ In markets run by CRUCIAL, these credits represent shares of the segregated rese
 
 ### Summary 
 
-Hopefully this article will have introduced you to AGORA and enabled you to start trading in markets in which you have been invited to participate. As you become more familiar with AGORA markets you may wish to implement more intricate trading strategies using the API. Trading using the API will be the topic of a future article.
+Hopefully this article will have introduced you to AGORA and enabled you to start trading 
+in markets in which you have been invited to participate. As you become more familiar with 
+AGORA markets you may wish to implement more intricate trading strategies using the API. 
+Trading using the API will be the topic of a future article.
 
 
 
