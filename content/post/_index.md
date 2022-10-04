@@ -1,5 +1,5 @@
 ---
-title: Latest Posts
+title: Post Archive
 
 # Listing view
 view: compact

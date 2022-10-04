@@ -18,6 +18,399 @@ nk>
     </image>
     
     <item>
+      <title>Beginner&#39;s guide to trading on AGORA prediction markets</title>
+      <link>https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/</link>
+      <pubDate>Sat, 01 Oct 2022 00:41:05 +0100</pubDate>
+      <guid>https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/</guid>
+      <description>&lt;p&gt;AGORA is a platform for hosting prediction markets in which participants can bet 
+on the outcome of events or the values of particular quantities. This article is 
+an introduction to trading on AGORA prediction markets. We will cover the 
+mechanics of how you place trades and also offer some tips on how to translate 
+your judgments and opinions into trading strategies.&lt;/p&gt;
+&lt;p&gt;If you have been invited to participate in an AGORA market then you can login to the platform and you will see a screen showing a list of the individual markets open to you (your list will be different to the one below).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-an-example-of-a-list-of-markets-available-to-one-participant-on-agora&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Markets menu&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/markets-menu_hu4d67628b1389b7eb631f1e436ebe9fd2_29104_cbef5a41921d8d33cb50ddc9ba6872e1.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/markets-menu_hu4d67628b1389b7eb631f1e436ebe9fd2_29104_af89659ab12e34cbdfbe0a2955e41d45.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/markets-menu_hu4d67628b1389b7eb631f1e436ebe9fd2_29104_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/markets-menu_hu4d67628b1389b7eb631f1e436ebe9fd2_29104_cbef5a41921d8d33cb50ddc9ba6872e1.webp&#34;
+               width=&#34;548&#34;
+               height=&#34;488&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 1&lt;/strong&gt;: An example of a list of markets available to one participant on AGORA.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;If you click on the “accounts” icon (the head and shoulders) you will see a list of your accounts with the markets that use that account listed underneath each one. If two markets belong to the same account then credits earned in one market may be used in the other market but credits cannot be transferred from a market under one account to a market under another account.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-a-list-of-one-participants-accounts-in-agora-the-markets-associated-with-each-account-are-listed-under-the-account-name&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Accounts view&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/accounts_hu93d726f6db857f078380c1f5ed1f665b_35317_b4fc0e0924d1248a6951b3aa69f3966c.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/accounts_hu93d726f6db857f078380c1f5ed1f665b_35317_6bdc2f46986db020b9c54744d79c5113.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/accounts_hu93d726f6db857f078380c1f5ed1f665b_35317_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/accounts_hu93d726f6db857f078380c1f5ed1f665b_35317_b4fc0e0924d1248a6951b3aa69f3966c.webp&#34;
+               width=&#34;616&#34;
+               height=&#34;546&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 2&lt;/strong&gt;: A list of one participant’s accounts in AGORA. The markets associated with each account are listed under the account name.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;defining-contracts-and-placing-trades&#34;&gt;Defining Contracts and Placing Trades&lt;/h3&gt;
+&lt;p&gt;To trade, you select the “markets” icon (the four panels) and then select a market, 
+e.g. the “Strictly Come Dancing Winner” market. This demonstration market is for 
+predicting the winner of the 2018 series of BBC’s &lt;em&gt;Strictly Come Dancing&lt;/em&gt; programme 
+(Americans will know this programme as &lt;em&gt;Dancing with the Stars&lt;/em&gt;). In the programme 
+15 celebrities compete at dancing with one celebrity being ejected from the competition 
+each week. This market is, as the British election commentator Peter Snow might say, 
+“just a bit of fun”, but it illustrates many of the key features of AGORA. This market 
+has 15 distinct outcomes. In all AGORA markets, outcomes are &lt;em&gt;Mutually Exclusive and 
+Comprehensively Exhaustive&lt;/em&gt; (MECE): this means that only one outcome can occur but 
+one outcome must occur.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-the-market-for-the-winner-of-the-2018-series-of-the-bbcs-strictly-come-dancing-programme-this-snapshot-was-taken-in-the-second-week-of-the-competition&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;MECE&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/mece_hu5f3086f7766d7f185170d48ee1ac3e9f_48451_ee34bcb4091738ba034f6e046f775f6d.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/mece_hu5f3086f7766d7f185170d48ee1ac3e9f_48451_3a37eaf00395d8e39c224f7c8e1cee4d.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/mece_hu5f3086f7766d7f185170d48ee1ac3e9f_48451_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/mece_hu5f3086f7766d7f185170d48ee1ac3e9f_48451_ee34bcb4091738ba034f6e046f775f6d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;431&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 3&lt;/strong&gt;: The market for the winner of the 2018 series of the BBC’s Strictly Come Dancing Programme. (This snapshot was taken in the second week of the competition.)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The figure above is the market screen for the &lt;em&gt;Strictly&lt;/em&gt; market. The number of credits you have in this market space is shown at the top. The current prices for each outcome are shown in the bar graph. The favourite is Joe Sugg with a price of 0.132. This price can be interpreted as the probability of Joe Sugg winning. AGORA allows you to define contracts that cover one or more outcomes. You can then buy one or more of the contracts you define. At settlement you will receive 1.00 credit for each contract you hold that covers the outcome that actually occurs.&lt;/p&gt;
+&lt;p&gt;To define a contract click on the “+” icon, then click on one or more outcomes that you want covered by the contract.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-4-defining-a-contract-that-will-pay-out-100-credit-if-joe-sugg-wins&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Defining a contract&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/defining-a-contract_hu4f7759361ecbf132e7096f73d6e46c83_53597_070b2377c494247304b4570eccec09d3.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/defining-a-contract_hu4f7759361ecbf132e7096f73d6e46c83_53597_a2df783d3210d1252ae1a04e39361c06.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/defining-a-contract_hu4f7759361ecbf132e7096f73d6e46c83_53597_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/defining-a-contract_hu4f7759361ecbf132e7096f73d6e46c83_53597_070b2377c494247304b4570eccec09d3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;629&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 4&lt;/strong&gt;: Defining a contract that will pay out 1.00 credit if Joe Sugg wins.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The simplest type of contract covers a single outcome. For example, the figure above shows a contract that covers Joe Sugg winning. AGORA has automatically named this contract “Joe Sugg” but you are free to rename the contract if you want. Contract definitions are specific to you — other participants do not see your contracts and must define their own. If you click “create” the Joe Sugg contract is created.&lt;/p&gt;
+&lt;p&gt;Contracts can cover more than one outcome. For example, you can create a contract covering all the female contestants and name the contract “Female Winner”.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-5-defining-a-contract-that-will-pay-out-100-credit-a-female-wins&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Composite contract; a female will win&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/composite-contract-female_hu13d24f84a7522dc233e66d1aed4c06e1_50414_30be7b9c7589bffe0963a35b04b96d1b.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/composite-contract-female_hu13d24f84a7522dc233e66d1aed4c06e1_50414_126abca04930b110011cc1e4ee85927d.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/composite-contract-female_hu13d24f84a7522dc233e66d1aed4c06e1_50414_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/composite-contract-female_hu13d24f84a7522dc233e66d1aed4c06e1_50414_30be7b9c7589bffe0963a35b04b96d1b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;645&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 5&lt;/strong&gt;: Defining a contract that will pay out 1.00 credit a female wins.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-6-portfolio-of-defined-contracts&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Portfolio of contracts&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/portfolio-of-contracts_hu9dce601e9fe363fc2979e90659393db7_51181_e8b77afbb354e193ede19e9d44f8c2c3.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/portfolio-of-contracts_hu9dce601e9fe363fc2979e90659393db7_51181_8256d1e46a927cefa77a2529c847c639.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/portfolio-of-contracts_hu9dce601e9fe363fc2979e90659393db7_51181_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/portfolio-of-contracts_hu9dce601e9fe363fc2979e90659393db7_51181_e8b77afbb354e193ede19e9d44f8c2c3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 6&lt;/strong&gt;: Portfolio of defined contracts.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Your portfolio is shown below the price bar chart. AGORA uses a market maker that will always quote a price for a contract. These prices are shown in the PRICE column. The QUANTITY column shows how many units of each contract you currently hold. To buy contracts you can either specify the number you wish to have in the QUANTITY field or you can specify a change in your inventory in the ORDER field. Although you have defined two contracts you have not yet bought any so you can delete the definitions.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-7-you-can-buy-contracts-by-either-specifying-the-quantity-you-want-to-have-in-your-inventory-or-specifying-an-order-change-in-inventory&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Buying contracts&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/buying-contracts_hu8f31a719b2b6c0dbe00428aa6581ad1e_52727_df33eb027c0949f20463c6c8f8383c2a.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/buying-contracts_hu8f31a719b2b6c0dbe00428aa6581ad1e_52727_f0599dce52aea779b81464fb35d57dc1.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/buying-contracts_hu8f31a719b2b6c0dbe00428aa6581ad1e_52727_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/buying-contracts_hu8f31a719b2b6c0dbe00428aa6581ad1e_52727_df33eb027c0949f20463c6c8f8383c2a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;530&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 7&lt;/strong&gt;: You can buy contracts by either specifying the quantity you want to have in your inventory or specifying an order (change in inventory).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In the figure above, an order to buy 100 of the Joe Sugg contract has been placed and the market maker is quoting a price of 0.138 per contract. This is slightly higher than the 0.132 in the PRICE column because the market maker raises the price a bit in response to the buy order.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-8-you-can-sell-contracts-by-placing-a-negative-order&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Selling contracts&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/selling-contracts_hu79cc4a70858e9b4109ea3f9b4ab8553e_53227_9d29f00fbbd6f303c466577e810c8a0a.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/selling-contracts_hu79cc4a70858e9b4109ea3f9b4ab8553e_53227_42e6cad35a96a66542a342ad6b063df4.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/selling-contracts_hu79cc4a70858e9b4109ea3f9b4ab8553e_53227_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/selling-contracts_hu79cc4a70858e9b4109ea3f9b4ab8553e_53227_9d29f00fbbd6f303c466577e810c8a0a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;555&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 8&lt;/strong&gt;: You can sell contracts by placing a negative order.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;going-long-and-going-short&#34;&gt;Going Long and Going Short&lt;/h3&gt;
+&lt;p&gt;Since a contract pays out 1.00 credit if an outcome covered by the contract occurs it follows that the expected value of the contract is the probability that the outcome occurs. If you think that the probability of a contract paying out is substantially higher than the quoted price then you have a reason to buy the contract, or “go long” in the parlance of financial markets. But, what if you think the quoted price of a contract is significantly higher than the probability of it paying out? In other words, what if you think a contract is overvalued? How can you exploit such a mispricing? The AGORA platform does not allow you to “go short” — sell contracts you don’t already own — which is what speculators do to stocks they think are overpriced. However, the prices of all outcomes always sum to 1.00: if you buy one unit of every outcome it will cost you 1.00 (but you are guaranteed a pay out of 1.00 at settlement). This means that if you think any outcome is overvalued there must be other outcomes that are undervalued.&lt;/p&gt;
+&lt;p&gt;!(Selling the complementary contract; going short](complementary-contract.png &amp;ldquo;Figure 9**: If you think Ashley Roberts is overvalued we can define a complementary contract which will be undervalued.&amp;rdquo;)&lt;/p&gt;
+&lt;p&gt;For example, suppose you think that former Pussycat Doll Ashley Roberts is overvalued — yes she’s good but you think the judges and voting public will be harsher on her due to her previous dancing experience — you can define a contract covering all the other contestants as shown above.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-10-the-prices-of-the-contracts-not-ashley-roberts-and-ashley-roberts-sum-to-100-if-we-think-ashley-roberts-is-overvalued-it-follows-that-not-ashley-roberts-is-undervalued-and-we-should-buy-it&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Complementary contract example&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/complementary-contract-example_huca81a144d3ef6e05705904e49fa02669_60103_88f272abb58a168aa8d30fcdfd820831.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/complementary-contract-example_huca81a144d3ef6e05705904e49fa02669_60103_f76285850e5d9d9667d94c2af3471a29.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/complementary-contract-example_huca81a144d3ef6e05705904e49fa02669_60103_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/complementary-contract-example_huca81a144d3ef6e05705904e49fa02669_60103_88f272abb58a168aa8d30fcdfd820831.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;586&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 10&lt;/strong&gt;: The prices of the contracts NOT Ashley Roberts and Ashley Roberts sum to 1.00. If we think Ashley Roberts is overvalued it follows that NOT Ashley Roberts is undervalued and we should buy it.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;To demonstrate that contracts covering complete sets of outcomes sum to 1.00 you can also define a contract for Ashley Roberts. The prices of these two complementary contracts sum to 1.00. If you think the “Ashley Roberts” contract is overvalued the contract “NOT Ashley Roberts” must be undervalued, so you can express your view by buying this contract.&lt;/p&gt;
+&lt;h3 id=&#34;markets-for-continuous-quantities&#34;&gt;Markets for Continuous Quantities&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;Strictly Come Dancing&lt;/em&gt; market is an example of a market for a categorical variable that can take on one of several distinct values. AGORA also supports markets for continuous variables by partitioning the variable into discrete intervals. To illustrate this lets look at a demonstration market for the UK unemployment rate in the final quarter of 2019.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-11-the-uk-unemployment-rate-can-be-partitioned-into-intervals-of-01-this-interval-covers-the-range-54-to-84&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Continuous outcome partitioning&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/continuous-outcome-partitioning_hu7aeacf7da383616186acbb227fd0915e_39830_21f4f7a0d39d9b577596fbf60876a51b.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/continuous-outcome-partitioning_hu7aeacf7da383616186acbb227fd0915e_39830_635ef96e649818c04ef2694d22489d89.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/continuous-outcome-partitioning_hu7aeacf7da383616186acbb227fd0915e_39830_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/continuous-outcome-partitioning_hu7aeacf7da383616186acbb227fd0915e_39830_21f4f7a0d39d9b577596fbf60876a51b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;630&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 11&lt;/strong&gt;: The UK Unemployment rate can be partitioned into intervals of 0.1%. This interval covers the range 5.4% to 8.4%.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The Office of National Statistics reports the UK unemployment rate to an accuracy of 
+0.1% so this is a sensible interval for partitioning this variable. Trading individual 
+outcomes covering just 0.1% would be cumbersome but because of the way AGORA lets you 
+define contracts you can create contracts covering intervals, including multiple 
+disjoint intervals. Note that the individual intervals for unemployment are represented 
+as intervals that are “closed” at the lower end and “open” on the upper end. This is 
+written as [8.3%,8.4%) and means the interval includes 8.3% but not 8.4%.&lt;/p&gt;
+&lt;p&gt;In Bayesian statistics a credible interval is a range in which a variable will fall with a specified subjective probability. Let’s suppose &lt;em&gt;your&lt;/em&gt; 90% credible interval for UK unemployment in Q4 of 2019 is 5.4% to 8.4%. You can define a contract covering this interval and get a price quote for it.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-12-the-price-of-the-interval-54-to-84-is-0222&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Price of credible interval&#34; srcset=&#34;
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/price-of-interval_hu7182bcff20c89bf5ebcf955e8e161054_38204_e477f20bc6e0ad9464dd5581455f3c94.webp 400w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/price-of-interval_hu7182bcff20c89bf5ebcf955e8e161054_38204_38b6f0432a9cc2593f6f871e51faebbc.webp 760w,
+               /post/beginners-guide-to-trading-on-agora-prediction-markets/price-of-interval_hu7182bcff20c89bf5ebcf955e8e161054_38204_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/beginners-guide-to-trading-on-agora-prediction-markets/price-of-interval_hu7182bcff20c89bf5ebcf955e8e161054_38204_e477f20bc6e0ad9464dd5581455f3c94.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 12&lt;/strong&gt;: The price of the interval 5.4% to 8.4% is 0.222.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In the example above, you are being quoted a price of just 0.222 for this interval. 
+If you really think the probability of the true value falling in this range is 90% 
+this contract has an expected value of 0.90 so it’s a very good buy.&lt;/p&gt;
+&lt;h3 id=&#34;market-settlement&#34;&gt;Market Settlement&lt;/h3&gt;
+&lt;p&gt;When a market settles, all contracts covering the correct outcome pay out 1.00 credit 
+which is added to your credit balance. All other contracts are worthless. All AGORA 
+markets are denominated in credits. 
+In markets run by CRUCIAL, these credits represent shares of the segregated research funding pool.&lt;/p&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Hopefully this article will have introduced you to AGORA and enabled you to start trading 
+in markets in which you have been invited to participate. As you become more familiar with 
+AGORA markets you may wish to implement more intricate trading strategies using the API. 
+Trading using the API will be the topic of a future article.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is an updated version of an article which appeared on Medium 11.10.2018 as &lt;a href=&#34;https://medium.com/hvmd/a-beginners-guide-to-trading-prediction-markets-on-hivemind-agora-95e0df9c45d7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A beginner’s guide to trading prediction markets on Hivemind AGORA&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Prediction-market innovations can improve climate-risk forecasts</title>
       <link>https://www.crucialab.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</link>
       <pubDate>Thu, 01 Sep 2022 00:01:26 +0100</pubDate>
