@@ -12,7 +12,7 @@ address:
   postcode: 'WC1H 9HQ'
   country: United Kingdom
 
-summary: A workshop about an initiative to address emerging problems with the provision of climate risk information.
+summary: A workshop about an initiative to address emerging problems with the provision of climate risk information. 8 Feb 2022, Woburn House, Tavistock Square, London, WC1H 9HQ 
 abstract: 'This workshop will discuss an initiative to establish a UK-based prediction market exchange that will seek 
 to deliver robust and publicly available climate forecasts. The market mechanism will act to elicit, 
 aggregate, and summarise knowledge on future climate risks, drawing inputs from diverse relevant areas 
