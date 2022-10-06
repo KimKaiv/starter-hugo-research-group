@@ -23,8 +23,9 @@ Predictions of e.g. global temperature alone lack
  1. the pathway of the policy variable (CO2 concentration), and
  2. the relationship between the policy variable and the outcome variable (global temperature).
  
-In monetary policy, the relationship between interest rates (the policy variable)
-and inflation and the output gap (the targets of policy) is known as the 'Taylor rule'. 
+In monetary policy, the recommended-policy relationship between interest rates 
+(the policy variable) and inflation and the output gap (the targets of policy) 
+is known as the '[Taylor rule](https://www.atlantafed.org/cqer/research/taylor-rule)'. 
 
 There is no 'Taylor rule' for emissions policy over time. 
 - not for one country, and certaintly not across all top emitters
