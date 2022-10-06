@@ -16,7 +16,7 @@ publishDate: 2022-09-04T18:38:26+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Nature Climate Change_ 12(9)"
+publication: "_Nature Climate Change_ 12(10): 879-880"
 publication_short: ""
 
 abstract: "Forward-looking information about climate risks is critical for 
