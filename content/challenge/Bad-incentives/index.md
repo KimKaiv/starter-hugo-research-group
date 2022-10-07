@@ -17,7 +17,7 @@ In this drive to meet growing demand, a number of issues rooted in adverse incen
 
 **Issue \#1:** Price competition, asymmetric information, and multi-decadal 'discovery time'
   > “In many ways, the marketplace is operating on blind faith in model validation and the
-     professional competence in applying those models,” with some, “products and services
+     professional competence in applying those models,” with some “products and services
      that may be operating outside of the bounds of scientific merit” ([Keenan, 2019, "A climate
      intelligence arms race in financial markets" *Science*.](https://www.science.org/doi/10.1126/science.aay8442))
 
