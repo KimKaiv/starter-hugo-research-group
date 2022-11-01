@@ -5,12 +5,21 @@
     <link>https://www.crucialab.net/event/</link>
       <atom:link href="https://www.crucialab.net/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Feb 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/icon_hued9da3865e5e2275fc30e6cd1353f7b7_2285_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://www.crucialab.net/event/</link>
     </image>
+    
+    <item>
+      <title>Two projects on learning from markets: bank runs and climate change predictions</title>
+      <link>https://www.crucialab.net/event/huji-eem/</link>
+      <pubDate>Sun, 30 Oct 2022 13:00:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/event/huji-eem/</guid>
+      <description>&lt;p&gt;~&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prediction Markets for Climate Risk</title>
