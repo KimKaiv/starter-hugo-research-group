@@ -54,7 +54,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-\* The image features the cherry tomato, the development of which is closely associated with the 
-Robert H. Smith Faculty of Agriculture, Food and Environment. 
+\* The image is an allusion to the [Robert H. Smith Faculty of Agriculture, Food and Environment](https://en.hafakulta.agri.huji.ac.il/),
+which is closely associated with the development of the cherry tomato. 
+
+. 
 
 
