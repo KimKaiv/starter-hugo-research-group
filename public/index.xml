@@ -477,6 +477,9 @@ of climate research funding.&lt;/p&gt;
 choices and assumptions. Recent &lt;em&gt;&amp;ldquo;many analysts, one data set&amp;rdquo;&lt;/em&gt; studies show the
 danger of relying solely on one research team.&lt;/p&gt;
 &lt;p&gt;Here we present several examples from this literature.&lt;/p&gt;
+&lt;p&gt;We also present an example from climate modelling in which variations
+in modelling choices account for a greater share of variance than variations in
+scenario choice.&lt;/p&gt;
 &lt;br&gt; 
 &lt;h2 id=&#34;silberzahn-et-al-2018httpsjournalssagepubcomdoiabs1011772515245917747646-----social-science-psychology&#34;&gt;&lt;a href=&#34;https://journals.sagepub.com/doi/abs/10.1177/2515245917747646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silberzahn et al. (2018)&lt;/a&gt; &amp;mdash; social science, psychology&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -647,7 +650,7 @@ replications of each study.&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-figure-results-from-health-insurance-2replication-study&#34;&gt;
+&lt;figure  id=&#34;figure-figure-results-from-health-insurance-2-replication-study&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Health insurance&#34; srcset=&#34;
                /challenge/abundance-of-choice/hk_health_insurance_hu613f7e53917fe269be1ce88eb77fc21b_50084_db3d51769d1136830b493f302b04d0a8.webp 400w,
@@ -658,7 +661,7 @@ replications of each study.&lt;/p&gt;
                height=&#34;396&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      Figure: Results from health insurance (#2.)replication study.
+      Figure: Results from health insurance (#2.) replication study.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
@@ -715,6 +718,98 @@ with a wide range of World Bank, OECD, and immigration data.&lt;/p&gt;
 explain even less. &lt;em&gt;Each generated model was unique, which points to a vast universe
 of research design variability normally hidden from view&lt;/em&gt; in the presentation, consumption,
 and perhaps even creation of scientific results.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt; 
+&lt;h2 id=&#34;sognnaes-et-al-2021httpswwwnaturecomarticless41558-021-01206-3-----emissions-modelling&#34;&gt;&lt;a href=&#34;https://www.nature.com/articles/s41558-021-01206-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sognnaes et al. (2021)&lt;/a&gt; &amp;mdash; emissions modelling&lt;/h2&gt;
+&lt;p&gt;Authors develop explicit forward projections of &lt;em&gt;CO2 mitigation efforts&lt;/em&gt; post-2030.
+They employ two different formulations of future emissions mitigation to generate scenarios:
+(i) continuing &lt;em&gt;rates&lt;/em&gt; of emissions-intensity reduction, i.e. emissions per unit of GDP, and
+(ii) scaling of carbon prices in proportion to per capita GDP growth.&lt;/p&gt;
+&lt;p&gt;Whereas in many studies and applications, scenario pathways are identified through
+&amp;lsquo;backcasting&amp;rsquo; from future climate targets, Sognnaes et al. (2021) employ two formulations
+of near-term mitigation efforts &amp;mdash; current policies (CPs) and nationally determined
+contributions (NDCs) &amp;mdash; to which they apply the above-mentioned (i) and (ii) long-term
+emissions-mitigation extensions beyond 2030. This results in a 2x2 matrix of combinations.&lt;/p&gt;
+&lt;p&gt;They then simulate forward emissions pathways using a diverse set of &lt;em&gt;seven&lt;/em&gt; Integrated
+Assessment Models (IAMs):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jgcri.github.io/gcam-doc/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Global Change Analysis Model (GCAM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ucl.ac.uk/energy-models/models/tiam-ucl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The TIMES Integrated Assessment Model (TIAM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.imperial.ac.uk/muse-energy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ModUlar energy system Simulation Environment (MUSE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.i2am-paris.eu/detailed_model_doc/42&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FortyTwo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s10287-007-0047-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The General Equilibrium Model of International-National Interactions between Economy, Energy, and the Environment (GEMINI-E3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s10584-020-02664-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intertemporal Computable Equilibrium System &amp;ndash; eXtended Public Sector (ICES-XPS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.e3me.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Energy-Environment-Economy Macro-Econometric model (E3ME)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-global-energy-co2-emissions-to-2050-in-cp-scenarios-shaded-areas-show-emissions-spanned-by-cp_price-and-cp_intensity-scenarios-for-each-model-and-coloured-bars-show-2050-ranges-2045-value-for-fortytwo-which-has-only-intensity-scenarios-markers-above-bars-show-baseline-values-in-2050-in-2045-for-fortytwo&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Global energy CO2 emissions; based on current policy&#34; srcset=&#34;
+               /challenge/abundance-of-choice/Sognnaes_CP_hub0bb520fec4b99b4f6ba5228d24253fb_76385_ef80762fff4df053b78c21dc2e699117.webp 400w,
+               /challenge/abundance-of-choice/Sognnaes_CP_hub0bb520fec4b99b4f6ba5228d24253fb_76385_01088897983bbb97a296efa8634eb9b8.webp 760w,
+               /challenge/abundance-of-choice/Sognnaes_CP_hub0bb520fec4b99b4f6ba5228d24253fb_76385_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/challenge/abundance-of-choice/Sognnaes_CP_hub0bb520fec4b99b4f6ba5228d24253fb_76385_ef80762fff4df053b78c21dc2e699117.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;533&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Global energy CO2 emissions to 2050 in CP scenarios. Shaded areas show emissions spanned by CP_Price and CP_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-global-energy-co2-emissions-to-2050-in-ndc-scenarios-shaded-areas-show-emissions-spanned-by-ndc_price-and-ndc_intensity-scenarios-for-each-model-and-coloured-bars-show-2050-ranges-2045-value-for-fortytwo-which-has-only-intensity-scenarios-markers-above-bars-show-baseline-values-in-2050-in-2045-for-fortytwo&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Global energy CO2 emissions; based on nationally defined contributions&#34; srcset=&#34;
+               /challenge/abundance-of-choice/Sognnaes_NDC_hub0bb520fec4b99b4f6ba5228d24253fb_80208_9672c26c3c1e4d174dce206d2594ff76.webp 400w,
+               /challenge/abundance-of-choice/Sognnaes_NDC_hub0bb520fec4b99b4f6ba5228d24253fb_80208_f05571abe175b88f6520ecc463369933.webp 760w,
+               /challenge/abundance-of-choice/Sognnaes_NDC_hub0bb520fec4b99b4f6ba5228d24253fb_80208_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/challenge/abundance-of-choice/Sognnaes_NDC_hub0bb520fec4b99b4f6ba5228d24253fb_80208_9672c26c3c1e4d174dce206d2594ff76.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;527&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure: Global energy CO2 emissions to 2050 in NDC scenarios. Shaded areas show emissions spanned by NDC_Price and NDC_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The authors conclude that:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; &lt;em&gt;the model used has a larger impact on results than the method used to extend mitigation effort forward,&lt;/em&gt;
+which in turn has a larger impact on results than whether CPs or NDCs are assumed in 2030.
+The answer to where emissions are headed &amp;ndash; which is a critical question to inform policymakers
+about how much ambition needs to be raised to reach climate targets &amp;ndash; might therefore depend
+more on the choice of models used and the post-2030 assumptions than on the 2030 target
+assumed. This renders estimates of temperature consequences of NDCs and CPs &lt;em&gt;sensitive to study design&lt;/em&gt;
+and &lt;em&gt;highlights the importance of using a diversity of models and extension methods to capture this uncertainty.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;br&gt; 
 &lt;h2 id=&#34;synopsis&#34;&gt;Synopsis&lt;/h2&gt;

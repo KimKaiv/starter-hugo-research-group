@@ -17,7 +17,7 @@ danger of relying solely on one research team.
 
 Here we present several examples from this literature. 
 
-We also present and example from climate modelling in which variations
+We also present an example from climate modelling in which variations
 in modelling choices account for a greater share of variance than variations in 
 scenario choice. 
 
