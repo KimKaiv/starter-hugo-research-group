@@ -101,10 +101,10 @@ and perhaps even creation of scientific results.
 
 <br> 
 
-## [Sognnaes et al. (2021)](https://www.nature.com/articles/s41558-021-01206-3) --- emissions modelling
+## [Sognnaes et al. (2021)](https://www.nature.com/articles/s41558-021-01206-3) --- emissions, integrated assessment modelling
 
-Authors develop explicit forward projections of _CO2 mitigation efforts_ post-2030. 
-They employ two different formulations of future emissions mitigation to generate scenarios: 
+The authors develop explicit post-2030 projections of _CO2 mitigation efforts_. 
+They employ two different formulations to generate emissions-mitigation scenarios: 
 (i) continuing _rates_ of emissions-intensity reduction, i.e. emissions per unit of GDP, and 
 (ii) scaling of carbon prices in proportion to per capita GDP growth. 
 
@@ -125,16 +125,17 @@ Assessment Models (IAMs):
  - [Intertemporal Computable Equilibrium System -- eXtended Public Sector (ICES-XPS)](https://link.springer.com/article/10.1007/s10584-020-02664-y)
  - [The Energy-Environment-Economy Macro-Econometric model (E3ME)](https://www.e3me.com/)
 
+The results of these simulations are summarised in the following two figures. 
 ![Global energy CO2 emissions; based on current policy](Sognnaes_CP.JPG "Figure: Global energy CO2 emissions to 2050 in CP scenarios. Shaded areas show emissions spanned by CP_Price and CP_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo).")
 ![Global energy CO2 emissions; based on nationally defined contributions](Sognnaes_NDC.JPG "Figure: Global energy CO2 emissions to 2050 in NDC scenarios. Shaded areas show emissions spanned by NDC_Price and NDC_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo). ")
 
-The authors conclude that:
+The authors' comclusions parallel those of the 'many analysts, one dataset' studies: 
+
 > ... _the model used has a larger impact on results than the method used to extend mitigation effort forward,_
  which in turn has a larger impact on results than whether CPs or NDCs are assumed in 2030. 
-The answer to where emissions are headed -- which is a critical question to inform policymakers 
-about how much ambition needs to be raised to reach climate targets -- might therefore depend 
+The answer to where emissions are headed ... might therefore depend 
 more on the choice of models used and the post-2030 assumptions than on the 2030 target 
-assumed. This renders estimates of temperature consequences of NDCs and CPs _sensitive to study design_ 
+assumed. This renders estimates of temperature consequences of NDCs and CPs sensitive to study design 
 and _highlights the importance of using a diversity of models and extension methods to capture this uncertainty._
 
 
