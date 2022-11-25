@@ -317,8 +317,8 @@ and perhaps even creation of scientific results.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;br&gt; 
 &lt;h2 id=&#34;sognnaes-et-al-2021httpswwwnaturecomarticless41558-021-01206-3-----emissions-integrated-assessment-modelling&#34;&gt;&lt;a href=&#34;https://www.nature.com/articles/s41558-021-01206-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sognnaes et al. (2021)&lt;/a&gt; &amp;mdash; emissions, integrated assessment modelling&lt;/h2&gt;
-&lt;p&gt;Authors develop explicit forward projections of &lt;em&gt;CO2 mitigation efforts&lt;/em&gt; post-2030.
-They employ two different formulations of future emissions mitigation to generate scenarios:
+&lt;p&gt;The authors develop explicit post-2030 projections of &lt;em&gt;CO2 mitigation efforts&lt;/em&gt;.
+They employ two different formulations to generate emissions-mitigation scenarios:
 (i) continuing &lt;em&gt;rates&lt;/em&gt; of emissions-intensity reduction, i.e. emissions per unit of GDP, and
 (ii) scaling of carbon prices in proportion to per capita GDP growth.&lt;/p&gt;
 &lt;p&gt;Whereas in many studies and applications, scenario pathways are identified through
@@ -337,7 +337,8 @@ Assessment Models (IAMs):&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s10584-020-02664-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intertemporal Computable Equilibrium System &amp;ndash; eXtended Public Sector (ICES-XPS)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.e3me.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Energy-Environment-Economy Macro-Econometric model (E3ME)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
+&lt;p&gt;The results of these simulations are summarised in the following two figures.
+
 
 
 
@@ -397,14 +398,13 @@ Assessment Models (IAMs):&lt;/p&gt;
       Figure: Global energy CO2 emissions to 2050 in NDC scenarios. Shaded areas show emissions spanned by NDC_Price and NDC_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo).
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;The authors conclude that:&lt;/p&gt;
+&lt;p&gt;The authors&amp;rsquo; comclusions parallel those of the &amp;lsquo;many analysts, one dataset&amp;rsquo; studies:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;hellip; &lt;em&gt;the model used has a larger impact on results than the method used to extend mitigation effort forward,&lt;/em&gt;
 which in turn has a larger impact on results than whether CPs or NDCs are assumed in 2030.
-The answer to where emissions are headed &amp;ndash; which is a critical question to inform policymakers
-about how much ambition needs to be raised to reach climate targets &amp;ndash; might therefore depend
+The answer to where emissions are headed &amp;hellip; might therefore depend
 more on the choice of models used and the post-2030 assumptions than on the 2030 target
-assumed. This renders estimates of temperature consequences of NDCs and CPs &lt;em&gt;sensitive to study design&lt;/em&gt;
+assumed. This renders estimates of temperature consequences of NDCs and CPs sensitive to study design
 and &lt;em&gt;highlights the importance of using a diversity of models and extension methods to capture this uncertainty.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;br&gt; 
