@@ -1,10 +1,10 @@
 ---
-title: 'A viability study of joint-outcomepPrediction markets for climate risk'
+title: 'A viability study of joint-outcome prediction markets for climate risk'
 
 event: 'Department Seminar'
 event_url: 
 
-location: 'Department of Economics, De Montford University'
+location: 'Dept of Economics, De Montford University'
 address:
   street: 
   city: Leicester
@@ -12,7 +12,7 @@ address:
   postcode: LE1 9BH
   country: U.K.
 
-summary: 'We demonstrate the viability of highly granular, two-dimensional (joint) outcome spaces with markets for monthly UK rainfall and temperature. '
+summary: 'We demonstrate the viability of highly granular, two-dimensional (joint) outcome spaces with markets for monthly UK rainfall and temperature.'
 
 abstract: 'Predicting future climate requires the integration of knowledge and expertise from a wide range of disciplines. The predictions must account for climate-change mitigation policies which themselves may depend on climate predictions. This interdependency, or “circularity”, means that physical climate predictions must be conditioned on emissions of greenhouse gases (GHGs). Long-range climate forecasts also suffer from information asymmetry because users cannot rely on track records to judge the skill of providers. 
 <br> <br> 
@@ -56,6 +56,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
- 
+#
 
 
