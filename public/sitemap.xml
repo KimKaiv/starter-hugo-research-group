@@ -2,23 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.crucialab.net/authors/</loc>
+    <lastmod>2023-01-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/</loc>
+    <lastmod>2023-01-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/event/pentland/</loc>
+    <lastmod>2023-01-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/author/kim-kaivanto-and-mark-roulston/</loc>
+    <lastmod>2023-01-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/event/</loc>
+    <lastmod>2023-01-25T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.crucialab.net/event/dmu/</loc>
     <lastmod>2022-12-07T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.crucialab.net/authors/</loc>
-    <lastmod>2022-12-07T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/</loc>
-    <lastmod>2022-12-07T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.crucialab.net/author/kim-kaivanto/</loc>
-    <lastmod>2022-12-07T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/event/</loc>
     <lastmod>2022-12-07T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
