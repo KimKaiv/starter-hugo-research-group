@@ -5,12 +5,38 @@
     <link>https://www.crucialab.net/post/</link>
       <atom:link href="https://www.crucialab.net/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Post Archive</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:41:05 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:41:05 +0100</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>Post Archive</title>
       <link>https://www.crucialab.net/post/</link>
     </image>
+    
+    <item>
+      <title>Fixing Climate Forecasting&#39;s Lemon Problem</title>
+      <link>https://www.crucialab.net/post/fixing-climate-forecastings-lemon-problem/</link>
+      <pubDate>Mon, 15 May 2023 00:41:05 +0100</pubDate>
+      <guid>https://www.crucialab.net/post/fixing-climate-forecastings-lemon-problem/</guid>
+      <description>&lt;p&gt;Climate change will bring warmer temperatures, higher sea levels, and changes in rainfall and windstorms, although some of these consequences are far more certain than others.&lt;/p&gt;
+&lt;p&gt;We can mitigate climate change by reducing emissions of greenhouse gases, but we will have to adapt to a different climate. Deciding how much we should adapt is a trillion-dollar question: Preparing for a worst-case scenario that doesn’t materialize could be as costly as failing to invest enough.&lt;/p&gt;
+&lt;p&gt;The desire to ensure that infrastructure and supply-chains are resilient to climate change has created a demand for more detailed climate forecasts. Climate modelling has historically been done by government-funded agencies, with access to supercomputers, but these are now being joined by a proliferation of private companies, ready to satisfy the need for more granular predictions of climate extremes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Commercial weather forecasters have been a source of innovation&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A new industry of “climate analytics” has emerged. The influx of new providers, many backed by venture capital, is welcome. The private sector has provided weather forecasts for many years. Commercial weather forecasters have been a source of innovation and often tailor products to users, such as power companies needing to predict electricity demand. But weather and climate forecasts are different: You can verify weather forecasts after a few days, and in a few months, you’ll know if a forecaster is competent. It can be years, however, or even decades, before the skill of a climate forecaster becomes apparent. When providers are paid upfront for twenty-year forecasts it makes more sense for them to invest in slick marketing than in making their predictions more accurate. George Akerlof won a Nobel Prize for explaining how markets fail when buyers can not evaluate quality. He used the example of low-quality used cars, or “lemons”. Climate forecasting has its own lemon problem, with some products providing precision that cannot be justified, for example. Only sellers of low quality products benefit in this type of market. Consumers and sellers of high quality products lose out.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Regulation is more likely to create barriers to entry, and stifle innovation, than to improve forecasts.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you are deciding where to invest in farmland, or planning a city’s flood defences, there are many climate analytics providers to choose from, but no easy way to distinguish reliable ones from charlatans.   One response has, inevitably, been calls for regulation. But climate analytics is a new and fast-developing field. Novel approaches, including machine learning and AI, are being tried in addition to continual improvements to established methods. No regulator has the expertise to decide which techniques will succeed. Regulation is more likely to create barriers to entry, and stifle innovation, than to improve forecasts.&lt;/p&gt;
+&lt;p&gt;An alternative to regulation would be to replace the existing and extemporary marketplace for climate analytics, which rewards marketing prowess, with a deliberately designed market which rewards accuracy. Futures markets settled on climate-related variables, rather than asset prices, would achieve this. The markets would not be for hedging risks but for aggregating the expertise of participants and providing incentives for them to get it right. Markets designed to obtain information, rather than transfer assets or risks, are dubbed “prediction markets”. Their prevailing prices can be interpreted as probabilities of different outcomes — implied forecasts emerging from the collective wisdom of participants.&lt;/p&gt;
+&lt;p&gt;In the absence of hedgers, a climate prediction market would need to be subsidized — we shouldn’t expect to get information for free. There is a case that climate predictions should be a public good so the government could provide some subsidies. Governments are already spending millions of dollars on climate forecasting research and a well-designed market could channel this funding to providers based on performance.&lt;/p&gt;
+&lt;p&gt;Prediction markets have been suggested as a tool for policymakers in the past but have failed to catch on. Anti-gambling laws have been an obstacle but so has a lack of subsidies to attract participants to markets on specialized topics. Getting governments to rethink the way they fund climate forecasting is a major challenge, but companies and philanthropists can lead the way. They can pioneer a more efficient and transparent way of distributing money than selecting and contracting with individual providers.&lt;/p&gt;
+&lt;p&gt;Companies, public agencies, and non-profits who want more accurate climate forecasts, as well as providers investing in R&amp;amp;D to make them more accurate, have an interest in fixing the market for climate forecasts. The more accurately we can predict future climate, the more cost effectively we can adapt to it.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;The original version of this article appeared as &lt;a href=&#34;https://www.linkedin.com/pulse/fixing-climate-forecastings-lemon-problem-mark-roulston%3FtrackingId=%252BO7dddAxQQiuTcDGWtvfCA%253D%253D/?trackingId=%2BO7dddAxQQiuTcDGWtvfCA%3D%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fixing Climate Forecasting&amp;rsquo;s Lemon Problem&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Beginner&#39;s guide to trading on AGORA prediction markets</title>
@@ -625,10 +651,10 @@ evidence that some climate information has a lemon flavour?&lt;/p&gt;
 &lt;figure  id=&#34;figure-figure-1-the-evolution-of-the-agora-prediction-market-forecast-for-the-total-number-of-hurricanes-during-the-2020-atlantic-hurricane-season&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Atlantic hurricanes during 2020 season&#34; srcset=&#34;
-               /post/agora-hurricane-prediction-markets-settled/featured_hu0168a37685d70d935606e1bf3b15cb70_254126_121cecff4a5faf4a47d1d4f3c6dd2415.webp 400w,
-               /post/agora-hurricane-prediction-markets-settled/featured_hu0168a37685d70d935606e1bf3b15cb70_254126_b1259be53f7b2a967b12253a8c4120ae.webp 760w,
+               /post/agora-hurricane-prediction-markets-settled/featured_hu0168a37685d70d935606e1bf3b15cb70_254126_6e9047dee3b325fbe710598e6757d7a0.webp 400w,
+               /post/agora-hurricane-prediction-markets-settled/featured_hu0168a37685d70d935606e1bf3b15cb70_254126_5c319f3f81220d90d277eaed35599940.webp 760w,
                /post/agora-hurricane-prediction-markets-settled/featured_hu0168a37685d70d935606e1bf3b15cb70_254126_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://www.crucialab.net/post/agora-hurricane-prediction-markets-settled/featured_hu0168a37685d70d935606e1bf3b15cb70_254126_121cecff4a5faf4a47d1d4f3c6dd2415.webp&#34;
+               src=&#34;https://www.crucialab.net/post/agora-hurricane-prediction-markets-settled/featured_hu0168a37685d70d935606e1bf3b15cb70_254126_6e9047dee3b325fbe710598e6757d7a0.webp&#34;
                width=&#34;760&#34;
                height=&#34;380&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -636,6 +662,7 @@ evidence that some climate information has a lemon flavour?&lt;/p&gt;
       &lt;strong&gt;Figure 1&lt;/strong&gt;: The evolution of the AGORA prediction market forecast for the total number of hurricanes during the 2020 Atlantic hurricane season.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p&gt;On November 30 the 2020 Atlantic hurricane season came to an end and Hivemind settled prediction markets forecasting how many hurricanes there would be and how many would make landfall over the U.S.&lt;/p&gt;
 &lt;p&gt;The 2020 hurricane season was one of the most active ever seen. There were 30 named storms, beating the 2005 record of 28. Of the 30 storms, 13 achieved hurricane strength and 6 of those made landfall over the U.S., with a further 4 making landfall over Central America.&lt;/p&gt;
 &lt;p&gt;As part of its participation in the Fifth Cohort of the &lt;a href=&#34;https://lloydslab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lloyd’s Lab InsurTech accelerator&lt;/a&gt;, Hivemind ran hurricane prediction markets on its AGORA prediction market platform. Twenty experts in meteorology and statistical climatology from academia and the private sector took part. The market opened in August when the season was underway and three hurricanes had already occurred. Forecasts from groups at &lt;a href=&#34;https://tropical.colostate.edu/forecasting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colorado State University&lt;/a&gt; and &lt;a href=&#34;https://www.tropicalstormrisk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tropical Storm Risk&lt;/a&gt; were for an active season with 12 and 10 hurricanes respectively. This information was immediately priced into the market, with the expected number of hurricanes jumping from the climatological average of 6 to around 10 on opening.&lt;/p&gt;
 &lt;p&gt;As the season progressed the market expectation fluctuated in response to the formation of new storms — increasing to 12 when three hurricanes formed in the space of a week and falling back during a two week period with no hurricanes. It rose again as a succession of storms formed that meant, as in 2005, the National Hurricane Centre exhausted their &lt;a href=&#34;https://www.nhc.noaa.gov/aboutnames.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alphabetized storm names&lt;/a&gt; and had to resort to Greek letters.&lt;/p&gt;
@@ -643,7 +670,7 @@ evidence that some climate information has a lemon flavour?&lt;/p&gt;
 &lt;p&gt;The AGORA hurricane prediction markets demonstrate how prediction markets assimilate new information as it becomes available. Unlike surveys, which provide a snapshot of views at a point in time, prediction markets allow participants to update their positions in real time.&lt;/p&gt;
 &lt;p&gt;AGORA prediction markets could be used to generate pre-season forecasts of hurricane activity. Markets for multiple years ahead could also produce consensus predictions of the impact climate change may have on storm frequencies and intensities.&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;The original version of this article appeared as &lt;a href=&#34;https://medium.com/hvmd/agora-hurricane-prediction-markets-settled-4841d85b602b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGORA hurricane prediction markets settled&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The original version of this article appeared as &lt;a href=&#34;https://medium.com/hvmd/agora-hurricane-prediction-markets-settled-4841d85b602b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGORA hurricane prediction markets settled&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 </description>
     </item>
