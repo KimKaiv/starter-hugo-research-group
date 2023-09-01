@@ -41,6 +41,7 @@ Information gathatered as part of this Expression of Interest will only be used 
     <input type="text" name="name" id="full-name" placeholder="Name" style="width:700px" required="true"><br>
     <input type="email" name="_replyto" id="email-address" placeholder="email" style="width:700px" required="true"><br>
     <input type="text" name="organization" id="organization" placeholder="Organization" style="width:700px" required="true"><br>
+    <input type="text" name="country" id="country" placeholder="Country" style="width:700px" required="true"><br>
     <input type="text" name="otype" id="otype" placeholder="Sector: Academia, Private, Govt, Non-profit, Other" style="width:700px" required="true"><br>
     <textarea rows="5" name="expertise" id="exprtise" placeholder="Description of expertise." style="width:700px" required="true"></textarea><br>
     <input type="hidden" name="_subject" id="email-subject" value="CRUCIAL EoI" />
