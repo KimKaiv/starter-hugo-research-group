@@ -7,6 +7,9 @@ main:
   - name: Intro
     url: /#welcome
     weight: 10
+  - name: EoI
+    url: /#eoi
+    weight: 15
   - name: Challenges
     url: /#challenge
     weight: 20

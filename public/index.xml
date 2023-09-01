@@ -5,12 +5,32 @@
     <link>https://www.crucialab.net/</link>
       <atom:link href="https://www.crucialab.net/index.xml" rel="self" type="application/rss+xml" />
     <description>CRUCIAL</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:41:05 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Aug 2023 17:12:38 +0100</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>CRUCIAL</title>
       <link>https://www.crucialab.net/</link>
     </image>
+    
+    <item>
+      <title>Expressions of Interest Invited</title>
+      <link>https://www.crucialab.net/post/expression-of-interest/</link>
+      <pubDate>Thu, 31 Aug 2023 17:12:38 +0100</pubDate>
+      <guid>https://www.crucialab.net/post/expression-of-interest/</guid>
+      <description>&lt;p&gt;CRUCIAL is seeking research teams to participate in prediction markets for climate-related risks. Researchers from physical and social sciences with diverse expertise relevant to predicting physical climate risks and forecasting future greenhouse gas emissions and concentrations should register their interest. The markets will not be “pay-to-play” but an innovative way of distributing funding for climate forecasting, based on accuracy.&lt;/p&gt;
+&lt;p&gt;If your research team, group, or organisation, has relevant expertise and is interested in being part of a radical new approach to aggregating information about climate risks please register and provide your details. This expression of interest implies no commitment to take part but means you will be considered as a potential participant and receive updates on the project.&lt;/p&gt;
+&lt;h3 id=&#34;expression-of-interest-form&#34;&gt;Expression of Interest form&lt;/h3&gt;
+&lt;form id=&#34;CRUCIAL EoI&#34; action=&#34;https://formspree.io/f/xrgwkbyk&#34; method=&#34;post&#34;&gt;
+    &lt;input type=&#34;text&#34; name=&#34;name&#34; id=&#34;full-name&#34; placeholder=&#34;Name&#34; style=&#34;width:700px&#34; required=&#34;true&#34;&gt;&lt;br&gt;
+    &lt;input type=&#34;email&#34; name=&#34;_replyto&#34; id=&#34;email-address&#34; placeholder=&#34;email&#34; style=&#34;width:700px&#34; required=&#34;true&#34;&gt;&lt;br&gt;
+    &lt;input type=&#34;text&#34; name=&#34;organization&#34; id=&#34;organization&#34; placeholder=&#34;Organization&#34; style=&#34;width:700px&#34; required=&#34;true&#34;&gt;&lt;br&gt;
+    &lt;input type=&#34;text&#34; name=&#34;otype&#34; id=&#34;otype&#34; placeholder=&#34;Sector: Academia, Private, Govt, Non-profit, Other&#34; style=&#34;width:700px&#34; required=&#34;true&#34;&gt;&lt;br&gt;
+    &lt;textarea rows=&#34;5&#34; name=&#34;expertise&#34; id=&#34;exprtise&#34; placeholder=&#34;Description of expertise.&#34; style=&#34;width:700px&#34; required=&#34;true&#34;&gt;&lt;/textarea&gt;&lt;br&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;_subject&#34; id=&#34;email-subject&#34; value=&#34;CRUCIAL EoI&#34; /&gt;
+  &lt;input type=&#34;submit&#34; value=&#34;Submit&#34;/&gt;
+&lt;/form&gt;
+</description>
+    </item>
     
     <item>
       <title>Fixing Climate Forecasting&#39;s Lemon Problem</title>
