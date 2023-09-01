@@ -33,6 +33,8 @@ CRUCIAL is seeking research teams to participate in prediction markets for clima
 
 If your research team, group, or organisation, has relevant expertise and is interested in being part of a radical new approach to aggregating information about climate risks please register and provide your details. This expression of interest implies no commitment to take part but means you will be considered as a potential participant and receive updates on the project.
 
+Information gathatered as part of this Expression of Interest will only be used by CRUCIAL for the purpose of inviting participants to future climate-risk prediction markets, and will not be shared or transferred without permission. 
+
 ### Expression of Interest form
 
 <form id="CRUCIAL EoI" action="https://formspree.io/f/xrgwkbyk" method="post">
