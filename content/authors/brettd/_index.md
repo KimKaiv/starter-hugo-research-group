@@ -14,7 +14,7 @@ role: Professor of Environmental Economics
 # Organizations/Affiliations
 organizations:
  - name: University of Exeter
-   url: "https://http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Brett_Day" 
+   url: "https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Brett_Day" 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Environmental economist working in the field of ecosystem services.

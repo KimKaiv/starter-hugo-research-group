@@ -29,7 +29,7 @@ projects: []
 
 ---
 
-The CRUCIAL at Lancaster University is opening a prediction market to forecast the number of Atlantic hurricanes in the 2024 hurricane season. The market will allow participants to contribute their expertise to a market-consensus probability forecast that can evolve as new information becomes available.
+CRUCIAL at Lancaster University is opening a prediction market to forecast the number of Atlantic hurricanes in the 2024 hurricane season. The market will allow participants to contribute their expertise to a market-consensus probability forecast that can evolve as new information becomes available.
 
 Participants will not pay to take part, but will receive cash rewards from a £20,000 fund, based on the accuracy of their forecasts. Participants will be invited to take part based on their expertise.
 

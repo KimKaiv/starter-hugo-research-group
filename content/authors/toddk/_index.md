@@ -14,7 +14,7 @@ role: Professor of Economics
 # Organizations/Affiliations
 organizations:
  - name: University of Exeter
-   url: "https://http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Todd_Kaplan" 
+   url: "https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Todd_Kaplan" 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
