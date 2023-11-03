@@ -5,12 +5,30 @@
     <link>https://www.crucialab.net/event/</link>
       <atom:link href="https://www.crucialab.net/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Nov 2023 12:30:00 +0000</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://www.crucialab.net/event/</link>
     </image>
+    
+    <item>
+      <title>Expert Prediction Markets for Climate Risks</title>
+      <link>https://www.crucialab.net/event/exeter23/</link>
+      <pubDate>Wed, 08 Nov 2023 12:30:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/event/exeter23/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markets, Information, and Feedback</title>
+      <link>https://www.crucialab.net/event/nyuad/</link>
+      <pubDate>Thu, 21 Sep 2023 12:00:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/event/nyuad/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Expert Prediction Markets for Climate Risk</title>

@@ -5,12 +5,25 @@
     <link>https://www.crucialab.net/author/mark-roulston/</link>
       <atom:link href="https://www.crucialab.net/author/mark-roulston/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Roulston</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:41:05 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
+      <url>https://www.crucialab.net/author/mark-roulston/avatar_huf973036c37bf8d130b76e03872252ccf_97235_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mark Roulston</title>
       <link>https://www.crucialab.net/author/mark-roulston/</link>
     </image>
+    
+  </channel>
+</rss>
+ </image>
+    
+    <item>
+      <title>Expert Prediction Markets for Climate Risks</title>
+      <link>https://www.crucialab.net/event/exeter23/</link>
+      <pubDate>Wed, 08 Nov 2023 12:30:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/event/exeter23/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fixing Climate Forecasting&#39;s Lemon Problem</title>

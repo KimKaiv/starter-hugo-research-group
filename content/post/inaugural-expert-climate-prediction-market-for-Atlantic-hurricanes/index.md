@@ -40,3 +40,9 @@ Hurricanes are the strongest and most destructive atmospheric events, with wides
 Recent research links [elevated ocean temperatures](https://phys.org/news/2021-03-precise-hurricane-power-ocean-temperature.html) with increased hurricane power. The summer of 2023 is the [hottest on record](https://climate.copernicus.eu/summer-2023-hottest-record#:~:text=North%20Atlantic%20sea%20surface%20temperatures,%C2%B0C%20on%2031st%20August.), with North Atlantic sea-surface temperatures breaking previous record highs. The number and intensity of hurricanes is being affected accordingly.
 
 The CRUCIAL initiative -- a collaboration between researchers at the universities of Lancaster and Exeter -- aims to demonstrate how sponsored prediction markets with expert participants can be used to forecast climate risks by efficiently aggregating diverse expertise and information, and in doing so, how they can be used as a mechanism to allocate funding for climate forecasting in a performance-driven way.
+
+<br>
+
+A variation of this article originally appeared as [Lancaster University to open first prediction market for Atlantic hurricanes](https://www.lancaster.ac.uk/lums/news/lancaster-university-to-open-atlantic-hurricanes-expert-climate-prediction-market)
+
+<br>

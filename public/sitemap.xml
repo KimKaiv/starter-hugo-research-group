@@ -3,30 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.crucialab.net/authors/</loc>
-    <lastmod>2023-08-31T17:12:38+01:00</lastmod>
+    <lastmod>2023-11-08T12:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/</loc>
-    <lastmod>2023-08-31T17:12:38+01:00</lastmod>
+    <lastmod>2023-11-08T12:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/event/exeter23/</loc>
+    <lastmod>2023-11-08T12:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/author/mark-roulston/</loc>
+    <lastmod>2023-11-08T12:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/event/</loc>
+    <lastmod>2023-11-08T12:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/event/nyuad/</loc>
+    <lastmod>2023-09-21T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/author/todd-kaplan/</loc>
+    <lastmod>2023-09-21T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/inaugural-expert-climate-prediction-market-for-atlantic-hurricanes/</loc>
+    <lastmod>2023-09-18T16:12:38+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/author/kim-kaivanto/</loc>
+    <lastmod>2023-09-18T16:12:38+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/</loc>
+    <lastmod>2023-09-18T16:12:38+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/expression-of-interest/</loc>
     <lastmod>2023-08-31T17:12:38+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.crucialab.net/author/kim-kaivanto/</loc>
-    <lastmod>2023-08-31T17:12:38+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/post/</loc>
-    <lastmod>2023-08-31T17:12:38+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.crucialab.net/post/fixing-climate-forecastings-lemon-problem/</loc>
-    <lastmod>2023-05-15T00:41:05+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/author/mark-roulston/</loc>
     <lastmod>2023-05-15T00:41:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,16 +58,8 @@
     <lastmod>2023-01-25T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.crucialab.net/event/</loc>
-    <lastmod>2023-01-25T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.crucialab.net/event/dmu/</loc>
     <lastmod>2022-12-07T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/author/todd-kaplan/</loc>
-    <lastmod>2022-10-30T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/event/huji-eem/</loc>

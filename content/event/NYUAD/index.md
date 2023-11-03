@@ -8,7 +8,7 @@ location: 'Center for Behavioral Institutional Design, NYU Abu Dhabi'
 address:
   street: 'Saadiyat Island'
   city: 'Abu Dhabi'
-  region: 
+  region: 'UAE'
   postcode:
   country: 'United Arab Emirates'
 
