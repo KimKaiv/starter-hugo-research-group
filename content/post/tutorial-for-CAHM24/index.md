@@ -3,7 +3,7 @@ title: "Tutorial for CAHM24"
 subtitle: "Beginner's guide to trading on the CRUCIAL Atlantic Hurricane Market 2024"
 summary: ''
 authors: ["Mark Roulston"]
-tags: []
+tags: [CAHM24]
 categories: []
 date: 2023-11-07T00:41:05+01:00
 lastmod: 2023-11-07T00:41:05+01:00
