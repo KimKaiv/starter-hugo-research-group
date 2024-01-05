@@ -26,7 +26,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-url_pdf: /CAHM24/CAHM24_Bulletin_20240102_v2.pdf
+url_pdf: /CAHM24/CAHM24_Bulletin_20240102_v3.pdf
 
 ---
 ![](featured.png "Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.")
