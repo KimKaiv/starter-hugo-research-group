@@ -7,15 +7,18 @@ main:
   - name: Intro
     url: /#welcome
     weight: 10
-  - name: EoI
-    url: /#eoi
-    weight: 15
+#  - name: EoI
+#    url: /#eoi
+#    weight: 15
   - name: Challenges
     url: /#challenge
     weight: 20
   - name: AGORA
     url: /#agora
     weight: 30
+  - name: Markets
+    url: /#markets
+    weight: 35
   - name: People
     url: /#people
     weight: 40
@@ -25,9 +28,9 @@ main:
   - name: Publications
     url: /#publications
     weight: 60
-  - name: Data  # <--
-    url: /#data
-    weight: 70
+#  - name: Data  # <--
+#    url: /#data
+#    weight: 70
   - name: Posts
     url: /#posts
     weight: 80
