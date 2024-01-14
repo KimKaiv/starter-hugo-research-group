@@ -11,7 +11,7 @@ image:
   preview_only: true
 
 ---
-![Atlantic hurricane tracks](Atlantic_hurricane_tracks.jpg "Atlantic hurricane tracks 1851-2019. Image source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atlantic_hurricane_tracks.jpg).")
+![Atlantic hurricane tracks](Atlantic_hurricane_tracks.jpg)
 
 CRUCIAL Atlantic Hurricane Market 2024 (CAHM24) launched on Dec 11, 2023, and will run until the end of the 2024 Atlantic hurricane season. 
 
@@ -23,6 +23,8 @@ See: [All CAHM24 bulletins](/tag/cahm24)
 
 
 <br> 
+
+Image: Atlantic hurricane tracks 1851-2019. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Atlantic_hurricane_tracks.jpg).
 
 <br> 
 
