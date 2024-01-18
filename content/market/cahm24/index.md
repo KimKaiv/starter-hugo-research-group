@@ -11,6 +11,13 @@ image:
   preview_only: true
 
 # <p><iframe src="https://...." frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+# rm=minimal 
+# https://stackoverflow.com/questions/23446449/google-sheet-embed-url-documentation  ## for details on options
+# range lets you specify the range of cells you want to display
+# widget lets you choose whether to display the sheet tabs at the bottom
+# chrome lets you choose whether to display the spreadsheet title (& sheetname) at the top
+# headers lets you choose whether to display the spreadsheet title at the top
+
 
 ---
 ![Atlantic hurricane tracks](Atlantic_hurricane_tracks.jpg)
@@ -21,7 +28,9 @@ This market is to predict the number of Atlantic hurricanes that occur during th
 
 CAHM24 prices will be posted on this page (see below). Initially, updates will be posted fortnightly. During the hurricane season, updates will be more frequent.  
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjUEwUdYPsURx5vZQyT8eMDJ1i7ZPEL5ce3JwbDYicLPlGHK9nPmCKDg_HAFpCtHIZ5pbzE4lTVAxV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"frameborder="0" width="305" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<br>
+
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjUEwUdYPsURx5vZQyT8eMDJ1i7ZPEL5ce3JwbDYicLPlGHK9nPmCKDg_HAFpCtHIZ5pbzE4lTVAxV/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" frameborder="0" width="305" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 See: [The latest CAHM24 bulletin](/post/cahm24-bulletin-15-01/) 
 
