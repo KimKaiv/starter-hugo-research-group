@@ -30,7 +30,8 @@ CAHM24 prices will be posted on this page (see below). Initially, updates will b
 
 <br>
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjUEwUdYPsURx5vZQyT8eMDJ1i7ZPEL5ce3JwbDYicLPlGHK9nPmCKDg_HAFpCtHIZ5pbzE4lTVAxV/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" frameborder="0" width="305" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p><center><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRjUEwUdYPsURx5vZQyT8eMDJ1i7ZPEL5ce3JwbDYicLPlGHK9nPmCKDg_HAFpCtHIZ5pbzE4lTVAxV/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" frameborder="0" width="305" height="520" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center></p>
+
 
 See: [The latest CAHM24 bulletin](/post/cahm24-bulletin-15-01/) 
 
