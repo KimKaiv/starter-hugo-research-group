@@ -43,8 +43,7 @@ Excerpt of article pertaining to CRUCIAL:
 
 <br>
 
-The original article appeared in [Spanish](https://elpais.com/ciencia/2024-01-17/asi-es-la-carrera-por-conseguir-predicciones-meteorologicas-fiables-a-largo-plazo.html) and has subsequently been republished in
-[Spanish](), 
+The original article appeared in [Spanish](https://elpais.com/ciencia/2024-01-17/asi-es-la-carrera-por-conseguir-predicciones-meteorologicas-fiables-a-largo-plazo.html) and has subsequently been republished in 
 [Spanish](https://agencecookie.com/asi-es-la-carrera-por-conseguir-predicciones-meteorologicas-fiables-a-largo-plazo-ciencia/), 
 [Spanish](https://informacion.center/asi-es-la-carrera-por-conseguir-predicciones-meteorologicas-fiables-a-largo-plazo-ciencia/), 
 [Spanish](https://pegaseinfo.com/asi-es-la-carrera-por-conseguir-predicciones-meteorologicas-fiables-a-largo-plazo-ciencia/), 

@@ -2,31 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.crucialab.net/post/cahm24-bulletin/</loc>
-    <lastmod>2024-01-02T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.crucialab.net/authors/</loc>
-    <lastmod>2024-01-02T12:00:00+00:00</lastmod>
+    <lastmod>2024-01-22T00:01:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/tag/cahm24/</loc>
-    <lastmod>2024-01-02T12:00:00+00:00</lastmod>
+    <lastmod>2024-01-22T00:01:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/</loc>
-    <lastmod>2024-01-02T12:00:00+00:00</lastmod>
+    <lastmod>2024-01-22T00:01:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.crucialab.net/author/kim-kaivanto-and-mark-roulston/</loc>
-    <lastmod>2024-01-02T12:00:00+00:00</lastmod>
+    <loc>https://www.crucialab.net/author/kim-kaivanto/</loc>
+    <lastmod>2024-01-22T00:01:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/</loc>
-    <lastmod>2024-01-02T12:00:00+00:00</lastmod>
+    <lastmod>2024-01-22T00:01:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/tags/</loc>
+    <lastmod>2024-01-22T00:01:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/race-for-reliable-long-term-predictions/</loc>
+    <lastmod>2024-01-22T00:01:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/cahm24-bulletin-15-01/</loc>
+    <lastmod>2024-01-15T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/author/kim-kaivanto-and-mark-roulston/</loc>
+    <lastmod>2024-01-15T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/market/cahm24/</loc>
+    <lastmod>2024-01-14T00:00:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/market/</loc>
+    <lastmod>2024-01-14T00:00:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/cahm24-bulletin/</loc>
     <lastmod>2024-01-02T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -59,10 +79,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/inaugural-expert-climate-prediction-market-for-atlantic-hurricanes/</loc>
-    <lastmod>2023-09-18T16:12:38+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/author/kim-kaivanto/</loc>
     <lastmod>2023-09-18T16:12:38+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
