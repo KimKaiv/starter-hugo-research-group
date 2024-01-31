@@ -49,7 +49,7 @@ The original article appeared in [Spanish](https://elpais.com/ciencia/2024-01-17
 [Spanish](https://pegaseinfo.com/asi-es-la-carrera-por-conseguir-predicciones-meteorologicas-fiables-a-largo-plazo-ciencia/), 
 [Spanish](https://notasdeprensa.org/esta-es-la-carrera-por-las-previsiones-meteorologicas-fiables-a-largo-plazo-ciencia/), 
 [English](https://pledgetimes.com/this-is-the-race-to-achieve-reliable-long-term-weather-predictions/), 
-[English](https://www.archyde.com/this-is-the-race-to-achieve-reliable-long-term-weather-forecasts-science/amp/), and 
+[English](https://www.archyde.com/tag/weather/), and 
 [French](https://littoralinfo.fr/cest-la-course-aux-previsions-meteorologiques-fiables-a-long-terme-science/).
 
 
