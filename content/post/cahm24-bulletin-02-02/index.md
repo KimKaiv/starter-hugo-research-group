@@ -1,7 +1,7 @@
 ---
 title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
-summary: "CRUCIAL's hurricane prediction market is forecasting a higher-than-average number of hurricanes this year."
+summary: "Groundhog Day: little change from last bulletin."
 authors: ["Kim Kaivanto and Mark Roulston"]
 tags: [CAHM24]
 categories: []
