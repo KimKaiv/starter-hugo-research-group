@@ -5,8 +5,8 @@ summary: "CRUCIAL's hurricane prediction market is forecasting a higher-than-ave
 authors: ["Kim Kaivanto and Mark Roulston"]
 tags: [CAHM24]
 categories: []
-date: 2024-02-02T12:00:00+00:00
-lastmod: 2024-02-02T12:00:00+00:00
+date: 2024-02-02T00:01:00+00:00
+lastmod: 2024-02-02T00:01:00+00:00
 featured: false
 draft: false
 
@@ -44,9 +44,9 @@ Dr. Adam Lea recently discussed Tropical Storm Risk’s December forecast on Fox
 
 The interview is available to watch on [YouTube](https://www.youtube.com/watch?v=FEh5LGDVcNA). 
 
-<p>
+<p><center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FEh5LGDVcNA?si=RQW7M8CDJhd7Hvlj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
+</center></p>
 
 <br> 
 
