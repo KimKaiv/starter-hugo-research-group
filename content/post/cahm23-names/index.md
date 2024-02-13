@@ -68,8 +68,7 @@ Furthermore, the names alternate by gender, and are selected to be respectful of
 
 According to data supplied by [NOAA National Hurricane Center](https://www.nhc.noaa.gov/climo/), each season between 
 1991 and 2020 produced  14 named tropical storms on average. 
-Of the tropical storms, on average 7 developed into hurricanes (tropical cyclones with maximum sustained 
-winds of at least 64 knots). 
+Of the tropical storms, on average 7 developed into hurricanes (tropical cyclones with sustained winds of at least 64 knots). 
 
 
 
