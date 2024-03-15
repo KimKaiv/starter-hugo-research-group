@@ -51,7 +51,9 @@ are predicting 14-16 while the European Centre for Medium
 Range Weather Forecasting (ECMWF) are predicting 9 
 hurricanes, although their prediction only runs to September 
 30 and not the end of the official hurricane season on 
-November 30. The [Barcelona Supercomputing Centre’s](https://seasonalhurricanepredictions.bsc.es/)
+November 30. 
+
+The [Barcelona Supercomputing Centre’s](https://seasonalhurricanepredictions.bsc.es/)
 forecast comparisons will become available in April. 
 
 <br> 
