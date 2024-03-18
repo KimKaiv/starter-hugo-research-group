@@ -1,12 +1,12 @@
 ---
-title: 'Climate Risk at a Tipping Point?'
+title: 'Update: Climate Risk at a Tipping Point?'
 subtitle: 'Air Temperature, Sea Surface Temperature, and Tropical Storms'
 summary: "Air Temperature, Sea Surface Temperature, and Tropical Storms" 
 authors: ["Kim Kaivanto"]
 tags: [CAHM24]
 categories: []
-date: 2024-02-12T00:01:00+00:00
-lastmod: 2024-02-12T00:01:00+00:00
+date: 2024-03-18T00:01:00+00:00
+lastmod: 2024-03-18T00:01:00+00:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ projects: []
 
 
 ---
-**Air and Sea Surface Temperature (SST) records have been broken.**
+**Air and Sea Surface Temperature (SST) records have been broken.**[^1]
 
 #### Is this due to
 
@@ -38,21 +38,20 @@ projects: []
 2. **a mid-tail event within gradually accelerating climatic change?**
 3. **a typical event within rapidly accelerating (tipping-point) climate change?**
 
-According to [Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/), January 2024 
-was the warmest on record, pushing the 12-month mean global temperature (Feb 2023 -- Jan 2024) 
-to exceed the 1850-1900 pre-industrial average by more than 1.5°C.  (See summary 
-[here](https://climate.copernicus.eu/copernicus-2024-world-experienced-warmest-january-record).)
+According to [Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/copernicus-february-2024-was-globally-warmest-record-global-sea-surface-temperatures-record-high), 
+February 2024 was the warmest on record, bringing the total number of consecutive record-breaking globally hottest months to 9. 
+This pushed the 12-month mean global temperature (Mar 2023 -- Feb 2024) 
+to exceed the 1850-1900 pre-industrial average by 1.56°C. 
 
-In February, the daily Sea Surface Temperature (SST) for 60°S–60°N reached a new absolute record level. 
-The previous highest values were reached on the 23rd and 24th of August 2023.
+The February average global Sea Surface Temperature (SST) for 60°S–60°N reached a new absolute record level of 21.06°C. 
+The previous high was in August 2023.
 
 ![](sst.png  "**Figure 1.** Daily sea surface temperature (°C) averaged over the extra-polar global ocean (60°S–60°N) 
 for 2015 (blue), 2016 (yellow), 2023 (red), and 2024 (black line). All other years between 1979 and 2022 
 are shown with grey lines. Data source: ERA5. Credit: Copernicus Climate Change Service/ECMWF. [Download
-pdf version](https://climate.copernicus.eu/sites/default/files/custom-uploads/Page%20Uploads/2401%20CB/PR_Fig2_era5_daily_sst_60S-60N.pdf).")
-
+pdf version](https://climate.copernicus.eu/sites/default/files/custom-uploads/2402%20CB/PR_fig4_timeseries_era5_sst_daily_60S-60N_1979-2024.pdf).")
 According to the latest [ENSO update and prediction](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml) 
-by NOAA National Weather Service, "transition from El Niño to ENSO-neutral[^1] is likely by April-June 2024 (79%
+by NOAA National Weather Service, "transition from El Niño to ENSO-neutral[^2] is likely by April-June 2024 (79%
 chance), with increasing odds of La Niña developing in June-August 2024 (55% chance)."
 
 ![](ensoprobs.png "**Figure 2.** NOAA Climate Prediction Center Probabilistic El Niño Southern Oscillation (ENSO) Outlook (8 Feb 2024).")
@@ -103,15 +102,22 @@ If more than one theory is consistent with the observations, keep all of these t
 
 Current data are consistent with a radical tipping-point explantion, but not exclusively so. 
 
-Like Schrödinger's cat, we both are and are not at a tipping point in climate change. 
+Like Schrödinger's cat, we both are and are not at a tipping point in climate change.[^3] 
 
 
 
 
 <br>
 
-[^1]: "ENSO-neutral" refers to the El Niño Southern Oscillation (ENSO) being neither in the (warmer SST) "El Niño" state nor in the 
+[^1]: This post updates and replaces the original version dated Feb 12, 2024. 
+
+[^2]: "ENSO-neutral" refers to the El Niño Southern Oscillation (ENSO) being neither in the (warmer SST) "El Niño" state nor in the 
 (cooler SST) "La Niña" state, whereby the SST in the tropical eastern Pacific falls within +/- 0.5°C of the long-term average. 
+
+[^3]: Gavin Schmidt, director of NASA’s Goddard Institute for Space Studies is recently quoted in [The New Yorker](https://www.newyorker.com/news/daily-comment/why-is-the-sea-so-hot)
+as saying "We don't really know what is going on. ...The other thing that this could all be is, we are starting to see shifts in how the system responds... 
+...nothing in the prior data looked like 2023. Does that mean that the prior data are no longer predictive because the system has changed? 
+I can’t rule that out, and that would obviously be very concerning."
 
 <br>
  
