@@ -3,31 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.crucialab.net/authors/</loc>
-    <lastmod>2024-02-12T00:01:00+00:00</lastmod>
+    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/tag/cahm24/</loc>
-    <lastmod>2024-02-12T00:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/post/tipping-point/</loc>
-    <lastmod>2024-02-12T00:01:00+00:00</lastmod>
+    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/</loc>
-    <lastmod>2024-02-12T00:01:00+00:00</lastmod>
+    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/author/kim-kaivanto/</loc>
-    <lastmod>2024-02-12T00:01:00+00:00</lastmod>
+    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/</loc>
-    <lastmod>2024-02-12T00:01:00+00:00</lastmod>
+    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/tags/</loc>
-    <lastmod>2024-02-12T00:01:00+00:00</lastmod>
+    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/tipping-point/</loc>
+    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/cahm24-bulletin-14-03/</loc>
+    <lastmod>2024-03-14T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/author/kim-kaivanto-and-mark-roulston/</loc>
+    <lastmod>2024-03-14T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/market/cahm24/</loc>
+    <lastmod>2024-03-07T00:00:01+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/market/</loc>
+    <lastmod>2024-03-07T00:00:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/author/mark-roulston/</loc>
@@ -46,24 +62,12 @@
     <lastmod>2024-02-02T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.crucialab.net/author/kim-kaivanto-and-mark-roulston/</loc>
-    <lastmod>2024-02-02T00:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.crucialab.net/post/race-for-reliable-long-term-predictions/</loc>
     <lastmod>2024-01-22T00:01:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/cahm24-bulletin-15-01/</loc>
     <lastmod>2024-01-15T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/market/cahm24/</loc>
-    <lastmod>2024-01-14T00:00:01+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/market/</loc>
-    <lastmod>2024-01-14T00:00:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/cahm24-bulletin/</loc>
@@ -260,9 +264,6 @@
   </url><url>
     <loc>https://www.crucialab.net/post/how-good-are-agora-forecasts/</loc>
     <lastmod>2020-11-24T18:41:05+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/post/cahm24-bulletin-14-03/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/author/brett-day/</loc>
