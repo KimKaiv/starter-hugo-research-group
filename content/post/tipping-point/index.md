@@ -38,6 +38,16 @@ projects: []
 2. **a mid-tail event within gradually accelerating climatic change?**
 3. **a typical event within rapidly accelerating (tipping-point) climate change?**
 
+--- 
+Around the time of this update there has been a cascade of news articles making the same point. 
+
+- [Climate graphic of the week: Oceans set heat records for more than 365 days in a row](https://www.ft.com/content/d1b74e8a-f8f4-4092-af9a-46bcb73a099e)
+- [World on ‘red alert’ after heat records smashed in 2023, UN agency says](https://www.ft.com/content/b2c6d439-de84-46aa-a57e-db64a959e4cd)
+- [World in ‘unknown territory’ after heat records, says head of UN’s climate body](https://www.ft.com/content/70907feb-4c6f-4b7e-a540-15ffee867fc3)
+- [Climate models can’t explain 2023’s huge heat anomaly — we could be in uncharted territory (in *Nature*)](https://www.nature.com/articles/d41586-024-00816-z)
+
+---
+
 According to [Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/copernicus-february-2024-was-globally-warmest-record-global-sea-surface-temperatures-record-high), 
 February 2024 was the warmest on record, bringing the total number of consecutive record-breaking globally hottest months to 9. 
 This pushed the 12-month mean global temperature (Mar 2023 -- Feb 2024) 
