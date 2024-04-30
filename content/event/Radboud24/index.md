@@ -70,7 +70,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-![](foyer.png  "The location for coffee and conversations during breaks.")
+![](foyer.png  "The location for coffee and conversations during breaks. The Elinor Ostrom Building's generous open spaces are the opposite of claustrophobic.")
 ![](livepic.png  "Many thanks to participants in the inaugural *[Experimental Sustainable Finance Symposium](https://www.ru.nl/en/about-us/events/experimental-sustainable-finance-symposium)*.")
 
  
