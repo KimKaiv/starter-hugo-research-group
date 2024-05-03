@@ -61,6 +61,7 @@ The previous high was in August 2023.
 for 2015 (blue), 2016 (yellow), 2023 (red), and 2024 (black line). All other years between 1979 and 2022 
 are shown with grey lines. Data source: ERA5. Credit: Copernicus Climate Change Service/ECMWF. [Download
 pdf version](https://climate.copernicus.eu/sites/default/files/custom-uploads/2402%20CB/PR_fig4_timeseries_era5_sst_daily_60S-60N_1979-2024.pdf).")
+
 According to the latest [ENSO update and prediction](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml) 
 by NOAA National Weather Service, "transition from El Niño to ENSO-neutral[^2] is likely by April-June 2024 (79%
 chance), with increasing odds of La Niña developing in June-August 2024 (55% chance)."
