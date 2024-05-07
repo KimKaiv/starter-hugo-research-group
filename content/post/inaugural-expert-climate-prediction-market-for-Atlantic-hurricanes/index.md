@@ -2,7 +2,7 @@
 title: "Inaugural expert climate prediction market for Atlantic hurricanes"
 subtitle: ""
 summary: "The CRUCIAL at Lancaster University is opening a prediction market to forecast the number of Atlantic hurricanes in the 2024 hurricane season."
-authors: ["Kim Kaivanto"]
+authors: ["Lancaster University Press Team"]
 tags: [CAHM24]
 categories: []
 date: 2023-09-18T16:12:38+01:00

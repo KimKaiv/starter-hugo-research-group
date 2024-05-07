@@ -2,7 +2,7 @@
 title: "Sensing Danger"
 subtitle: "Making sense of our unpredictable planet."
 summary: "From the perils of icebergs and hurricanes to the power of space weather and the devastation of forest fires, Lancaster University researchers have been working for decades to detect and anticipate shifts in the natural world."
-authors: ["Kim Kaivanto"]
+authors: ["Lancaster University Press Team"]
 tags: [CAHM24]
 categories: []
 date: 2024-05-03T16:00:00Z
@@ -92,7 +92,7 @@ Prediction markets bring together data sets, allowing investors to trade on the 
 
 CRUCIAL' prediction markets bring together diverse teams of experts with differing methodological and modelling approaches, giving them 'skin in the game' to incentivise accuracy. Research teams from diverse disciplines, such as regulation, economics, and political science, combine their efforts in one platform, allowing them to buy mutually agreed contracts on specific outcomes (e.g. the contract that there will be 10 Atlantic hurricanes in 2024). Through teams' trading activity, the prices on these specific outcomes come to reflect the teams' collective expertise and can be formally interpreted as probabilities.
 
-[*Please note that this is an abridged version, passing through several editors before the final version was published to the web, and I (Kim Kaivanto) had no opportunity to comment upon this particular draft. Editorial discretion and editorial judgment has prevailed over yours truly.*]
+[*Please note that this is an abridged version, passing through several editors before the final version was published to the web, and it differs in certain details from the draft submitted by Kim Kaivanto. Editorial discretion and editorial judgment has prevailed, in keeping with standard practice in journalism.*]
 
 ## AI iceberg warnings to keep shipping safe
 
