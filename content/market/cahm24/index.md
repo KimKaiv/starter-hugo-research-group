@@ -1,5 +1,7 @@
 ---
 title: ""
+subtitle: ""
+summary: "[CRUCIAL Atlantic Hurricane Market 2024 (CAHM24) launched on Dec 11, 2023, and will run until the end of the 2024 Atlantic hurricane season. This market is to predict the number of Atlantic hurricanes that occur during the 2024 Atlantic surricane season. Click for details and current price-probabilities.](/market/cahm24/)"
 date: 2024-03-07T00:00:01+00:00
 #draft: true 
 
@@ -22,9 +24,7 @@ image:
 ---
 ![Atlantic hurricane tracks](Atlantic_hurricane_tracks.jpg)
 
-CRUCIAL Atlantic Hurricane Market 2024 (CAHM24) launched on Dec 11, 2023, and will run until the end of the 2024 Atlantic hurricane season. 
-
-This market is to predict the number of Atlantic hurricanes that occur during the 2024 Atlantic hurricane season. Atlantic hurricanes (categories 1 to 5) which occur between June 1 and November 30 2024 will count. The market will be settled in December 2024 using the number of hurricanes as classified by the U.S. National Hurricane Centre.
+CRUCIAL Atlantic Hurricane Market 2024 (CAHM24) launched on Dec 11, 2023, and will run until the end of the 2024 Atlantic hurricane season. This market is to predict the number of Atlantic hurricanes that occur during the 2024 Atlantic surricane season. Atlantic hurricanes (categories 1 to 5) which occur between June 1 and November 30 2024 will count. The market will be settled in December 2024 using the number of hurricanes as classified by the U.S. National Hurricane Centre.
 
 CAHM24 prices will be posted on this page (see below). Initially, updates will be posted fortnightly. During the hurricane season, updates will be more frequent.  
 
