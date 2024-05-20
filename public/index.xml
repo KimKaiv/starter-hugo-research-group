@@ -5,12 +5,456 @@
     <link>https://www.crucialab.net/</link>
       <atom:link href="https://www.crucialab.net/index.xml" rel="self" type="application/rss+xml" />
     <description>CRUCIAL</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 14:20:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:01:00 +0000</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>CRUCIAL</title>
       <link>https://www.crucialab.net/</link>
     </image>
+    
+    <item>
+      <title>2024 Atlantic Hurricane Season Prediction Market Bulletin</title>
+      <link>https://www.crucialab.net/post/cahm24-bulletin-20-05/</link>
+      <pubDate>Mon, 20 May 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/cahm24-bulletin-20-05/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-exceedance-probabilities-implied-by-prices-in-the-cahm24-market-for-the-number-of-hurricanes-during-the-2024-atlantic-hurricane-season&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.&#34; srcset=&#34;
+               /post/cahm24-bulletin-20-05/featured_hua09e23d22fb73fcf5233f105b1c041bd_30242_72f2e6ce8ae14759175cc2f7e0d9576d.webp 400w,
+               /post/cahm24-bulletin-20-05/featured_hua09e23d22fb73fcf5233f105b1c041bd_30242_a71819b969265725b20073bbfb25661f.webp 760w,
+               /post/cahm24-bulletin-20-05/featured_hua09e23d22fb73fcf5233f105b1c041bd_30242_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-20-05/featured_hua09e23d22fb73fcf5233f105b1c041bd_30242_72f2e6ce8ae14759175cc2f7e0d9576d.webp&#34;
+               width=&#34;635&#34;
+               height=&#34;621&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Atlantic hurricane season officially begins on June 1. This season is predicted to one of, if not the most, active on record.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The implied probability, according to prices in the 
+CAHM24 expert prediction market, of more than 10 
+hurricanes has increased in the last week from 35% 
+to 44% while the chances of more than 12 
+hurricanes has doubled from 9% to 18%. The 
+chances that the record of 15 hurricanes set in 2005 
+will be equaled or exceeded has also ticked up to 
+4.5%.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;table&#34; srcset=&#34;
+               /post/cahm24-bulletin-20-05/table_huecdc6fe7b5e0c66ce006cbd888510985_102132_29f8abebdee462754b7459ac32631609.webp 400w,
+               /post/cahm24-bulletin-20-05/table_huecdc6fe7b5e0c66ce006cbd888510985_102132_fa2ab8a6386feb91d6cccfa0e4a380b0.webp 760w,
+               /post/cahm24-bulletin-20-05/table_huecdc6fe7b5e0c66ce006cbd888510985_102132_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-20-05/table_huecdc6fe7b5e0c66ce006cbd888510985_102132_29f8abebdee462754b7459ac32631609.webp&#34;
+               width=&#34;690&#34;
+               height=&#34;534&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;manifold-markets&#34;&gt;Manifold Markets&lt;/h2&gt;
+&lt;p&gt;Manifold Markets is running a play-money prediction 
+market for the number of hurricanes in 2024.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Its modal 
+prediction is for around 11 or 12 hurricanes, but it suffers 
+from an &amp;ldquo;overround&amp;rdquo;, with implied probabilities across all 
+outcomes summing to over 200%. This is a problem seen in 
+markets that lack arbitrageurs or a well-designed 
+automated market maker.&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;Price updates from CAHM24 will be regularly published at &lt;a href=&#34;https://www.crucialab.net/market/cahm24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.crucialab.net/market/cahm24/&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt; 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;credits&#34; srcset=&#34;
+               /post/cahm24-bulletin-20-05/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp 400w,
+               /post/cahm24-bulletin-20-05/foot_hu027c121dc7c19ceb83d80756c242423f_74419_d753b396af7b639762aed335c3738d66.webp 760w,
+               /post/cahm24-bulletin-20-05/foot_hu027c121dc7c19ceb83d80756c242423f_74419_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-20-05/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;142&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://manifold.markets/MickBransfield/how-many-hurricanes-in-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://manifold.markets/MickBransfield/how-many-hurricanes-in-2024&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tropical Cyclones vs. Hurricanes vs. Major Hurricanes</title>
+      <link>https://www.crucialab.net/post/hurricane-intensity-scale/</link>
+      <pubDate>Sun, 19 May 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/hurricane-intensity-scale/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What is the difference between a tropical cyclone, a hurricane, and a major hurricane?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A tropical cyclone is a warm-core low pressure system, without any front attached, that develops over the tropical or subtropical waters and has an organized circulation.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Within 5° latitude of the equator, the &lt;em&gt;Coriolis force&lt;/em&gt; is insufficient to generate the &amp;lsquo;spin&amp;rsquo; that is characteristic of cyclones.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-the-seven-tropical-cyclone-formation-basins&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The seven tropical cyclone formation basins.&#34; srcset=&#34;
+               /post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_882d8d32121230afab869b1e991ee9c2.webp 400w,
+               /post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_c53732543aeb4d63c96fcc4333a65012.webp 760w,
+               /post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_882d8d32121230afab869b1e991ee9c2.webp&#34;
+               width=&#34;750&#34;
+               height=&#34;226&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 1.&lt;/strong&gt; The seven tropical cyclone formation basins.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Tropical cyclones forming in the North Atlantic Ocean, the Gulf of Mexico, and the Caribbean Sea basin (light-green area in Figure 1) have the potential to be classed as &lt;em&gt;hurricanes&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Whether they are or not depends on the maximum sustained windspeed of the cyclone. If the maximum windspeed, sustained for periods of 1 minute or more, is at least 74 mph, then the tropical cyclone is classed as a &amp;lsquo;hurricane&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;The Saffir-Simpson Hurricane Wind Scale was developed to grade hurricanes by their damage potential.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Hurricanes in category 3 and above (sustained windspeeds of 111 mph and above) are classed as &lt;em&gt;major hurricanes&lt;/em&gt;(*).&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;strong&gt;Table 1.&lt;/strong&gt; The Saffir-Simpson Hurricane Wind Scale.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Cat&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Windspeed&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Impact illustration: effect on trees&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;74-95 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Large branches of trees will snap; shallow-rooted trees can be toppled.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;96-110 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Many shallowly rooted trees will be snapped or uprooted, blocking numerous roads.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3*&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;111-129 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Many trees will be snapped or uprooted, blocking numerous roads.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4*&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;130-156 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Most trees will be snapped or uprooted; power poles downed. Fallen trees and power poles will isolate residential areas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5*&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&amp;gt;156 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Nearly all trees will be snapped or uprooted and power poles downed. Fallen trees and power poles will isolate residential areas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;img width=50/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;img width=150/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;                             
+&lt;p&gt;&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/W3ghU4e2OKY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Featured image (dial) credit: &lt;a href=&#34;https://www.servicemasterrestore.com/blog/weather/tropical-storms-and-hurricanes-what-s-the-difference-/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.servicemasterrestore.com/blog/weather/tropical-storms-and-hurricanes-what-s-the-difference-/&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://www.noaa.gov/jetstream/tropical/tropical-cyclone-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.noaa.gov/jetstream/tropical/tropical-cyclone-introduction&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Source: &amp;ldquo;Saffir-Simpson Hurricane Wind Scale&amp;rdquo; explainer published by NOAA. &lt;a href=&#34;https://www.nhc.noaa.gov/aboutsshws.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nhc.noaa.gov/aboutsshws.php&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensing Danger</title>
+      <link>https://www.crucialab.net/post/lu-sensing-danger/</link>
+      <pubDate>Fri, 03 May 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/lu-sensing-danger/</guid>
+      <description>&lt;p&gt;From the perils of icebergs and hurricanes to the power of space weather and the devastation of forest fires, Lancaster University researchers have been working for decades to detect and anticipate shifts in the natural world.&lt;/p&gt;
+&lt;p&gt;Through techniques such as remote sensors, mathematical skills and data science, our scientists are learning more about changes taking place in some of the most beautiful and remote places on the planet.&lt;/p&gt;
+&lt;p&gt;From the anticipated to the unexpected, these are changes that are already claiming lives and livelihoods.&lt;/p&gt;
+&lt;p&gt;Our work at Lancaster aims to enable individuals, communities, businesses, and governments to comprehend and respond to some of these events quickly enough to prevent disaster.&lt;/p&gt;
+&lt;p&gt;With global average temperatures at 1.56C above pre-industrial levels, the highest on record, predicting our future climate as accurately as possible is more important than ever.&lt;/p&gt;
+&lt;h2 id=&#34;vanishing-ice&#34;&gt;Vanishing ice&lt;/h2&gt;
+&lt;p&gt;Mal McMillan, Professor in Earth Observation at Lancaster Environment Centre and Co-Director of the Centre of Excellence in Environment Data Science (CEEDS) and Doctor Amber Leeson, Reader in Glaciology and Theme Lead for Environment in the Data Science Institute, are using data science to take vast amounts of information to monitor and model these changes to our planet.&lt;/p&gt;
+&lt;p&gt;Professor McMillan’s research involves using data from European Satellite Agency (ESA) satellites focussed on the polar ice sheets to understand their contribution to global sea level rise.&lt;/p&gt;
+&lt;p&gt;He was part of a team that produced the most complete picture of Greenland ice loss to date. The report showed that Greenland was losing ice seven times faster than in the 1990s and is on track to see 40 million more people exposed to coastal flooding by 2100.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sunset over a tent in the Arctic.&#34; srcset=&#34;
+               /post/lu-sensing-danger/SimpleImage-Sunsetoveratentinthearctic_hu0e8237203507294e5d179ebaebf784e1_238549_7509ef201d88067cd6a8b4f2b41a0812.webp 400w,
+               /post/lu-sensing-danger/SimpleImage-Sunsetoveratentinthearctic_hu0e8237203507294e5d179ebaebf784e1_238549_4a6b7d23e24bad5312e3e3f6b29d5ad4.webp 760w,
+               /post/lu-sensing-danger/SimpleImage-Sunsetoveratentinthearctic_hu0e8237203507294e5d179ebaebf784e1_238549_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/lu-sensing-danger/SimpleImage-Sunsetoveratentinthearctic_hu0e8237203507294e5d179ebaebf784e1_238549_7509ef201d88067cd6a8b4f2b41a0812.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Professor McMillan said: “We’re trying to push the boundaries of what we can observe. Over the last ten years, the resolution and detail of the data we get from satellites has dramatically improved.&lt;/p&gt;
+&lt;p&gt;“Diverse data, capturing the state of ice sheets are now acquired almost continuously so we have vast amounts of data, but the key is how we exploit, model, and extract that information through data science to provide robust scientific evidence.”&lt;/p&gt;
+&lt;p&gt;From optical imagery to radar data from satellites measuring the elevation of the ice surface or snowfall, Professor McMillan is using data to investigate ice loss and understand the mass of ice sheets and what lies above and below the surface.&lt;/p&gt;
+&lt;p&gt;He said: “As the frequency and accuracy of measurements improves, we can look more closely at the structure of ice sheets and understand the climate processes around them.&lt;/p&gt;
+&lt;p&gt;“Radar data and ultra-high-resolution satellite-derived elevation models show lakes buried beneath ice sheets. As we understand more, we also find more that we don’t understand, and very rapid ice loss can often trigger unstable and unpredictable behaviour.”&lt;/p&gt;
+&lt;p&gt;Doctor Leeson knows this well through her research into the cryosphere (the regions on Earth where water freezes into snow or ice) and specifically how climate change affects the Greenland and Antarctic ice sheets.&lt;/p&gt;
+&lt;p&gt;Doctor Leeson’s research helps us understand surface processes. By evaluating how rising temperatures impact ice loss and ‘firn’ (partially compacted snow), her research reveals how extreme weather has affected polar regions. The aim is to predict future impacts and what that might mean for the world.&lt;/p&gt;
+&lt;p&gt;Doctor Leeson said: “Our research is always full of surprises. For example, we knew lakes existed below the ice in Antarctica. This was mapped over 70 years ago. However, our PhD student Jade Bowling discovered new, highly dynamic lakes beneath the Greenland Ice Sheet, one of which exhibited some quite remarkable behaviour.”&lt;/p&gt;
+&lt;p&gt;Through examining the data, they realised the lake was draining beneath the ice, with the water then forcing its way up to the surface, fracturing the ice sheet as it went.&lt;/p&gt;
+&lt;p&gt;“This is a new phenomenon. We’ve not seen anything of that scale. We’re now looking at how we develop systems that utilise these high-resolution data to automatically monitor these future events.”&lt;/p&gt;
+&lt;p&gt;The university’s groundbreaking research has contributed to the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports, the United Nations body that assesses science related to climate change.&lt;/p&gt;
+&lt;p&gt;Doctor Leeson added: “We’re able to have reasonable confidence in future projections – and their respective uncertainties –up to 2100, but as models get better and their accuracy improves, we hope to improve these predictions and project out even further in time. However, while scientists can provide the evidence, it’s up to people and governments worldwide to decide what they do with that knowledge.”&lt;/p&gt;
+&lt;h2 id=&#34;predicting-hurricanes&#34;&gt;Predicting hurricanes&lt;/h2&gt;
+&lt;p&gt;Reacting to climate change and predicting the effects of extreme weather events causing destruction to human life, infrastructure, and the natural environment is the quest of Doctor Kim Kaivanto.&lt;/p&gt;
+&lt;p&gt;Working with Exeter University as part of the Climate Risk and Uncertainty Collective Intelligence Aggregation Laboratory (CRUCIAL), Doctor Kaivanto has launched the initiative&amp;rsquo;s first prediction market to forecast the number of Atlantic hurricanes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A hurricane is fiewed from space, and features a large &amp;amp;rsquo;eye&amp;amp;rsquo;.&#34; srcset=&#34;
+               /post/lu-sensing-danger/SimpleImage-hurricane_hu4d0033a460f4e124670344a68c05602b_222455_3585638377fc010b740d928d95f17b57.webp 400w,
+               /post/lu-sensing-danger/SimpleImage-hurricane_hu4d0033a460f4e124670344a68c05602b_222455_77a7d386c2dd3bf5ce8d56736186a9e4.webp 760w,
+               /post/lu-sensing-danger/SimpleImage-hurricane_hu4d0033a460f4e124670344a68c05602b_222455_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/lu-sensing-danger/SimpleImage-hurricane_hu4d0033a460f4e124670344a68c05602b_222455_3585638377fc010b740d928d95f17b57.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;“Drastically elevated ocean temperatures, driven by climate change, mean that the historical record of hurricanes is no longer a good guide to predict future hurricanes”, said Doctor Kaivanto, Senior Lecturer in the Department of Economics.&lt;/p&gt;
+&lt;p&gt;“Both land surface and sea surface temperatures have been at record levels for a year, and climate scientists don’t fully understand why. Alternative approaches are clearly needed to predict how many hurricanes will occur each year and how intense they might be – and we believe our new prediction market will help.”&lt;/p&gt;
+&lt;p&gt;Hurricanes&amp;rsquo; likely frequency and intensity is valuable information for insurance companies, planners responsible for infrastructure and buildings, and disaster relief planning.&lt;/p&gt;
+&lt;p&gt;Prediction markets bring together data sets, allowing investors to trade on the likelihood of a specific outcome – in this case, allowing investors to agree on the likelihood of a certain number of hurricanes striking this year.&lt;/p&gt;
+&lt;p&gt;CRUCIAL&amp;rsquo; prediction markets bring together diverse teams of experts with differing methodological and modelling approaches, giving them &amp;lsquo;skin in the game&amp;rsquo; to incentivise accuracy. Research teams from diverse disciplines, such as regulation, economics, and political science, combine their efforts in one platform, allowing them to buy mutually agreed contracts on specific outcomes (e.g. the contract that there will be 10 Atlantic hurricanes in 2024). Through teams&amp;rsquo; trading activity, the prices on these specific outcomes come to reflect the teams&amp;rsquo; collective expertise and can be formally interpreted as probabilities.&lt;/p&gt;
+&lt;p&gt;[&lt;em&gt;Please note that this is an abridged version, passing through several editors before the final version was published to the web, and it differs in certain details from the draft submitted by Kim Kaivanto. Editorial discretion and editorial judgment has prevailed, in keeping with standard practice in journalism.&lt;/em&gt;]&lt;/p&gt;
+&lt;h2 id=&#34;ai-iceberg-warnings-to-keep-shipping-safe&#34;&gt;AI iceberg warnings to keep shipping safe&lt;/h2&gt;
+&lt;p&gt;The commercialisation of projects means research is leading to greater environmental, social, and economic benefits.&lt;/p&gt;
+&lt;p&gt;For example, Astrophysicist Doctor John Stott is saving lives and money with a project using artificial intelligence (AI) and satellite imagery to detect icebergs.&lt;/p&gt;
+&lt;p&gt;Working with Dr Matthew Chan, Dr Sonny Bailey, the maritime industry, and other partners, Doctor Stott is developing a precise detection system that can track icebergs and sea ice in shipping routes in any cloud condition with a 94 per cent success rate.&lt;/p&gt;
+&lt;p&gt;Applying techniques used in astrophysics, the system takes large-area synthetic aperture radar (SAR) satellite images of the ocean and identifies icebergs and sea ice.&lt;/p&gt;
+&lt;p&gt;The aim is to send the locations of these potential hazards to the shipping industry, including merchant ships, fishing boats and tourist vessels, hoping to avoid incidents involving icebergs.&lt;/p&gt;
+&lt;h2 id=&#34;northern-lights-science-sheds-light-on-forest-fires&#34;&gt;Northern lights science sheds light on forest fires&lt;/h2&gt;
+&lt;p&gt;Similarly, Professor Michael Kosch, an experimental space scientist, is applying the methodology used to research the aurora (the northern/southern lights) to detect forest fires, saving millions of tons of CO2 emissions and billions of pounds worth of timber forests.&lt;/p&gt;
+&lt;p&gt;Professor Kosch said: “The still or video images of the aurora from more than 100km away and the methodology we use is the same process as detecting smoke plumes in forests or wildfires 10-15km away, i.e. fuzzy moving objects in the distance.”&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-eiscat-vhf-incoherent-scatter-research-radar-in-northern-norway-photograph-mike-kosch&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The EISCAT VHF incoherent scatter research radar in northern Norway.&#34; srcset=&#34;
+               /post/lu-sensing-danger/SimpleImage-NorthernNorwayRadar_hu5800ba2c357b6d9078b0f23bfefeabb6_237488_8cf3b665ff4ff46d27a6f5716156180c.webp 400w,
+               /post/lu-sensing-danger/SimpleImage-NorthernNorwayRadar_hu5800ba2c357b6d9078b0f23bfefeabb6_237488_ad4df0c4267fa58d32b99a1fd138f055.webp 760w,
+               /post/lu-sensing-danger/SimpleImage-NorthernNorwayRadar_hu5800ba2c357b6d9078b0f23bfefeabb6_237488_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/lu-sensing-danger/SimpleImage-NorthernNorwayRadar_hu5800ba2c357b6d9078b0f23bfefeabb6_237488_8cf3b665ff4ff46d27a6f5716156180c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;513&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The EISCAT VHF incoherent scatter research radar in northern Norway. Photograph: Mike Kosch.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Deploying this technology in forests means you can detect fire much sooner, usually in less than 8 minutes, which means suppression actions to stop the fire are going to be much more successful.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;A spin-out company is working in commercial forests using automatic cameras to view the forest floor and horizon to look for smoke, which is then geolocated to 10m resolution and passed on to foresters.&lt;/p&gt;
+&lt;p&gt;Professor Kosch added: &amp;ldquo;Over the last decade, we’ve been able to save billions of pounds in terms of timber not lost and billions of pounds of carbon dioxide (CO2) not emitted. The value of CO2 not emitted is greater than the value of timber saved, which means we’re contributing to the mitigation of climate change.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Fires can grow exponentially, so this technology means we can cover millions of hectares and ultimately reduce the loss of homesteads and livelihoods while saving lives.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;using-the-power-of-mathematics-to-predict-drought&#34;&gt;Using the power of mathematics to predict drought&lt;/h2&gt;
+&lt;p&gt;The university&amp;rsquo;s research supports communities and livelihoods around the world, with Doctor Carolina Euan, Lecturer in Statistics, using the power of mathematics to predict drought in Latin America.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A young child carries a wheelbarrow with two large plastic water cans across a parched landscape.&#34; srcset=&#34;
+               /post/lu-sensing-danger/SimpleImage-Droughtconditions_hu0e8237203507294e5d179ebaebf784e1_257525_c098e763013b870f1ce4626c3b8db2be.webp 400w,
+               /post/lu-sensing-danger/SimpleImage-Droughtconditions_hu0e8237203507294e5d179ebaebf784e1_257525_47bf40c160fcc0de154623f9cbe530e2.webp 760w,
+               /post/lu-sensing-danger/SimpleImage-Droughtconditions_hu0e8237203507294e5d179ebaebf784e1_257525_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/lu-sensing-danger/SimpleImage-Droughtconditions_hu0e8237203507294e5d179ebaebf784e1_257525_c098e763013b870f1ce4626c3b8db2be.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Her research applies data science and statistical methods to process rainfall and solar data for Mexico to understand rainfall and drought patterns and how both are likely to evolve over time.&lt;/p&gt;
+&lt;p&gt;Doctor Euan said, “The climate of dry and rainy seasons in Mexico is well understood, but rainy seasons are becoming more intensive, and dry periods last longer, and both are becoming unpredictable.&lt;/p&gt;
+&lt;p&gt;“My research is bringing together spatial data which reveals the impact of rain isn’t necessarily felt where it falls, with droughts that directly impact the South East having a delayed impact in the North. States need to&lt;/p&gt;
+&lt;p&gt;work together to prepare for climate changes and how this might impact residents, tourism, and agriculture on a national level.”&lt;/p&gt;
+&lt;p&gt;Dr Euan’s latest project investigates the behaviour of ocean waves and how different waves can predict storms and impact tidal energy production.&lt;/p&gt;
+&lt;h2 id=&#34;futureproofing-your-daily-commute-from-solar-storms&#34;&gt;Futureproofing your daily commute from solar storms&lt;/h2&gt;
+&lt;p&gt;Closer to home, a team from Lancaster led by PhD researcher Cameron Patterson and Professor Jim Wild are examining the impact of &amp;lsquo;space weather&amp;rsquo; on railway safety.&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re investigating how the signalling systems on the lines between Preston to Lancaster and Glasgow to Edinburgh can be affected by solar storms switching signals from red to green.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-observing-transient-luminous-events-called-sprites-from-the-karoo-desert&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Observing Transient Luminous Events, called sprites, from the Karoo Desert.&#34; srcset=&#34;
+               /post/lu-sensing-danger/SimpleImage-SouthAfricanspacearray_hudb90db76c435c6984fbf94c8f914934d_234494_a068c9d7913c9463a59ca0b60f6fd0b8.webp 400w,
+               /post/lu-sensing-danger/SimpleImage-SouthAfricanspacearray_hudb90db76c435c6984fbf94c8f914934d_234494_e201b0a941c2f5a7349a3bc155ca1fe3.webp 760w,
+               /post/lu-sensing-danger/SimpleImage-SouthAfricanspacearray_hudb90db76c435c6984fbf94c8f914934d_234494_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/lu-sensing-danger/SimpleImage-SouthAfricanspacearray_hudb90db76c435c6984fbf94c8f914934d_234494_a068c9d7913c9463a59ca0b60f6fd0b8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;571&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Observing Transient Luminous Events, called sprites, from the Karoo Desert.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Solar storms can trigger powerful magnetic disturbances on Earth, creating geomagnetically induced currents (GICs) that could potentially interfere with electrified railway lines powered by overhead cables.&lt;/p&gt;
+&lt;p&gt;Their research found that space weather events capable of triggering faults in track circuits are expected to occur in the UK every few decades.&lt;/p&gt;
+&lt;p&gt;Professor of Space Physics Jim Wild said, &amp;ldquo;As our understanding of space weather improves, we can consider how to reduce the risks, and this information will help railways and other industries plan for the future.&amp;rdquo;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;This post is an adaptation of the Lancaster University website piece entitled &lt;a href=&#34;https://www.lancaster.ac.uk/news/spotlight/sensing-danger/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sensing Danger&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Joint-Outcome Expert Prediction Markets for Climate Risks: Conditional Forecasting with the LMSR</title>
@@ -143,8 +587,8 @@ for 2015 (blue), 2016 (yellow), 2023 (red), and 2024 (black line). All other yea
 are shown with grey lines. Data source: ERA5. Credit: Copernicus Climate Change Service/ECMWF. &lt;a href=&#34;https://climate.copernicus.eu/sites/default/files/custom-uploads/2402%20CB/PR_fig4_timeseries_era5_sst_daily_60S-60N_1979-2024.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download
 pdf version&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
-According to the latest &lt;a href=&#34;https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ENSO update and prediction&lt;/a&gt; 
+&lt;/p&gt;
+&lt;p&gt;According to the latest &lt;a href=&#34;https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ENSO update and prediction&lt;/a&gt; 
 by NOAA National Weather Service, &amp;ldquo;transition from El Niño to ENSO-neutral&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; is likely by April-June 2024 (79%
 chance), with increasing odds of La Niña developing in June-August 2024 (55% chance).&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;
@@ -472,8 +916,7 @@ forecast comparisons will become available in April.&lt;/p&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;CRUCIAL Atlantic Hurricane Market 2024 (CAHM24) launched on Dec 11, 2023, and will run until the end of the 2024 Atlantic hurricane season.&lt;/p&gt;
-&lt;p&gt;This market is to predict the number of Atlantic hurricanes that occur during the 2024 Atlantic hurricane season. Atlantic hurricanes (categories 1 to 5) which occur between June 1 and November 30 2024 will count. The market will be settled in December 2024 using the number of hurricanes as classified by the U.S. National Hurricane Centre.&lt;/p&gt;
+&lt;p&gt;CRUCIAL Atlantic Hurricane Market 2024 (CAHM24) launched on Dec 11, 2023, and will run until the end of the 2024 Atlantic hurricane season. This market is to predict the number of Atlantic hurricanes that occur during the 2024 Atlantic surricane season. Atlantic hurricanes (categories 1 to 5) which occur between June 1 and November 30 2024 will count. The market will be settled in December 2024 using the number of hurricanes as classified by the U.S. National Hurricane Centre.&lt;/p&gt;
 &lt;p&gt;CAHM24 prices will be posted on this page (see below). Initially, updates will be posted fortnightly. During the hurricane season, updates will be more frequent.&lt;/p&gt;
 &lt;br&gt;
 &lt;p&gt;&lt;center&gt;&lt;iframe src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRjUEwUdYPsURx5vZQyT8eMDJ1i7ZPEL5ce3JwbDYicLPlGHK9nPmCKDg_HAFpCtHIZ5pbzE4lTVAxV/pubhtml?gid=0&amp;amp;single=true&amp;amp;widget=false&amp;amp;headers=false&amp;amp;chrome=false&#34; frameborder=&#34;0&#34; width=&#34;305&#34; height=&#34;520&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/center&gt;&lt;/p&gt;

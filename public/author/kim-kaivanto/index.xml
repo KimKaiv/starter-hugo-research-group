@@ -5,16 +5,120 @@
     <link>https://www.crucialab.net/author/kim-kaivanto/</link>
       <atom:link href="https://www.crucialab.net/author/kim-kaivanto/index.xml" rel="self" type="application/rss+xml" />
     <description>Kim Kaivanto</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:01:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.crucialab.net/author/kim-kaivanto/avatar_hu3de92b8f3607bd476e6ade6a8ae183a7_95810_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>Kim Kaivanto</title>
       <link>https://www.crucialab.net/author/kim-kaivanto/</link>
     </image>
     
-  </channel>
-</rss>
-  </image>
+    <item>
+      <title>Tropical Cyclones vs. Hurricanes vs. Major Hurricanes</title>
+      <link>https://www.crucialab.net/post/hurricane-intensity-scale/</link>
+      <pubDate>Sun, 19 May 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/hurricane-intensity-scale/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What is the difference between a tropical cyclone, a hurricane, and a major hurricane?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A tropical cyclone is a warm-core low pressure system, without any front attached, that develops over the tropical or subtropical waters and has an organized circulation.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Within 5° latitude of the equator, the &lt;em&gt;Coriolis force&lt;/em&gt; is insufficient to generate the &amp;lsquo;spin&amp;rsquo; that is characteristic of cyclones.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-the-seven-tropical-cyclone-formation-basins&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The seven tropical cyclone formation basins.&#34; srcset=&#34;
+               /post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_882d8d32121230afab869b1e991ee9c2.webp 400w,
+               /post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_c53732543aeb4d63c96fcc4333a65012.webp 760w,
+               /post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/hurricane-intensity-scale/tc_basins_huf20c39e7616226bda74cda86b85580c1_50742_882d8d32121230afab869b1e991ee9c2.webp&#34;
+               width=&#34;750&#34;
+               height=&#34;226&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 1.&lt;/strong&gt; The seven tropical cyclone formation basins.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Tropical cyclones forming in the North Atlantic Ocean, the Gulf of Mexico, and the Caribbean Sea basin (light-green area in Figure 1) have the potential to be classed as &lt;em&gt;hurricanes&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Whether they are or not depends on the maximum sustained windspeed of the cyclone. If the maximum windspeed, sustained for periods of 1 minute or more, is at least 74 mph, then the tropical cyclone is classed as a &amp;lsquo;hurricane&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;The Saffir-Simpson Hurricane Wind Scale was developed to grade hurricanes by their damage potential.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Hurricanes in category 3 and above (sustained windspeeds of 111 mph and above) are classed as &lt;em&gt;major hurricanes&lt;/em&gt;(*).&lt;/p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;strong&gt;Table 1.&lt;/strong&gt; The Saffir-Simpson Hurricane Wind Scale.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Cat&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Windspeed&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Impact illustration: effect on trees&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;74-95 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Large branches of trees will snap; shallow-rooted trees can be toppled.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;96-110 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Many shallowly rooted trees will be snapped or uprooted, blocking numerous roads.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3*&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;111-129 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Many trees will be snapped or uprooted, blocking numerous roads.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4*&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;130-156 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Most trees will be snapped or uprooted; power poles downed. Fallen trees and power poles will isolate residential areas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5*&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&amp;gt;156 mph&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Nearly all trees will be snapped or uprooted and power poles downed. Fallen trees and power poles will isolate residential areas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;img width=50/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;img width=150/&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;                             
+&lt;p&gt;&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/W3ghU4e2OKY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Featured image (dial) credit: &lt;a href=&#34;https://www.servicemasterrestore.com/blog/weather/tropical-storms-and-hurricanes-what-s-the-difference-/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.servicemasterrestore.com/blog/weather/tropical-storms-and-hurricanes-what-s-the-difference-/&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://www.noaa.gov/jetstream/tropical/tropical-cyclone-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.noaa.gov/jetstream/tropical/tropical-cyclone-introduction&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Source: &amp;ldquo;Saffir-Simpson Hurricane Wind Scale&amp;rdquo; explainer published by NOAA. &lt;a href=&#34;https://www.nhc.noaa.gov/aboutsshws.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nhc.noaa.gov/aboutsshws.php&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Joint-Outcome Expert Prediction Markets for Climate Risks: Conditional Forecasting with the LMSR</title>
@@ -147,8 +251,8 @@ for 2015 (blue), 2016 (yellow), 2023 (red), and 2024 (black line). All other yea
 are shown with grey lines. Data source: ERA5. Credit: Copernicus Climate Change Service/ECMWF. &lt;a href=&#34;https://climate.copernicus.eu/sites/default/files/custom-uploads/2402%20CB/PR_fig4_timeseries_era5_sst_daily_60S-60N_1979-2024.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download
 pdf version&lt;/a&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
-According to the latest &lt;a href=&#34;https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ENSO update and prediction&lt;/a&gt; 
+&lt;/p&gt;
+&lt;p&gt;According to the latest &lt;a href=&#34;https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ENSO update and prediction&lt;/a&gt; 
 by NOAA National Weather Service, &amp;ldquo;transition from El Niño to ENSO-neutral&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; is likely by April-June 2024 (79%
 chance), with increasing odds of La Niña developing in June-August 2024 (55% chance).&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;
@@ -482,23 +586,6 @@ long-term weather predictions with which to adequately prepare for extreme weath
 &lt;a href=&#34;https://pledgetimes.com/this-is-the-race-to-achieve-reliable-long-term-weather-predictions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;English&lt;/a&gt;, 
 &lt;a href=&#34;https://www.archyde.com/tag/weather/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;English&lt;/a&gt;, and 
 &lt;a href=&#34;https://littoralinfo.fr/cest-la-course-aux-previsions-meteorologiques-fiables-a-long-terme-science/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;French&lt;/a&gt;.&lt;/p&gt;
-&lt;br&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Inaugural expert climate prediction market for Atlantic hurricanes</title>
-      <link>https://www.crucialab.net/post/inaugural-expert-climate-prediction-market-for-atlantic-hurricanes/</link>
-      <pubDate>Mon, 18 Sep 2023 16:12:38 +0100</pubDate>
-      <guid>https://www.crucialab.net/post/inaugural-expert-climate-prediction-market-for-atlantic-hurricanes/</guid>
-      <description>&lt;p&gt;CRUCIAL at Lancaster University is opening a prediction market to forecast the number of Atlantic hurricanes in the 2024 hurricane season. The market will allow participants to contribute their expertise to a market-consensus probability forecast that can evolve as new information becomes available.&lt;/p&gt;
-&lt;p&gt;Participants will not pay to take part, but will receive cash rewards from a £20,000 fund, based on the accuracy of their forecasts. Participants will be invited to take part based on their expertise.&lt;/p&gt;
-&lt;p&gt;Teams wishing to take part in CRUCIAL prediction markets are encouraged make themselves known to the CRUCIAL via an &lt;a href=&#34;https://www.crucialab.net/post/expression-of-interest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Expression of Interest&lt;/a&gt;. The market will be opened after the 2023 hurricane season ends.&lt;/p&gt;
-&lt;p&gt;Hurricanes are the strongest and most destructive atmospheric events, with widespread effects across agriculture, wildlife, humans, and property. August-end Hurricane Idalia &lt;a href=&#34;https://www.farmprogress.com/crops/idalia-hit-florida-georgia-agriculture&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;destroyed crops&lt;/a&gt;, &lt;a href=&#34;https://www.independent.co.uk/climate-change/news/flamingos-hurricane-idalia-florida-ohio-b2407441.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dispersed flamingos from Florida to Ohio&lt;/a&gt;, killed &lt;a href=&#34;https://www.independent.co.uk/news/florida-ap-hurricane-idalia-valdosta-georgia-b2407537.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4 people&lt;/a&gt;, caused  &lt;a href=&#34;https://www.reuters.com/markets/us/private-market-insured-losses-hurricane-idalia-be-3-5-bln-moodys-rms-2023-09-04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;$3-5 billion in private insured losses&lt;/a&gt;, and is expected to result in &lt;a href=&#34;https://www.rms.com/newsroom/press-releases/press-detail/2023-09-04/moodys-rms-estimates-us3-billion-to-us5-billion-in-private-market-insured-losses-from-major-hurricane-idalia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;$500 million in claims&lt;/a&gt; to the US National Flood Insurance Program. At the time of writing, Hurricane Lee is bringing strong winds and coastal flooding to the New England coast.&lt;/p&gt;
-&lt;p&gt;Recent research links &lt;a href=&#34;https://phys.org/news/2021-03-precise-hurricane-power-ocean-temperature.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;elevated ocean temperatures&lt;/a&gt; with increased hurricane power. The summer of 2023 is the &lt;a href=&#34;https://climate.copernicus.eu/summer-2023-hottest-record#:~:text=North%20Atlantic%20sea%20surface%20temperatures,%C2%B0C%20on%2031st%20August.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hottest on record&lt;/a&gt;, with North Atlantic sea-surface temperatures breaking previous record highs. The number and intensity of hurricanes is being affected accordingly.&lt;/p&gt;
-&lt;p&gt;The CRUCIAL initiative &amp;ndash; a collaboration between researchers at the universities of Lancaster and Exeter &amp;ndash; aims to demonstrate how sponsored prediction markets with expert participants can be used to forecast climate risks by efficiently aggregating diverse expertise and information, and in doing so, how they can be used as a mechanism to allocate funding for climate forecasting in a performance-driven way.&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;A variation of this article originally appeared as &lt;a href=&#34;https://www.lancaster.ac.uk/lums/news/lancaster-university-to-open-atlantic-hurricanes-expert-climate-prediction-market&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lancaster University to open first prediction market for Atlantic hurricanes&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
 </description>
     </item>

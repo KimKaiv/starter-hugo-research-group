@@ -2,19 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.crucialab.net/post/cahm24-bulletin-20-05/</loc>
+    <lastmod>2024-05-20T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.crucialab.net/authors/</loc>
-    <lastmod>2024-04-25T14:20:00+00:00</lastmod>
+    <lastmod>2024-05-20T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/tag/cahm24/</loc>
+    <lastmod>2024-05-20T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/</loc>
-    <lastmod>2024-04-25T14:20:00+00:00</lastmod>
+    <lastmod>2024-05-20T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.crucialab.net/event/radboud24/</loc>
-    <lastmod>2024-04-25T14:20:00+00:00</lastmod>
+    <loc>https://www.crucialab.net/author/kim-kaivanto-and-mark-roulston/</loc>
+    <lastmod>2024-05-20T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/</loc>
+    <lastmod>2024-05-20T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/tags/</loc>
+    <lastmod>2024-05-20T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/author/kim-kaivanto/</loc>
+    <lastmod>2024-05-19T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/hurricane-intensity-scale/</loc>
+    <lastmod>2024-05-19T00:01:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/author/lancaster-university-press-team/</loc>
+    <lastmod>2024-05-03T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/post/lu-sensing-danger/</loc>
+    <lastmod>2024-05-03T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.crucialab.net/event/radboud24/</loc>
     <lastmod>2024-04-25T14:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,27 +54,11 @@
     <lastmod>2024-04-25T14:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.crucialab.net/tag/cahm24/</loc>
-    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/post/</loc>
-    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/tags/</loc>
-    <lastmod>2024-03-18T00:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.crucialab.net/post/tipping-point/</loc>
     <lastmod>2024-03-18T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/cahm24-bulletin-14-03/</loc>
-    <lastmod>2024-03-14T00:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/author/kim-kaivanto-and-mark-roulston/</loc>
     <lastmod>2024-03-14T00:01:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -155,10 +171,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.crucialab.net/post/prediction-markets-improve-policies-decisions/</loc>
-    <lastmod>2022-09-01T00:41:05+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.crucialab.net/author/lancaster-university-press-team/</loc>
     <lastmod>2022-09-01T00:41:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
