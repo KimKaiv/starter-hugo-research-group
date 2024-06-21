@@ -2,7 +2,7 @@
 title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
 summary: "The first storm of the 2024 hurricane season has formed in the Gulf region --- but it has yet to achieve hurricane status."
-authors: ["Kim Kaivanto and Mark Roulston"]
+authors: ["Kim Kaivanto", "Mark Roulston"]
 tags: [CAHM24]
 categories: []
 date: 2024-06-20T00:01:00+00:00
