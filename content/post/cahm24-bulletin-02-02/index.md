@@ -2,7 +2,7 @@
 title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
 summary: "Groundhog Day: little change from last bulletin."
-authors: ["Kim Kaivanto" "Mark Roulston"]
+authors: ["Kim Kaivanto", "Mark Roulston"]
 tags: [CAHM24]
 categories: []
 date: 2024-02-02T00:01:00+00:00
