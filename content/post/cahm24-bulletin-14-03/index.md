@@ -2,7 +2,7 @@
 title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
 summary: "A new commercial forecast has landed as sea-surface temperatures have been at record levels for 1 year and as El Niño is expected to transition into La Niña by mid-summer."
-authors: ["Kim Kaivanto and Mark Roulston"]
+authors: ["Kim Kaivanto", "Mark Roulston"]
 tags: [CAHM24]
 categories: []
 date: 2024-03-14T00:01:00+00:00
