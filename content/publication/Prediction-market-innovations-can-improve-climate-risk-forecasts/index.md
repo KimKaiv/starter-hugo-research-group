@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Prediction-market innovations can improve climate-risk forecasts"
-authors: [Mark Roulston, Todd Kaplan, Brett Day, and Kim Kaivanto]
+authors: ["Mark Roulston", "Todd Kaplan", "Brett Day", "Kim Kaivanto"]
 date: 2022-09-01T00:01:26+01:00
 doi: "10.1038/s41558-022-01467-6"
 
