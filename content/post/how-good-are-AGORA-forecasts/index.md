@@ -3,7 +3,7 @@ title: 'How good are AGORA forecasts?'
 subtitle: 'An analysis of forecasts produced by Hivemind’s AGORA prediction market platform suggests they are probabilistically calibrated.'
 summary: 'AGORA is a prediction market platform that produces forecasts by aggregating the judgments of people taking part in the market. The collective forecast assigns a probability to each possible outcome. An obvious question, for anyone thinking about using AGORA for forecasting problems, is how good are AGORA forecasts?'
 authors: ["Mark Roulston"]
-tags: []
+tags: [Mark Roulston]
 categories: []
 date: 2020-11-24T18:41:05+01:00
 lastmod: 2020-11-240T18:41:05+01:00

@@ -3,7 +3,7 @@ title: 'Update: Climate Risk at a Tipping Point?'
 subtitle: 'Air Temperature, Sea Surface Temperature, and Tropical Storms'
 summary: "Air Temperature, Sea Surface Temperature, and Tropical Storms" 
 authors: ["Kim Kaivanto"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
 date: 2024-03-18T00:01:00+00:00
 lastmod: 2024-03-18T00:01:00+00:00

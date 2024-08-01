@@ -3,7 +3,7 @@ title: 'Cost witout benefit'
 subtitle: 'How climate-related risk disclosures could become a cost without a benefit'
 summary: 'The market for forward-looking climate information is structurally vulnerable to bad products pushing out good products. This will undermine the credibility of climate-related risk disclosures, turning them into a cost without a benefit.'
 authors: ["Mark Roulston"]
-tags: []
+tags: [Mark Roulston]
 categories: []
 date: 2021-12-17T18:41:05+01:00
 lastmod: 2021-12-17T18:41:05+01:00

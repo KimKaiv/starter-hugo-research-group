@@ -28,7 +28,7 @@ all_day: false
 publishDate: '2022-10-31T00:00:00Z'
 
 authors: [Kim Kaivanto]
-tags: []
+tags: [Kim Kaivanto]
 
 # Is this a featured talk? (true/false)
 featured: false

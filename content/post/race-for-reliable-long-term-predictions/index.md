@@ -3,7 +3,7 @@ title: 'This is the race to achieve reliable long-term weather predictions'
 subtitle: ''
 summary: 'CRUCIAL in the news.'
 authors: ["Kim Kaivanto"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
 date: 2024-01-22T00:01:01+00:00
 lastmod: 2024-01-22T00:01:01+00:00

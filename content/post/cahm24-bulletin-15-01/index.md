@@ -3,7 +3,7 @@ title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
 summary: "CRUCIAL's hurricane prediction market is forecasting a higher-than-average number of hurricanes this year."
 authors: ["Kim Kaivanto", "Mark Roulston"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto", "Mark Roulston"]
 categories: []
 date: 2024-01-15T12:00:00+00:00
 lastmod: 2024-01-15T12:00:00+00:00

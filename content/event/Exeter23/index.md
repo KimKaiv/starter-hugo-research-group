@@ -27,7 +27,7 @@ all_day: false
 publishDate: '2023-10-20T00:00:00Z'
 
 authors: [Mark Roulston]
-tags: []
+tags: [Mark Roulston]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -3,7 +3,7 @@ title: "AGORA hurricane prediction markets settled"
 subtitle: ''
 summary: 'On November 30 the 2020 Atlantic hurricane season came to an end and Hivemind settled prediction markets forecasting how many hurricanes there would be and how many would make landfall over the U.S.'
 authors: ["Mark Roulston"]
-tags: []
+tags: [Mark Roulston]
 categories: []
 date: 2020-12-04T00:41:05+01:00
 lastmod: 2020-12-04T00:41:05+01:00

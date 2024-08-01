@@ -3,7 +3,7 @@ title: 'Tropical Cyclones vs. Hurricanes vs. Major Hurricanes'
 subtitle: 'The Saffir-Simpson Hurricane Wind Scale'
 summary: "What is the difference between a tropical cyclone, a hurricane, and a major hurricane?"
 authors: ["Kim Kaivanto"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
 date: 2024-05-19T00:01:00+00:00
 lastmod: 2024-05-19T00:01:00+00:00

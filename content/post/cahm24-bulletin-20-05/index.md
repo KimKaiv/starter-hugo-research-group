@@ -3,7 +3,7 @@ title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
 summary: "The Atlantic hurricane season officially begins on June 1. This season is predicted to one of, if not the most, active on record."
 authors: ["Kim Kaivanto", "Mark Roulston"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto", "Mark Roulston"]
 categories: []
 date: 2024-05-20T00:01:00+00:00
 lastmod: 2024-05-20T00:01:00+00:00

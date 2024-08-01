@@ -3,7 +3,7 @@ title: "Sensing Danger"
 subtitle: "Making sense of our unpredictable planet."
 summary: "From the perils of icebergs and hurricanes to the power of space weather and the devastation of forest fires, Lancaster University researchers have been working for decades to detect and anticipate shifts in the natural world."
 authors: ["Lancaster University Press Team"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
 date: 2024-05-03T16:00:00Z
 lastmod: 2024-05-03T16:00:00Z

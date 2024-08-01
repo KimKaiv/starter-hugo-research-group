@@ -4,7 +4,7 @@ subtitle: 'The 2024 Atlantic Tropical Storm Naming List'
 summary: "For ease of communication with the public, each tropical storm is alotted a distinctive, instantly recognisable name. 
 The storm retains this name even when it develops into a fully fledged hurricane."
 authors: ["Kim Kaivanto"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
 date: 2024-02-08T00:01:00+00:00
 lastmod: 2024-02-08T00:01:00+00:00

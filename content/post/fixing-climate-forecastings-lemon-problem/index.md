@@ -3,7 +3,7 @@ title: "Fixing Climate Forecasting's Lemon Problem"
 subtitle: ''
 summary: 'The number of private sector suppliers of climate forecasts is growing but knowing whether a provider is competent is hard. Prediction markets for climate-related risks could help.'
 authors: ["Mark Roulston"]
-tags: []
+tags: [Mark Roulston]
 categories: []
 date: 2023-05-15T00:41:05+01:00
 lastmod: 2023-05-15T00:41:05+01:00

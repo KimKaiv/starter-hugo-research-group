@@ -3,7 +3,7 @@ title: "Monetizing Climate Forecasts"
 subtitle: ''
 summary: 'Better climate projections might have clear societal benefits but does that make climate analytics an attractive commercial investment?'
 authors: ["Mark Roulston"]
-tags: []
+tags: [Mark Roulston]
 categories: []
 date: 2024-02-10T00:00:01+00:00
 lastmod: 2024-02-10T00:00:01+00:00

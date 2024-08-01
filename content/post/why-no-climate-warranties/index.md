@@ -3,7 +3,7 @@ title: 'Why no climate warranties?'
 subtitle: ''
 summary: 'The market for climate risk forecasts suffers from information asymmetries which could be mitigated by warranties from forecast providers. Some potential reasons why warranties are not commonplace are worrying.'
 authors: ["Mark Roulston"]
-tags: []
+tags: [Mark Roulston]
 categories: []
 date: 2022-03-10T18:41:05+01:00
 lastmod: 2022-03-10T18:41:05+01:00

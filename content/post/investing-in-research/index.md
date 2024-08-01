@@ -3,7 +3,7 @@ title: 'Comment on: New ways to pay for research could boost scientific progress
 subtitle: ''
 summary: 'There is an alternative to the funding models for scientific research that you discussed: prediction markets.'
 authors: ["Mark Roulston"]
-tags: []
+tags: [Mark Roulston]
 categories: []
 date: 2023-12-14T00:01:01+00:00
 lastmod: 2023-12-15T18:41:05+01:00

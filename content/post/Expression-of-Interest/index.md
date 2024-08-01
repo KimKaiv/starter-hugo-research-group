@@ -3,7 +3,7 @@ title: "Expressions of Interest Invited"
 subtitle: ""
 summary: "CRUCIAL is seeking research teams to participate in prediction markets for climate-related risks. Researchers from physical and social sciences with diverse expertise relevant to predicting physical climate risks and forecasting future greenhouse gas emissions and concentrations should register their interest."
 authors: ["Kim Kaivanto"]
-tags: []
+tags: [Kim Kaivanto]
 categories: []
 date: 2023-08-31T17:12:38+01:00
 lastmod: 2023-08-31T17:12:38+01:00

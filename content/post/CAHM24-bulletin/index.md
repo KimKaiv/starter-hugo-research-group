@@ -3,7 +3,7 @@ title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
 summary: 'Hurricane prediction market suggests an elevated likelihood of an active season.'
 authors: ["Kim Kaivanto", "Mark Roulston"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto", "Mark Roulston"]
 categories: []
 date: 2024-01-02T12:00:00+00:00
 lastmod: 2024-01-02T12:00:00+00:00

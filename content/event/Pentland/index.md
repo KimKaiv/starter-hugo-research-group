@@ -26,7 +26,7 @@ all_day: false
 publishDate: '2022-10-31T00:00:00Z'
 
 authors: [Kim Kaivanto and Mark Roulston]
-tags: []
+tags: ["Kim Kaivanto", "Mark Roulston"]
 
 # Is this a featured talk? (true/false)
 featured: false

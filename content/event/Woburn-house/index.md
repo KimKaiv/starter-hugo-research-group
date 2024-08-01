@@ -32,7 +32,7 @@ all_day: false
 publishDate: '2021-12-15T00:00:00Z'
 
 authors: []
-tags: []
+tags: ["Kim Kaivanto", "Mark Roulston"]
 
 # Is this a featured talk? (true/false)
 featured: false

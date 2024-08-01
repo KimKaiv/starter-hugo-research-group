@@ -25,7 +25,7 @@ summary: "A proposal for generating forward-looking climate-risk information wit
 
 tags: ["greenhouse gas emissions", "temperature anomaly", "prediction markets", 
        "climate risk", "climate change", "adverse incentives", "methdologocial choice", 
-       "multi-disciplinarity", "circularity problem", "data gaps"]
+       "multi-disciplinarity", "circularity problem", "data gaps", "Mark Roulston", "Todd Kaplan", "Brett Day", "Kim Kaivanto"]
 categories: ["CO2", "Prediction markets"]
 featured: true
 

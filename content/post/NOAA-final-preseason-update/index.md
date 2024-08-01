@@ -3,7 +3,7 @@ title: "NOAA's final pre-season update aligns with CAHM24"
 subtitle: ''
 summary: "CAHM24's 70% range of hurricanes anticipates NOAA's final pre-season update."
 authors: ["Kim Kaivanto"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
 date:    2024-05-24T00:01:00+00:00
 lastmod: 2024-05-24T00:01:00+00:00

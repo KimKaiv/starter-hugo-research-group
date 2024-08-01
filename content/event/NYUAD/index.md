@@ -30,7 +30,7 @@ all_day: false
 publishDate: '2023-09-24T00:00:00Z'
 
 authors: [Todd Kaplan]
-tags: []
+tags: [Todd Kaplan]
 
 # Is this a featured talk? (true/false)
 featured: false

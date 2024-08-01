@@ -29,7 +29,7 @@ summary: ""
 
 tags: ["greenhouse gas emissions", "prediction markets", "climate risk", 
        "adverse incentives", "methdologocial choice", "multi-disciplinarity", 
-       "circularity problem", "data gaps"]
+       "circularity problem", "data gaps", "Mark Roulston", "Todd Kaplan", "Brett Day", "Kim Kaivanto"]
 categories: ["CO2", "Prediction markets"]
 featured: true
 

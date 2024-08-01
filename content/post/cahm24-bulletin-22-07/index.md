@@ -3,7 +3,7 @@ title: '2024 Atlantic Hurricane Season Prediction Market Bulletin'
 subtitle: ''
 summary: "Following Beryl, forecasts -- including CAHM24 -- have shifted further."
 authors: ["Kim Kaivanto", "Mark Roulston"]
-tags: [CAHM24]
+tags: ["CAHM24", "Kim Kaivanto", "Mark Roulston"]
 categories: []
 date: 2024-07-22T00:01:00+00:00
 lastmod: 2024-07-22T00:01:00+00:00
