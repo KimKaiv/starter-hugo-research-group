@@ -5,12 +5,146 @@
     <link>https://www.crucialab.net/author/kim-kaivanto/</link>
       <atom:link href="https://www.crucialab.net/author/kim-kaivanto/index.xml" rel="self" type="application/rss+xml" />
     <description>Kim Kaivanto</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:01:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>Kim Kaivanto</title>
       <link>https://www.crucialab.net/author/kim-kaivanto/</link>
     </image>
+    
+    <item>
+      <title>Can expert prediction markets forecast climate-related risks?</title>
+      <link>https://www.crucialab.net/publication/bams/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/publication/bams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2024 Atlantic Hurricane Season Prediction Market Bulletin</title>
+      <link>https://www.crucialab.net/post/cahm24-bulletin-22-07/</link>
+      <pubDate>Mon, 22 Jul 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/cahm24-bulletin-22-07/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-exceedance-probabilities-implied-by-prices-in-the-cahm24-market-for-the-number-of-hurricanes-during-the-2024-atlantic-hurricane-season&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.&#34; srcset=&#34;
+               /post/cahm24-bulletin-22-07/featured_hubd1520245cf720df6365ee94313a625e_48639_ed9e6239cc07992e34ca26a129d31f98.webp 400w,
+               /post/cahm24-bulletin-22-07/featured_hubd1520245cf720df6365ee94313a625e_48639_7f5164cab0b849aec713fe2bded4ac50.webp 760w,
+               /post/cahm24-bulletin-22-07/featured_hubd1520245cf720df6365ee94313a625e_48639_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-22-07/featured_hubd1520245cf720df6365ee94313a625e_48639_ed9e6239cc07992e34ca26a129d31f98.webp&#34;
+               width=&#34;726&#34;
+               height=&#34;692&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hurricane Beryl became the first hurricane of the 2024 season last month and the earliest CAT5 hurricane on record.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The implied probability, according to prices in the CAHM24 expert prediction market, 
+of more than 10 hurricanes has increased from 37% last month to 42%, well above the 
+climatological probability, while the chances of more than 12 hurricanes has increased 
+to from 18% to 23%.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;table&#34; srcset=&#34;
+               /post/cahm24-bulletin-22-07/table_hud3c23d42f125228c70ef1c3ca9d6330c_46730_a39aa5539018fec6e9865d130520a45f.webp 400w,
+               /post/cahm24-bulletin-22-07/table_hud3c23d42f125228c70ef1c3ca9d6330c_46730_a5ad6ebba87bb87c9a74842c8357fb3a.webp 760w,
+               /post/cahm24-bulletin-22-07/table_hud3c23d42f125228c70ef1c3ca9d6330c_46730_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-22-07/table_hud3c23d42f125228c70ef1c3ca9d6330c_46730_a39aa5539018fec6e9865d130520a45f.webp&#34;
+               width=&#34;657&#34;
+               height=&#34;513&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;csu-upgrades-forecast&#34;&gt;CSU upgrades forecast&lt;/h2&gt;
+&lt;p&gt;Earlier this month Colorado State University updated the hurricane season forecast 
+they issued in April by increasing the expected number of hurricanes from 11 to 12. 
+The April forecast was the highest number of hurricanes they had ever predicted 
+pre-season.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;Price updates from CAHM24 will be regularly published at &lt;a href=&#34;https://www.crucialab.net/market/cahm24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.crucialab.net/market/cahm24/&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt; 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;credits&#34; srcset=&#34;
+               /post/cahm24-bulletin-22-07/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp 400w,
+               /post/cahm24-bulletin-22-07/foot_hu027c121dc7c19ceb83d80756c242423f_74419_d753b396af7b639762aed335c3738d66.webp 760w,
+               /post/cahm24-bulletin-22-07/foot_hu027c121dc7c19ceb83d80756c242423f_74419_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-22-07/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;142&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://tropical.colostate.edu/forecasting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tropical.colostate.edu/forecasting.html&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joint-Outcome Expert Information Markets for Climate Risks: Conditional Forecasting with the LMSR</title>
+      <link>https://www.crucialab.net/event/durham24/</link>
+      <pubDate>Mon, 01 Jul 2024 16:30:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/event/durham24/</guid>
+      <description>&lt;p&gt;_&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2024 Atlantic Hurricane Season Prediction Market Bulletin</title>
@@ -1332,6 +1466,117 @@ long-term weather predictions with which to adequately prepare for extreme weath
       <pubDate>Wed, 07 Dec 2022 13:00:00 +0000</pubDate>
       <guid>https://www.crucialab.net/event/dmu/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction-market innovations can improve climate-risk forecasts</title>
+      <link>https://www.crucialab.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</link>
+      <pubDate>Thu, 01 Sep 2022 00:01:26 +0100</pubDate>
+      <guid>https://www.crucialab.net/publication/prediction-market-innovations-can-improve-climate-risk-forecasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRUCIAL White Paper</title>
+      <link>https://www.crucialab.net/publication/crucial-white-paper/</link>
+      <pubDate>Fri, 01 Jul 2022 00:01:26 +0100</pubDate>
+      <guid>https://www.crucialab.net/publication/crucial-white-paper/</guid>
+      <description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What?&lt;/em&gt;&lt;/strong&gt;
+Information markets use market-like 
+mechanisms to elicit and aggregate 
+information. Information markets are not 
+designed to transfer ownership or risk but to 
+exploit the proven ability of markets to 
+discover and synthesize information. 
+Information markets can solve the problems of 
+aggregating diverse climate expertise and
+aligning the incentives of providers. They
+could become the primary mechanism for 
+obtaining forward-looking expertise about 
+climate-related risks.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Why?&lt;/em&gt;&lt;/strong&gt;
+Climate change is recognised as an important 
+source of risk. Regulators now believe that 
+climate-related risks pose, not only a threat to 
+individual firms, but possibly to the stability of 
+the financial system.
+In 2017 the G20’s Task Force on Climate-Related Financial Disclosures (TCFD) 
+published recommendations that firms should 
+disclose forward-looking information about 
+physical and transition climate-related risks. 
+More than two thousand companies have 
+voluntarily signed-up to these 
+recommendations. Regulators and exchanges 
+in many countries plan to make climate-related disclosures mandatory. These trends 
+have created a demand for forward-looking 
+information about climate, such as emissions 
+pathways and changes in physical climate 
+risks. Companies requiring this information 
+are a nascent source of funding for applied 
+climate research. They are particularly 
+interested in the efficiency with which 
+distributed information can be aggregated 
+and communicated for use in decision making 
+and risk management. 
+The marketplace for climate information is 
+diverse and fragmented. Relevant expertise 
+exists in public agencies, academia, think 
+tanks, as well as an emerging class of private 
+companies known as climate service 
+providers (CSPs). Given the long horizons 
+involved, few providers have established track 
+records, so it is difficult for users to evaluate 
+their skill. Furthermore, most forecasts are 
+offered with no warranty. This creates a 
+situation in which bad forecasts can drive out 
+good ones; a situation reminiscent of credit 
+ratings for mortgage-backed securities in the 
+run-up to the subprime crisis.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How?&lt;/em&gt;&lt;/strong&gt;
+We propose a climate information exchange 
+that hosts markets predicting climate-related 
+variables. These variables will include high-level ones, such as global greenhouse gas 
+concentrations, and more granular ones like
+sea-level rise in specific locations. Market 
+participants will include individuals and 
+institutions with expertise across the range of 
+disciplines relevant to climate forecasting, 
+including meteorology, climatology, 
+economics, social sciences, and policy. 
+Participants will use on-platform credits 
+representing a claim on a proportion of 
+research funds distributed through the 
+exchange. These funds will come from public, 
+private, and philanthropic sources interested 
+in effective altruism.
+The exchange will use AGORA, developed by 
+Hivemind Technologies Ltd. AGORA has been 
+used to run expert information markets for 
+seasonal forecasts, El Niño events, Atlantic 
+hurricane activity, and crop yields. AGORA
+solves several problems that have afflicted 
+previous attempts to create information 
+markets for climate: an automated market 
+maker guarantees liquidity allowing markets 
+to function in the absence of uninformed 
+“noise” traders. AGORA supports very large 
+outcome spaces, enabling consensus 
+probability distributions to be extracted, not 
+just probabilities for binary events.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Where?&lt;/em&gt;&lt;/strong&gt;
+Many of the markets will have horizons of 
+more than a decade. The consensus forecasts 
+generated will be a public good, to be 
+distributed for free. There is a strong case for 
+the exchange to be hosted by a university, 
+which will become a hub for international 
+climate expertise.&lt;/p&gt;
 </description>
     </item>
     
