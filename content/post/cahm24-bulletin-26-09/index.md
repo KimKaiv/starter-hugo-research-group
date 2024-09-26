@@ -33,6 +33,8 @@ url_pdf: /CAHM24/CAHM24_Bulletin_20240926.pdf
 
 **Hurricane Helene has become the fifth hurricane of 2024 in an usually quiet first half of a season that was predicted to be very active.**
 
+![](hurricane_helene.jpg "Hurricane Helene viewed from a satellite over the Gulf of Mexico early on Sept. 26, 2024. Source: NOAA / National Hurricane Center.")
+
 The implied probability, according to prices in the CAHM24 expert prediction market, of more than 10 
 hurricanes has dropped since July from 42% to 23%, while the chances of more than 12 hurricanes has 
 decreased to from 23% to 8%. 
