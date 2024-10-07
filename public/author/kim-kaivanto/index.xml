@@ -5,21 +5,234 @@
     <link>https://www.crucialab.net/author/kim-kaivanto/</link>
       <atom:link href="https://www.crucialab.net/author/kim-kaivanto/index.xml" rel="self" type="application/rss+xml" />
     <description>Kim Kaivanto</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 00:01:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.crucialab.net/author/kim-kaivanto/avatar_hu3de92b8f3607bd476e6ade6a8ae183a7_95810_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>Kim Kaivanto</title>
       <link>https://www.crucialab.net/author/kim-kaivanto/</link>
     </image>
     
-  </channel>
-</rss>
-  </image>
+    <item>
+      <title>Hurricane Season 2024 Update</title>
+      <link>https://www.crucialab.net/post/cahm24-season-so-far/</link>
+      <pubDate>Mon, 07 Oct 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/cahm24-season-so-far/</guid>
+      <description>&lt;div&gt; 
+&lt;p&gt;&lt;strong&gt;The 2024 Atlantic hurricane season has exceeded the climatological average of 7.7 hurricanes.&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;em&gt;Named Storm&lt;/em&gt;        &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;Classification&lt;/em&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1. Alberto&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2. Beryl&lt;/td&gt;
+&lt;td&gt;Cat 5 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3. Chris&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4. Debby&lt;/td&gt;
+&lt;td&gt;Cat 1 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5. Ernesto&lt;/td&gt;
+&lt;td&gt;Cat 2 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6. Francine&lt;/td&gt;
+&lt;td&gt;Cat 2 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7. Gordon&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8. Helene&lt;/td&gt;
+&lt;td&gt;Cat 4 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9. Isaac&lt;/td&gt;
+&lt;td&gt;Cat 2 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10. Joyce&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11. Kirk&lt;/td&gt;
+&lt;td&gt;Cat 4 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12. Leslie&lt;/td&gt;
+&lt;td&gt;Cat 1 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13. Milton&lt;/td&gt;
+&lt;td&gt;Cat 4 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;                             
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2024 Atlantic Hurricane Season Prediction Market Bulletin</title>
+      <link>https://www.crucialab.net/post/cahm24-bulletin-26-09/</link>
+      <pubDate>Thu, 26 Sep 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/cahm24-bulletin-26-09/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-exceedance-probabilities-implied-by-prices-in-the-cahm24-market-for-the-number-of-hurricanes-during-the-2024-atlantic-hurricane-season&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_a2c5a0386c6fd3a63faf996435dadae9.webp 400w,
+               /post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_f3168922513d34ea4f9feb2d76a93a5c.webp 760w,
+               /post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_a2c5a0386c6fd3a63faf996435dadae9.webp&#34;
+               width=&#34;758&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hurricane Helene has become the fifth hurricane of 2024 in an usually quiet first half of a season that was predicted to be very active.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hurricane-helene-viewed-from-a-satellite-over-the-gulf-of-mexico-early-on-sept-26-2024-source-noaa--national-hurricane-center&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hurricane Helene viewed from a satellite over the Gulf of Mexico early on Sept. 26, 2024. Source: NOAA / National Hurricane Center.&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_b6a48e522d5173a491d128cba7f62408.webp 400w,
+               /post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_388e6cbb032934b2d54fc98fab7e79ac.webp 760w,
+               /post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_b6a48e522d5173a491d128cba7f62408.webp&#34;
+               width=&#34;620&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Hurricane Helene viewed from a satellite over the Gulf of Mexico early on Sept. 26, 2024. Source: NOAA / National Hurricane Center.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The implied probability, according to prices in the CAHM24 expert prediction market, of more than 10 
+hurricanes has dropped since July from 42% to 23%, while the chances of more than 12 hurricanes has 
+decreased to from 23% to 8%.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;table&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_4bcfa0759f25cbff0899a5cdc541e94b.webp 400w,
+               /post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_4889f794e3cf993c340487d903fba264.webp 760w,
+               /post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_4bcfa0759f25cbff0899a5cdc541e94b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;581&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;why-has-the-season-been-so-quiet&#34;&gt;Why has the season been so quiet?&lt;/h2&gt;
+&lt;p&gt;It has been more than half a century since there has been a 
+period without hurricanes during August and September as 
+long as the one that was brought to end by Helene. One 
+possible explanation is a northward shift in the West 
+African monsoon which generates tropical waves that can 
+disrupt the evolution of tropical storms. This reason 
+illustrates why statistical relationships between sea surface 
+temperatures and hurricane activity seen in the historical 
+record might not persist in a changing climate.&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;Price updates from CAHM24 will be regularly published at &lt;a href=&#34;https://www.crucialab.net/market/cahm24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.crucialab.net/market/cahm24/&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;credits&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp 400w,
+               /post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_d753b396af7b639762aed335c3738d66.webp 760w,
+               /post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;142&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>Joint-Outcome Prediction Markets for Climate Risks</title>
       <link>https://www.crucialab.net/publication/plos-one/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://www.crucialab.net/publication/plos-one/</guid>
       <description></description>
     </item>

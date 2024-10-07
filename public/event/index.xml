@@ -5,12 +5,31 @@
     <link>https://www.crucialab.net/event/</link>
       <atom:link href="https://www.crucialab.net/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 16:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2024 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://www.crucialab.net/event/</link>
     </image>
+    
+    <item>
+      <title>Expert Prediction Markets for Climate Risks</title>
+      <link>https://www.crucialab.net/event/reading24/</link>
+      <pubDate>Wed, 18 Sep 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/event/reading24/</guid>
+      <description>&lt;p&gt;*Image: &lt;a href=&#34;https://www.reading.ac.uk/planet/climate-resources/climate-stripes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Climate Stripes&lt;/a&gt;, created by Professor Ed Hawkins at the University of Reading in 2018, &lt;a href=&#34;https://geographical.co.uk/climate-change/white-cliffs-of-dover-warming-stripes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;projected onto the White Cliffs of Dover&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manipulation and (Mis)Trust in Prediction Markets</title>
+      <link>https://www.crucialab.net/event/lu-ffmm-24/</link>
+      <pubDate>Fri, 13 Sep 2024 14:45:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/event/lu-ffmm-24/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Joint-Outcome Expert Information Markets for Climate Risks: Conditional Forecasting with the LMSR</title>

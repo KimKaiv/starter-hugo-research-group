@@ -5,12 +5,373 @@
     <link>https://www.crucialab.net/post/</link>
       <atom:link href="https://www.crucialab.net/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Post Archive</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2024 00:01:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 00:01:00 +0000</lastBuildDate>
     <image>
       <url>https://www.crucialab.net/media/logo_hu4e2de4b1cff4b5121e5bc4616029ffd0_52187_300x300_fit_lanczos_3.png</url>
       <title>Post Archive</title>
       <link>https://www.crucialab.net/post/</link>
     </image>
+    
+    <item>
+      <title>Hurricane Season 2024 Update</title>
+      <link>https://www.crucialab.net/post/cahm24-season-so-far/</link>
+      <pubDate>Mon, 07 Oct 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/cahm24-season-so-far/</guid>
+      <description>&lt;div&gt; 
+&lt;p&gt;&lt;strong&gt;The 2024 Atlantic hurricane season has exceeded the climatological average of 7.7 hurricanes.&lt;/strong&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;em&gt;Named Storm&lt;/em&gt;        &lt;/th&gt;
+&lt;th&gt;&lt;em&gt;Classification&lt;/em&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1. Alberto&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2. Beryl&lt;/td&gt;
+&lt;td&gt;Cat 5 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3. Chris&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4. Debby&lt;/td&gt;
+&lt;td&gt;Cat 1 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5. Ernesto&lt;/td&gt;
+&lt;td&gt;Cat 2 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6. Francine&lt;/td&gt;
+&lt;td&gt;Cat 2 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7. Gordon&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8. Helene&lt;/td&gt;
+&lt;td&gt;Cat 4 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9. Isaac&lt;/td&gt;
+&lt;td&gt;Cat 2 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10. Joyce&lt;/td&gt;
+&lt;td&gt;Tropical Storm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11. Kirk&lt;/td&gt;
+&lt;td&gt;Cat 4 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12. Leslie&lt;/td&gt;
+&lt;td&gt;Cat 1 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13. Milton&lt;/td&gt;
+&lt;td&gt;Cat 4 Hurricane&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;                             
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preventing high frequency trading in a climate prediction market</title>
+      <link>https://www.crucialab.net/post/mark-hft/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:01 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/mark-hft/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;High frequency trading can increase the speed at which new information is incorporated into prices in a prediction market, but this extra speed might be unnecessary for the usefulness of the forecasts the market is producing.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Suppose prediction markets for climate risks became well established and the forecasts they generated were widely used by policy makers and decision makers for informing policies concerning greenhouse gas emissions and for planning adaptation to climate change. Climate experts could take part in these markets which would aggregate their views, and the market prices could incorporate new information as it becomes available to the participants.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If the forecast horizon of the prediction market is years, it won’t make much difference to decision makers whether it takes seconds or hours for the new information to be incorporated into prices.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When a new forecast or data set is published, if the market allows round-the-clock and continuous trading, participants will want to be the first to trade on this new information. But, if the forecast horizon of the market is weeks, or even years, it won’t make much difference to decision makers whether it takes seconds or hours for the new information to be incorporated into prices. The participants constantly refreshing their browsers to be the first to get the forecast and trade on it, or writing code to do this automatically, will be doing something no more socially useful than if they were trying to secure tickets for a Taylor Swift or Oasis concert.&lt;/p&gt;
+&lt;p&gt;Financial markets suffer from the same problem. There is a high frequency arms race in which traders try to be the first to respond to changes in asset prices that will affect the prices of other assets. For example, when the same, or closely related securities, are traded on two different exchanges it is an opportunity for high frequency arbitrage. Some firms have built dedicated private fibre optic and microwave links to communicate price changes between exchanges a fraction of a second faster than their competitors. It is debatable whether this high frequency trading disadvantages retail investors but it is not debatable that many smart people are engaged in this activity and are expending real-world resources in the race to be first. However, speeding up price discovery by fractions of a second is not necessarily useful to the real economy. Whether it’s because of this social wastefulness, its purported negative effect on retail investors, or its alleged contribution to &amp;ldquo;flash crashes&amp;rdquo;, people have proposed &lt;a href=&#34;https://www.economicsreview.org/post/should-high-frequency-trading-be-regulated&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regulating or banning high frequency trading&lt;/a&gt;. The enforcement of regulations in a continuously traded market would be a challenge so it has been suggested that the continuous nature of the market itself is a design flaw and that high frequency trading could be eliminated by changing the design.&lt;/p&gt;
+&lt;p&gt;Eric Budish , Peter Cramton and John Shim have advocated replacing continuous trading 
+in financial markets with &amp;ldquo;&lt;a href=&#34;https://academic.oup.com/qje/article/130/4/1547/1916146&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;frequent batch auctions&lt;/a&gt;&amp;rdquo;. Traders would submit bids and 
+offers to the market and an auction would be held at regular intervals to match buyers 
+and sellers. Within each auction the order in which bids and offers were submitted is 
+irrelevant, so there is nothing to be gained by being faster than the interval between 
+the auctions. This interval could be as little as one tenth of a second in financial 
+markets, which would still allow price discovery to occur swiftly enough for the purposes 
+of decision making in the real economy, but would render the construction of private 
+communication links and &amp;ldquo;co-locating&amp;rdquo; to be closer to exchanges pointless.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Eliminating the potential returns to high frequency trading would focus participants in a climate prediction market on improving the long-range climate predictions that the market is meant to deliver.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;CRUCIAL&amp;rsquo;s platform runs climate prediction markets with expert participants using 
+continuous trading. It can support markets with thousands of distinct outcomes 
+because it uses an &lt;a href=&#34;https://mason.gmu.edu/~rhanson/mktscore.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;automated market maker&lt;/a&gt;. 
+This is essential because, with so many 
+outcomes, it might be unlikely that any two participants will want to trade identical 
+baskets of outcomes, so directly matching buyers and sellers is impractical. Implementing 
+frequent batch auctions for such markets requires an auction algorithm that can deal 
+with this problem. A &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309164&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recently published paper&lt;/a&gt; 
+by myself and &lt;a href=&#34;https://www.crucialab.net/author/kim-kaivanto/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kim Kaivanto&lt;/a&gt; describes an 
+auction algorithm that directly compares bids and offers of baskets of different outcomes 
+based on the premium being offered above what the automated market maker would quote.
+Although the algorithm has only been used so far as a way to set initial prices in a 
+prediction market it could also be used to run frequent batch auctions.&lt;/p&gt;
+&lt;p&gt;Climate prediction markets are intended to be an efficient mechanism for aggregating 
+climate expertise and incentivizing climate researchers to improve forecasts of 
+climate-related risks. To prevent the efforts of researchers from being diverted 
+towards trading fractions of a second faster than other participants frequent batch 
+auctions might be a better approach than continuous time trading.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;*Photo credit: &lt;a href=&#34;https://www.flickr.com/photos/countylemonade/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.flickr.com/photos/countylemonade/&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;The original version of this article appeared as 
+&lt;a href=&#34;https://www.linkedin.com/pulse/preventing-high-frequency-trading-climate-prediction-market-roulston-kcsvf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preventing high frequency trading in a climate prediction market&lt;/a&gt; 
+on LinkedIn.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2024 Atlantic Hurricane Season Prediction Market Bulletin</title>
+      <link>https://www.crucialab.net/post/cahm24-bulletin-26-09/</link>
+      <pubDate>Thu, 26 Sep 2024 00:01:00 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/cahm24-bulletin-26-09/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-exceedance-probabilities-implied-by-prices-in-the-cahm24-market-for-the-number-of-hurricanes-during-the-2024-atlantic-hurricane-season&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_a2c5a0386c6fd3a63faf996435dadae9.webp 400w,
+               /post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_f3168922513d34ea4f9feb2d76a93a5c.webp 760w,
+               /post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/featured_hu5fb4b526b4855e26ae82d52fa69e98b3_311797_a2c5a0386c6fd3a63faf996435dadae9.webp&#34;
+               width=&#34;758&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Exceedance probabilities implied by prices in the CAHM24 market for the number of hurricanes during the 2024 Atlantic hurricane season.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hurricane Helene has become the fifth hurricane of 2024 in an usually quiet first half of a season that was predicted to be very active.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hurricane-helene-viewed-from-a-satellite-over-the-gulf-of-mexico-early-on-sept-26-2024-source-noaa--national-hurricane-center&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hurricane Helene viewed from a satellite over the Gulf of Mexico early on Sept. 26, 2024. Source: NOAA / National Hurricane Center.&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_b6a48e522d5173a491d128cba7f62408.webp 400w,
+               /post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_388e6cbb032934b2d54fc98fab7e79ac.webp 760w,
+               /post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/hurricane_helene_hub160c4076e698b24aab8a9864bde1a1f_33820_b6a48e522d5173a491d128cba7f62408.webp&#34;
+               width=&#34;620&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Hurricane Helene viewed from a satellite over the Gulf of Mexico early on Sept. 26, 2024. Source: NOAA / National Hurricane Center.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The implied probability, according to prices in the CAHM24 expert prediction market, of more than 10 
+hurricanes has dropped since July from 42% to 23%, while the chances of more than 12 hurricanes has 
+decreased to from 23% to 8%.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;table&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_4bcfa0759f25cbff0899a5cdc541e94b.webp 400w,
+               /post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_4889f794e3cf993c340487d903fba264.webp 760w,
+               /post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/table_hu165fe3e5ae47341116859b588cc85df4_128479_4bcfa0759f25cbff0899a5cdc541e94b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;581&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;why-has-the-season-been-so-quiet&#34;&gt;Why has the season been so quiet?&lt;/h2&gt;
+&lt;p&gt;It has been more than half a century since there has been a 
+period without hurricanes during August and September as 
+long as the one that was brought to end by Helene. One 
+possible explanation is a northward shift in the West 
+African monsoon which generates tropical waves that can 
+disrupt the evolution of tropical storms. This reason 
+illustrates why statistical relationships between sea surface 
+temperatures and hurricane activity seen in the historical 
+record might not persist in a changing climate.&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;Price updates from CAHM24 will be regularly published at &lt;a href=&#34;https://www.crucialab.net/market/cahm24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.crucialab.net/market/cahm24/&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;credits&#34; srcset=&#34;
+               /post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp 400w,
+               /post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_d753b396af7b639762aed335c3738d66.webp 760w,
+               /post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.crucialab.net/post/cahm24-bulletin-26-09/foot_hu027c121dc7c19ceb83d80756c242423f_74419_9ea36e6df61b3544d6347940d2e1d0c9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;142&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate prediction markets and manipulation</title>
+      <link>https://www.crucialab.net/post/mark-manipulation-24/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:01 +0000</pubDate>
+      <guid>https://www.crucialab.net/post/mark-manipulation-24/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Prediction markets for climate-related risks could be a prime target for manipulators wishing to create the impression that climate change is either less or more of a problem than the scientific consensus. How susceptible could a climate prediction market be to this type of activity?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is possible that interested parties would attempt to distort prediction market forecasts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Long-range prediction markets for climate change could be a useful tool for policy 
+makers by aggregating expertise and modelling from different disciplines to produce 
+probability forecasts of climate-related risks. Policy makers could use these forecasts 
+to guide their decisions aimed at reducing emissions of greenhouse gases and adaptation. 
+However, given the political and economic ramifications of such decisions it is possible 
+that interested parties would attempt to distort prediction market forecasts. For example, 
+fossil-fuel companies might want to underplay the risk of climate change to slow down the 
+decarbonization of the economy. They might try to manipulate market prices by buying outcomes 
+they want to appear more probable. They might lose money in the prediction market by doing 
+this but consider it a price worth paying to steer policy makers towards policies that are 
+good for their profits.&lt;/p&gt;
+&lt;p&gt;If prediction markets are to be used to inform major questions, such as climate change, 
+it is vital that we understand how easy they are to manipulate and what the consequences 
+of manipulation might be for decision making based on the market-generated forecasts. A 
+&lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4213&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;study&lt;/a&gt; by 
+&lt;a href=&#34;https://www.linkedin.com/in/lawrence-choo-8236501a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lawrence Choo&lt;/a&gt;, 
+&lt;a href=&#34;https://www.linkedin.com/in/todd-r-kaplan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Todd Kaplan&lt;/a&gt; and 
+&lt;a href=&#34;https://scholar.google.com/citations?user=B6Fz5HMAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ro&amp;rsquo;i Zultan&lt;/a&gt; looks 
+at this question in a laboratory setting. In their experiments, four participants 
+took the role of &amp;ldquo;managers&amp;rdquo; &amp;mdash; or policy makers &amp;mdash; who had to vote on policy. 
+Meanwhile, eight other participants traded 
+in a prediction market. None of these traders knew the correct state but each was told 
+one of the incorrect states so that collectively they had enough information to 
+identify the correct state. The managers could observe the prices in the prediction 
+market of three contracts that would pay out if X, Y, or Z was the correct state 
+respectively. Based on these observations the managers voted on which state they 
+believed was correct. In some of the experiments two randomly chosen traders were 
+given the role of &amp;ldquo;manipulators&amp;rdquo; who would be rewarded if the managers voted for a
+specified incorrect &amp;ldquo;fake&amp;rdquo; state, but lose rewards otherwise.  The other traders,
+and the managers themselves, obtained rewards when the managers voted for the 
+correct state but would lose rewards if either of the other states was the winner. 
+Managers could also vote for a &amp;ldquo;status quo&amp;rdquo; option to receive a modest but certain 
+reward instead of risking the loss associated with getting it wrong. Some experiments 
+were run with manipulators and some without and, furthermore, in some cases everyone 
+(traders and managers) knew whether manipulators were present whereas in others they 
+were only told there might be manipulators. In the latter case only the manipulators, 
+if present, knew for sure.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Even a suspicion of manipulation increased the volatility of prices.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The experiments found that when there are no manipulators, and everyone involved knows 
+this, the prediction market correctly identified the true state of the world. Even a 
+suspicion of manipulation, however, increased the volatility of prices although, if 
+the suspicion was unfounded, the market could still identify the true state. 
+Unfortunately, if manipulators were present, it was harder for the market to get 
+the right answer, particularly if traders didn&amp;rsquo;t know for sure about the manipulators.&lt;/p&gt;
+&lt;p&gt;But what effect did the possibility of manipulation have on the votes of the managers? 
+In the absence of manipulation, managers overwhelmingly voted for the correct state, 
+although the number opting for the status quo increased when they were told that 
+manipulation was possible. When manipulators took part in trading only around half 
+of managers picked the correct state. Although the correct option was selected more 
+often than any other option, the fraction of managers who picked the state implied 
+by market prices fell from 90 per cent to just under 60 per cent when markets were 
+manipulated. These experiments demonstrate how even a suspicion of market manipulation 
+can erode the usefulness of a prediction market for decision making by undermining 
+trust, beyond the distorting effects manipulation may have on prices.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Regulating participation in a market might increase its usefulness.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The Choo et al. study has important implications for a climate prediction market, 
+which could be a target of manipulators seeking to influence policy. The authors 
+suggest that regulating participation in a market might increase its usefulness, 
+not just by excluding potential manipulators, but also by reassuring policy makers 
+that they had been excluded.&lt;/p&gt;
+&lt;p&gt;The prediction markets for climate-related risks run by &lt;a href=&#34;https://www.crucialab.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRUCIAL&lt;/a&gt; 
+have restricted participation. The main reason for this is because they are subsidised 
+and expert participants do not have to pay to take part. However, the Choo et al. 
+study suggests that this restriction may increase the trust that decision makers 
+have in the forecasts produced by the markets. Choo et al. also point out that, 
+while there is research comparing prediction markets with other approaches to 
+information aggregation, this tends to focus on the accuracy of different methods; 
+there is little research on the perceived trustworthiness of different methods. 
+When prediction markets are suggested as a way to forecast climate change people 
+often raise the issue of manipulation, yet the vulnerability to manipulation of 
+other methods of forming a scientific consensus is often overlooked.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;The original version of this article appeared as 
+&lt;a href=&#34;https://www.linkedin.com/pulse/climate-prediction-markets-manipulation-mark-roulston-hayhe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Climate prediction markets and manipulation&lt;/a&gt; 
+on LinkedIn.&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
     
     <item>
       <title>2024 Atlantic Hurricane Season Prediction Market Bulletin</title>
