@@ -61,7 +61,7 @@ projects: []
 |  10. Joyce    | Tropical Storm|                          
 | 11. Kirk      | Cat 4 Hurricane|
 | 12. Leslie    | Cat 1 Hurricane|
-| 13. Milton    | Cat 4 Hurricane|
+| 13. Milton    | Cat 5 Hurricane|
 
          
 </center>                             
