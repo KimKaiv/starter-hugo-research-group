@@ -1,12 +1,12 @@
 ---
 title: 'Hurricane Season 2024 Update'
-subtitle: '9 hurricanes so far'
-summary: "9 hurricanes so far"
+subtitle: '10 hurricanes so far'
+summary: "10 hurricanes so far"
 authors: ["Kim Kaivanto"]
 tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
-date: 2024-10-07T00:01:00+00:00
-lastmod: 2024-10-07T00:01:00+00:00
+date: 2024-10-19T00:01:00+00:00
+lastmod: 2024-10-19T00:01:00+00:00
 featured: false
 draft: false
 
@@ -62,6 +62,8 @@ projects: []
 | 11. Kirk      | Cat 4 Hurricane|
 | 12. Leslie    | Cat 1 Hurricane|
 | 13. Milton    | Cat 5 Hurricane|
+| 14. Nadine    | Tropical Storm |
+| 15. Oscar     | Cat 1 Hurricane|
 
          
 </center>                             
