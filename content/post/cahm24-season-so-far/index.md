@@ -47,7 +47,7 @@ projects: []
 <center>
                    
 
-| *Named Storm*  &nbsp;  &nbsp; &nbsp;| *Classification*| 
+| *Named Storm*  &nbsp;  &nbsp; &nbsp;| [*Classification*](https://www.crucialab.net/post/hurricane-intensity-scale/)| 
 | ---           |--- |
 |  1. Alberto   | Tropical Storm |             
 |  2. Beryl     | Cat 5 Hurricane|             

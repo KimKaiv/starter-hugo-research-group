@@ -16,8 +16,8 @@ publishDate: 2024-08-10T00:00:00+00:000
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Bulletin of the American Meteorological Society_"
-publication_short: "_BAMS_"
+publication: "_Bulletin of the American Meteorological Society_ 105(10): E1898–E1914"
+publication_short: # "_BAMS_"
 
 abstract: "Prediction markets use a betting-like mechanism to aggregate information from disparate
 sources to produce probability forecasts that represent the collective view of participants. They
@@ -58,7 +58,8 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://journals.ametsoc.org/downloadpdf/view/journals/bams/aop/BAMS-D-24-0135.1/BAMS-D-24-0135.1.pdf
+# url_pdf: https://journals.ametsoc.org/downloadpdf/view/journals/bams/aop/BAMS-D-24-0135.1/BAMS-D-24-0135.1.pdf #online early electronic
+url_pdf: https://journals.ametsoc.org/downloadpdf/view/journals/bams/105/10/BAMS-D-24-0135.1.pdf
 url_code:
 url_dataset: https://doi.org/10.7910/DVN/PG3MPA
 url_poster:
