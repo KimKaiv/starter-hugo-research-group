@@ -23,6 +23,89 @@ scenario choice.
 
 <br> 
 
+## [Sognnaes et al. (2021)](https://www.nature.com/articles/s41558-021-01206-3) --- emissions, integrated assessment modelling
+
+The authors develop explicit post-2030 projections of _CO2 mitigation efforts_. 
+They employ two different formulations to generate emissions-mitigation scenarios: 
+(i) continuing _rates_ of emissions-intensity reduction, i.e. emissions per unit of GDP, and 
+(ii) scaling of carbon prices in proportion to per capita GDP growth. 
+
+Whereas in many studies and applications, scenario pathways are identified through
+'backcasting' from future climate targets, Sognnaes et al. (2021) employ two formulations
+of near-term mitigation efforts --- current policies (CPs) and nationally determined 
+contributions (NDCs) --- to which they apply the above-mentioned (i) and (ii) long-term 
+emissions-mitigation extensions beyond 2030. This results in a 2x2 matrix of combinations. 
+
+They then simulate forward emissions pathways using a diverse set of _seven_ Integrated 
+Assessment Models (IAMs): 
+
+ - [The Global Change Analysis Model (GCAM)](https://jgcri.github.io/gcam-doc/overview.html)
+ - [The TIMES Integrated Assessment Model (TIAM)](https://www.ucl.ac.uk/energy-models/models/tiam-ucl)
+ - [ModUlar energy system Simulation Environment (MUSE)](https://www.imperial.ac.uk/muse-energy/)
+ - [FortyTwo](https://www.i2am-paris.eu/detailed_model_doc/42)
+ - [The General Equilibrium Model of International-National Interactions between Economy, Energy, and the Environment (GEMINI-E3)](https://link.springer.com/article/10.1007/s10287-007-0047-y)
+ - [Intertemporal Computable Equilibrium System -- eXtended Public Sector (ICES-XPS)](https://link.springer.com/article/10.1007/s10584-020-02664-y)
+ - [The Energy-Environment-Economy Macro-Econometric model (E3ME)](https://www.e3me.com/)
+
+The results of these simulations are summarised in the following two figures. 
+![Global energy CO2 emissions; based on current policy](Sognnaes_CP.JPG "Figure: Global energy CO2 emissions to 2050 in CP scenarios. Shaded areas show emissions spanned by CP_Price and CP_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo).")
+![Global energy CO2 emissions; based on nationally defined contributions](Sognnaes_NDC.JPG "Figure: Global energy CO2 emissions to 2050 in NDC scenarios. Shaded areas show emissions spanned by NDC_Price and NDC_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo). ")
+
+The authors' conclusions parallel those of the 'many analysts, one dataset' studies: 
+
+> ... _the model used has a larger impact on results than the method used to extend mitigation effort forward,_
+ which in turn has a larger impact on results than whether CPs or NDCs are assumed in 2030. 
+The answer to where emissions are headed ... might therefore depend 
+more on the choice of models used and the post-2030 assumptions than on the 2030 target 
+assumed. This renders estimates of temperature consequences of NDCs and CPs sensitive to study design 
+and _highlights the importance of using a diversity of models and extension methods to capture this uncertainty._
+
+<br> 
+
+## [Menkveld et al. (2024)](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13337) --- finance
+
+The authors study the Non-Standard Errors (NSEs) resulting from researchers picking different 
+pathways through the myriad of data-cleaning, data-processing, and data-analysis decisions
+that are involved in implementing any one statistical analysis. They call this source of 
+variation the Evidence-Generating Process (EGP), and characterise it as `erratic' 
+rather than erroneous, in the sense that there is not one objectively correct pathway
+through the data-cleaning, data-processing, and data-analysis decisions. 
+
+![Distinction between Standard Errors and Non-Standard Errors](jofi13337-gra-0001.png "Figure: Distinction between Standard Errors and Non-Standard Errors")
+
+The authors shared 17 years of proprietary EuroStoxx 50 index futures data from Deutsche Börse 
+with participants in the FINance Crowd Analysis Project, which included 164 research teams (RTs) 
+and 34 peer evaluators (PEs). The research teams were asked to test 6 predefined research 
+hypotheses ($H_0:$ no change). 
+
+| Hyp \#: &nbsp;&nbsp;&nbsp;| Annual trend being tested | 
+|--------|---------------|
+| RT-H1: | market efficiency | 
+| RT-H2: | realized bid-ask spread |
+| RT-H3: | share of client volume in total volume |
+| RT-H4: | realized bid-ask spread on client orders |
+| RT-H5: | share of market orders in all client orders |
+| RT-H6: | gross trading revenue of clients|
+
+The project's preregistered hypotheses pertain to the dispersion in estimates across RTs. 
+
+![Dispersion of stage 1 estimates across research teams (RTs)](jofi13337-fig-0001-m.jpg "Figure: Dispersion of stage 1 estimates across research teams (RTs). These estimates all focus on a trend in the sample, expressed in terms of a yearly percentage change. The six box plots correspond to the six trends that the RTs were asked to estimate. The boxes depict the first and third quartiles. The horizontal line in the box corresponds to the median. The whiskers depict the 2.5\% and 97.5\% quantiles.")
+
+> The null of no dispersion in RFE is rejected for all RT hypotheses at the 0.5\% 
+(family) significance level. The conservative Bonferroni adjustment in Panel A 
+yields at least 11 estimates that are individually significantly different from 
+the median (RT-H6), and at most 38 significant differences (RT-H3). There are 
+significant estimates both above and below the median for all RT hypotheses.
+
+> We find NSEs to be substantial, even for a relatively straightforward 
+market-share hypothesis. For this RT hypothesis, we find NSE to be 1.2% around a median 
+of −3.3\%. A more opaque RT hypothesis on market efficiency yields larger variation 
+with an NSE of 6.7\% around a median of 1.1\%. We further find that NSEs are smaller 
+for more reproducible and higher quality papers as rated by peers.
+
+
+<br> 
+
 ## [Silberzahn et al. (2018)](https://journals.sagepub.com/doi/abs/10.1177/2515245917747646) --- social science, psychology
 
 > Twenty-nine teams involving 61 analysts used the same data set to address the same
@@ -99,46 +182,6 @@ explain even less. _Each generated model was unique, which points to a vast univ
 of research design variability normally hidden from view_ in the presentation, consumption, 
 and perhaps even creation of scientific results.
 
-<br> 
-
-## [Sognnaes et al. (2021)](https://www.nature.com/articles/s41558-021-01206-3) --- emissions, integrated assessment modelling
-
-The authors develop explicit post-2030 projections of _CO2 mitigation efforts_. 
-They employ two different formulations to generate emissions-mitigation scenarios: 
-(i) continuing _rates_ of emissions-intensity reduction, i.e. emissions per unit of GDP, and 
-(ii) scaling of carbon prices in proportion to per capita GDP growth. 
-
-Whereas in many studies and applications, scenario pathways are identified through
-'backcasting' from future climate targets, Sognnaes et al. (2021) employ two formulations
-of near-term mitigation efforts --- current policies (CPs) and nationally determined 
-contributions (NDCs) --- to which they apply the above-mentioned (i) and (ii) long-term 
-emissions-mitigation extensions beyond 2030. This results in a 2x2 matrix of combinations. 
-
-They then simulate forward emissions pathways using a diverse set of _seven_ Integrated 
-Assessment Models (IAMs): 
-
- - [The Global Change Analysis Model (GCAM)](https://jgcri.github.io/gcam-doc/overview.html)
- - [The TIMES Integrated Assessment Model (TIAM)](https://www.ucl.ac.uk/energy-models/models/tiam-ucl)
- - [ModUlar energy system Simulation Environment (MUSE)](https://www.imperial.ac.uk/muse-energy/)
- - [FortyTwo](https://www.i2am-paris.eu/detailed_model_doc/42)
- - [The General Equilibrium Model of International-National Interactions between Economy, Energy, and the Environment (GEMINI-E3)](https://link.springer.com/article/10.1007/s10287-007-0047-y)
- - [Intertemporal Computable Equilibrium System -- eXtended Public Sector (ICES-XPS)](https://link.springer.com/article/10.1007/s10584-020-02664-y)
- - [The Energy-Environment-Economy Macro-Econometric model (E3ME)](https://www.e3me.com/)
-
-The results of these simulations are summarised in the following two figures. 
-![Global energy CO2 emissions; based on current policy](Sognnaes_CP.JPG "Figure: Global energy CO2 emissions to 2050 in CP scenarios. Shaded areas show emissions spanned by CP_Price and CP_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo).")
-![Global energy CO2 emissions; based on nationally defined contributions](Sognnaes_NDC.JPG "Figure: Global energy CO2 emissions to 2050 in NDC scenarios. Shaded areas show emissions spanned by NDC_Price and NDC_Intensity scenarios for each model, and coloured bars show 2050 ranges (2045 value for FortyTwo, which has only intensity scenarios). Markers above bars show baseline values in 2050 (in 2045 for FortyTwo). ")
-
-The authors' conclusions parallel those of the 'many analysts, one dataset' studies: 
-
-> ... _the model used has a larger impact on results than the method used to extend mitigation effort forward,_
- which in turn has a larger impact on results than whether CPs or NDCs are assumed in 2030. 
-The answer to where emissions are headed ... might therefore depend 
-more on the choice of models used and the post-2030 assumptions than on the 2030 target 
-assumed. This renders estimates of temperature consequences of NDCs and CPs sensitive to study design 
-and _highlights the importance of using a diversity of models and extension methods to capture this uncertainty._
-
-
 
 <br> 
 
@@ -150,8 +193,9 @@ researchers.
 Prior to studies of this nature, the "degrees of freedom" inherent in empirical 
 analysis were not fully appreciated by researchers.  
 
-More than abundance of choice, these studies reveal a vast universe of previously hidden
-research-design and analysis-operationalisation variability. 
+More than abundance of choice, these studies reveal a vast universe of previously underappreciated
+Evidence-Generating Process variability rooted in different but ostensibly valid research design, 
+analysis, and operationalisation choices.  
 
 
 
