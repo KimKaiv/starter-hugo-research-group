@@ -1,12 +1,12 @@
 ---
 title: 'Hurricane Season 2024 Update'
-subtitle: '10 hurricanes so far'
-summary: "10 hurricanes so far"
+subtitle: '11 hurricanes so far'
+summary: "11 hurricanes so far"
 authors: ["Kim Kaivanto"]
 tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
-date: 2024-10-19T00:01:00+00:00
-lastmod: 2024-10-19T00:01:00+00:00
+date: 2024-11-06T00:01:00+00:00
+lastmod: 2024-11-06T00:01:00+00:00
 featured: false
 draft: false
 
@@ -50,20 +50,22 @@ projects: []
 | *Named Storm*  &nbsp;  &nbsp; &nbsp;| [*Classification*](https://www.crucialab.net/post/hurricane-intensity-scale/)| 
 | ---           |--- |
 |  1. Alberto   | Tropical Storm |             
-|  2. Beryl     | Cat 5 Hurricane|             
+|  2. Beryl     | Cat 5 Major Hurricane|             
 |  3. Chris     | Tropical Storm |             
 |  4. Debby     | Cat 1 Hurricane|             
 |  5. Ernesto   | Cat 2 Hurricane|             
 |  6. Francine  | Cat 2 Hurricane|           
 |  7. Gordon    | Tropical Storm|             
-|  8. Helene    | Cat 4 Hurricane|             
+|  8. Helene    | Cat 4 Major Hurricane|             
 |  9. Isaac     | Cat 2 Hurricane|             
 |  10. Joyce    | Tropical Storm|                          
-| 11. Kirk      | Cat 4 Hurricane|
+| 11. Kirk      | Cat 4 Major Hurricane|
 | 12. Leslie    | Cat 1 Hurricane|
-| 13. Milton    | Cat 5 Hurricane|
+| 13. Milton    | Cat 5 Major Hurricane|
 | 14. Nadine    | Tropical Storm |
 | 15. Oscar     | Cat 1 Hurricane|
+| 16. Patty     | Tropical Storm|
+| 17. Raphael   | Cat 3 Major Hurricane|
 
          
 </center>                             
