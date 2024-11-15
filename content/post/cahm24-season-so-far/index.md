@@ -5,8 +5,8 @@ summary: "11 hurricanes so far"
 authors: ["Kim Kaivanto"]
 tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
-date: 2024-11-06T00:01:00+00:00
-lastmod: 2024-11-06T00:01:00+00:00
+date: 2024-11-15T00:01:00+00:00
+lastmod: 2024-11-15T00:01:00+00:00
 featured: false
 draft: false
 
@@ -65,7 +65,8 @@ projects: []
 | 14. Nadine    | Tropical Storm |
 | 15. Oscar     | Cat 1 Hurricane|
 | 16. Patty     | Tropical Storm|
-| 17. Raphael   | Cat 3 Major Hurricane|
+| 17. Rafael    | Cat 3 Major Hurricane|
+| 18. Sara      | Tropical Storm|
 
          
 </center>                             
