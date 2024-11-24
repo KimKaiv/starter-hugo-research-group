@@ -54,6 +54,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-#
+\* Picture: [Salar de Uyni](https://en.wikipedia.org/wiki/Salar_de_Uyuni), 
+the world's largest salt flat located in the Daniel Campos Province in 
+Potosí in southwest Bolivia, at an elevation of 3,656m above sea level. 
 
 
