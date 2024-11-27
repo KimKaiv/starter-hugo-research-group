@@ -64,4 +64,7 @@ advanced:
 
 ## We employ *expert prediction markets* -- hosted on the AGORA prediction-market platform -- to elicit, aggregate, and summarise knowledge on future climate risks, drawing on expertise from diverse areas of physical, social, and policy science.
 
+<br>
+
+## [27.11.2024: We are pleased to announce and acknowledge financial support from the SCOR Corporate Foundation for Science.](/post/scor-funding/) 
 
