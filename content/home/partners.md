@@ -43,3 +43,13 @@ The AGORA platform was developed by the Winton Group.
 </center>
 
 <br>
+
+<center>
+
+CRUCIAL is supported by the SCOR Corporate Foundation for Science. 
+[ !["SCOR Corporate Foundation for Science"](SCOR_FfS_logo_colour_w500.png) ](https://foundation.scor.com/)
+
+</center>
+
+
+<br>

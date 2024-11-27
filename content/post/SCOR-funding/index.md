@@ -25,6 +25,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+url_pdf: /SCOR/SCOR-pr-2024.11.27.pdf
+
 ---
 **The corporate foundation of the French reinsurance giant SCOR is backing an initiative led 
 by Lancaster University Management School to use prediction markets to combine diverse 
@@ -45,7 +48,7 @@ part. This approach to producing forecasts of future climate means that users of
 don't have to pick a single forecaster to rely on, and it lets forecasters demonstrate how confident 
 they are in their own predictions. 
 
-Participants in CRUCIAL’s markets do not have to pay to take part but are compensated based on 
+Participants in CRUCIAL's markets do not have to pay to take part but are compensated based on 
 the contributions they make to the accuracy of the collective forecasts. While participants might 
 base their predictions on diƯerent types of models — including AI as well as more traditional 
 climate models — a prediction market can aggregate all these views into a single collective 
@@ -83,7 +86,8 @@ Kim Kaivanto, k.kaivanto@lancaster.ac.uk
 <br>
 <img src="SCOR_FfS_logo_colour.png" alt="SCOR Corporate Foundation for Science" width="300"/>
 
-The SCOR Corporate Foundation for Science forms part of the SCOR reinsurance group's long-term commitment to research and the dissemination of risk-related knowledge. This 
+The SCOR Corporate Foundation for Science forms part of the SCOR reinsurance group's long-term 
+commitment to research and the dissemination of risk-related knowledge. This 
 commitment is an integral part of SCOR’s DNA, as illustrated by the Group’s tagline, "The Art \& 
 Science of Risk". Risk is the “raw material” of reinsurance, and SCOR stays at the cutting edge of 
 risk expertise and research through its vast network of academic institutions, as well as through 
