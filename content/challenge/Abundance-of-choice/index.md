@@ -120,7 +120,7 @@ to avoid, even by experts with honest intentions._
 
 ![Odds Ratios across 29 teams](silber_ORs_by_team.jpeg "Figure: Odds ratios across 29 teams.")
 
-![OR point estimates clustered by analytic approach](silber_ORs_by_analytic_approach.jpeg "Figure: OR point estimates clustered by analytic approach.")
+![OR point estimates clustered by analytic approach](silber_ORs_b_an_appr.jpeg "Figure: OR point estimates clustered by analytic approach.")
 
 >The observed results from analyzing a complex data set 
 can be highly contingent on justifiable, but subjective, 
@@ -148,7 +148,7 @@ They recruit 49 published researchers to participate in replication teams.
 After attrition (due to a short completion window), they obtained 7 independent
 replications of each study. 
 
-![Compulsory education](hk_compulsory_education.png "Figure: Results from compulsory education (\#1.) replication study.")
+![Compulsory education](hk_comp_ed.png "Figure: Results from compulsory education (\#1.) replication study.")
 
 ![Health insurance](hk_health_insurance.png "Figure: Results from health insurance (\#2.) replication study.")
 

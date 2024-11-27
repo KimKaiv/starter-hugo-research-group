@@ -40,9 +40,9 @@ Exeter’s Land, Environment, Economics and Policy Institute (LEEP). CRUCIAL use
 markets, with expert participants from academia and the private sector, to produce collective 
 forecasts of climate-related risks. 
 
-CRUCIAL runs "prediction markets" in which climate experts eƯectively bet on possible future 
+CRUCIAL runs "prediction markets" in which climate experts effectively bet on possible future 
 climate outcomes. CRUCIAL's platform is designed to turn their bets into probabilities of the 
-diƯerent possible outcomes. These probabilities represent the collective wisdom of the 
+different possible outcomes. These probabilities represent the collective wisdom of the 
 participating experts, which can change as new information becomes available to those taking 
 part. This approach to producing forecasts of future climate means that users of the forecasts 
 don't have to pick a single forecaster to rely on, and it lets forecasters demonstrate how confident 
@@ -50,7 +50,7 @@ they are in their own predictions.
 
 Participants in CRUCIAL's markets do not have to pay to take part but are compensated based on 
 the contributions they make to the accuracy of the collective forecasts. While participants might 
-base their predictions on diƯerent types of models — including AI as well as more traditional 
+base their predictions on different types of models — including AI as well as more traditional 
 climate models — a prediction market can aggregate all these views into a single collective 
 forecast. Such markets could provide a new performance-based way to fund climate forecasting 
 research and provide forecasts of global temperatures, greenhouse gas concentrations, sealevel rise, hurricane activity and other climate-related risks.
@@ -70,8 +70,8 @@ incentive prizes — like the X-Prize — with the proven ability of markets to 
 information."
 
 According to Dr. Mark Roulston, who led the development of AGORA at Winton, "When the 
-primary deliverable of research is a forecast, prediction markets oƯer a more eƯective way to 
-combine and summarize the research and a more eƯicient way to distribute funding."
+primary deliverable of research is a forecast, prediction markets offer a more effective way to 
+combine and summarize the research and a more efficient way to distribute funding."
 
 Highlighting the interest for a reinsurer like SCOR to participate in the CRUCIAL project, Philippe 
 Trainar, director of the SCOR Foundation for Science, insists on the fact that "The consequences 
@@ -97,4 +97,7 @@ physics, chemistry, geophysics, climatology, economics, finance, and more.
 https://foundation.scor.com/
 
 <br>
+
+A version of this press release was published by Lancaster University's Press Team as a news item 
+on the University's website as [Climate risk forecasting takes step forward with support from French re-insurance giant](https://www.lancaster.ac.uk/news/climate-risk-forecasting-takes-step-forward-with-support-from-french-re-insurance-giant).
 
