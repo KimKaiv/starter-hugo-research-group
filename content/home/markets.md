@@ -3,8 +3,8 @@
 widget: portfolio     # See https://wowchemy.com/docs/page-builder/
 headless: true    # This file represents a page section.
 weight: 35        # Order that this section will appear.
-title: "Active Markets"
-subtitle: "CRUCIAL's inaugural market is live"
+title: "Markets"
+subtitle: "CRUCIAL's inaugural market concluded successfully"
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
