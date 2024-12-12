@@ -48,9 +48,9 @@ projects: []
                    
 
 | *Named Storm*  &nbsp;  &nbsp; &nbsp;| [*Classification*](https://www.crucialab.net/post/hurricane-intensity-scale/) | Hurricane \# |
-| ---           |--- |--- |
+| ---           |--- | :---: |
 |  1. Alberto   | Tropical Storm |  |           
-|  2. Beryl     | Cat 5 Major Hurricane &nbsp; &nbsp; &nbsp; &nbsp;  | 1. |             
+|  2. Beryl     | Cat 5 Major Hurricane &nbsp; &nbsp;  | 1. |             
 |  3. Chris     | Tropical Storm | |            
 |  4. Debby     | Cat 1 Hurricane| 2. |            
 |  5. Ernesto   | Cat 2 Hurricane| 3. |            

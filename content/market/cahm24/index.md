@@ -1,7 +1,7 @@
 ---
 title: ""
 subtitle: ""
-summary: "[CRUCIAL Atlantic Hurricane Market 2024 (CAHM24) launched on Dec 11, 2023, and will run until the end of the 2024 Atlantic hurricane season. This market is to predict the number of Atlantic hurricanes that occur during the 2024 Atlantic surricane season. Click for details and current price-probabilities.](/market/cahm24/)"
+summary: "The CRUCIAL Atlantic Hurricane Market 2024"
 date: 2024-12-02T00:00:01+00:00
 #draft: true 
 
@@ -31,13 +31,9 @@ until the end of the 2024 Atlantic hurricane season. This market was designed to
 the number of Atlantic hurricanes occurring during the 2024 Atlantic surricane season 
 (June 1st through to November 30th). 
 
-The CAHM24 market was closed at midnight on November 30th, by which time [11 hurricanes were
-recorded](/post/cahm24-season-so-far/). Unless fresh data or analysis comes to light that causes
-the U.S. National Hurricane Center (NHC) to revise this count, outstanding CAHM24 contracts on the 
-outcome '11' will pay out 1 credit. 
+During the season 18 named storms occurred and 11 of these attained hurricane strength. 
+Over £6,000 will be paid out to the experts that took part in the market.
 
-The CAHM24 organisers are observing NHC reports. As long as there are no indications of 
-possible reclassification, outstanding CAHM24 contracts will be resolved in 1 week (December 9th 2024). 
 
 
 <br> 
