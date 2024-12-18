@@ -31,7 +31,7 @@ until the end of the 2024 Atlantic hurricane season. This market was designed to
 the number of Atlantic hurricanes occurring during the 2024 Atlantic surricane season 
 (June 1st through to November 30th). 
 
-During the season 18 named storms occurred and 11 of these attained hurricane strength. 
+During the season 18 named storms occurred and [11 of these attained hurricane strength](/post/cahm24-season-so-far/). 
 Over £6,000 will be paid out to the experts that took part in the market.
 
 
