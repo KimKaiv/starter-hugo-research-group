@@ -44,6 +44,8 @@ See: [The latest CAHM24 bulletin](/post/cahm24-bulletin-13-11/)
 
 See: [All CAHM24 bulletins](/tag/cahm24)
 
+See: [Hurricane Season 2024 Summary](/post/cahm24-season-so-far/)
+
 
 <br> 
 

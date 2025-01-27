@@ -1,7 +1,7 @@
 ---
-title: 'Hurricane Season 2024 Update'
-subtitle: 'Unless fresh data or analysis comes to light, 11 is the final number of hurricanes in the 2024 season and the resolving outcome in [CAHM24](/market/cahm24/).'
-summary: "Unless fresh data or analysis comes to light, 11 is the final number of hurricanes in the 2024 season and the resolving outcome in [CAHM24](/market/cahm24/)."
+title: 'Hurricane Season 2024 Summary'
+subtitle: 'A total of 11 hurricanes were recorded in the 2024 Atlantic hurricane season, which was the resolving outcome in [CAHM24](/market/cahm24/).'
+summary: "A total of 11 hurricanes were recorded in the 2024 Atlantic hurricane season, which was the resolving outcome in  [CAHM24](/market/cahm24/)."
 authors: ["Kim Kaivanto"]
 tags: ["CAHM24", "Kim Kaivanto"]
 categories: []
@@ -41,7 +41,7 @@ projects: []
 
 <div> 
 
-**The 2024 Atlantic hurricane season has exceeded the climatological average of 7.7 hurricanes.**
+**The 2024 Atlantic hurricane season exceeded the 100-year climatological average of 6.1 hurricanes, as well as the 10- and 20-year climatological average of 7.7 hurricanes.**
 
 
 <center>
