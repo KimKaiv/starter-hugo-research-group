@@ -9,7 +9,7 @@ authors: kimk
 superuser: true
 
 # Role/position 
-role: Senior Lecturer in Economics
+role: Director of CRUCIAL
 
 # Organizations/Affiliations
 organizations:

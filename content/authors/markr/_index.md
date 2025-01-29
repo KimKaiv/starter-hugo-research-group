@@ -9,12 +9,12 @@ authors: markr
 superuser: false
 
 # Role/position 
-role: Honorary Senior Research Fellow
+role: CRUCIAL Operations Director
 
 # Organizations/Affiliations
 organizations:
- - name: University of Exeter
-   url: "https://www.exeter.ac.uk/research/leep/" 
+ - name: Lancaster University
+   url: "https://www.lancaster.ac.uk/lums/people/mark-roulston" 
 
 # Short bio (displayed in user profile at end of posts)
 bio: climate science and data science
