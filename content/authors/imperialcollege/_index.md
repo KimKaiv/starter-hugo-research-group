@@ -71,7 +71,7 @@ user_groups:
 ---
 The Imperial team draws on expertise from the [Grantham Institute](https://www.imperial.ac.uk/grantham/)
  — of which [Prof. Toumi](https://profiles.imperial.ac.uk/r.toumi) is Director — 
- and Prof. Toumi’s own research group. Grantham is Imperial 
+ and Prof. Toumi’s tropical cyclone research group. Grantham is Imperial 
 College’s hub to promote interdisciplinary research into climate change and is 
 recognised as a leading authority on climate and environmental science. 
 Prof. Toumi’s research group is Europe’s largest research group in tropical cyclones.
