@@ -42,7 +42,7 @@ design:
   #   4 = Citation
   #   5 = Showcase  
   #   'masonry' for Pinterest style
-  view: compact
+  view: 2 # compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 

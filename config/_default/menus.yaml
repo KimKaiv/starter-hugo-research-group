@@ -22,10 +22,10 @@ main:
   - name: Team
     url: /#people
     weight: 40
-#  - name: Projects
-#    url: /#projects
+#  - name: Groups
+#    url: /#project
 #    weight: 50
-  - name: Publications
+  - name: Pubs
     url: /#publications
     weight: 60
 #  - name: Data  # <--
