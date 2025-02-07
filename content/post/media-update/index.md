@@ -1,7 +1,7 @@
 ---
-title: "Media coverage roundup, Feb 7 2025"
+title: "Media coverage roundup"
 subtitle: ''
-summary: ''
+summary: 'Media pieces mentioning CRUCIAL from the last two weeks.'
 authors: ["Kim Kaivanto"]
 tags: ["Kim Kaivanto", "Mark Roulston"]
 categories: []
@@ -51,3 +51,9 @@ post"></iframe>
 [![SCOR live 'Climate Blind' event poster](scorposter1.png)](https://www.linkedin.com/events/7290685636783591424/about/)
 
 <br>
+
+## CRUCIAL mentioned in "WTW's Natural Catastrophe Review 2024" report and launch webinar Jan 28, 2025
+
+[![WTW Natural Catastrophe Review 2024](wtw1.png)](https://web.wtwco.com/Preference-Center-Unknown-Email-ENG-AP.html)
+
+<br> 
