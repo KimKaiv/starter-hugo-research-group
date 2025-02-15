@@ -1,6 +1,6 @@
 ---
 # Display name
-title: IMPERIAL COLLEGE
+title: Imperial College
 
 # Username (this should match the folder name)
 authors: imperialc

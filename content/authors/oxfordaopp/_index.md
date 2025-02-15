@@ -1,6 +1,6 @@
 ---
 # Display name
-title: OXFORD AOPP
+title: Oxford AOPP
 
 # Username (this should match the folder name)
 authors: oxfordaopp
