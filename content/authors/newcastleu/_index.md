@@ -1,6 +1,6 @@
 ---
 # Display name
-title: NewcastleU
+title: Newcastle CCER
 
 # Username (this should match the folder name)
 authors: newcastleu
