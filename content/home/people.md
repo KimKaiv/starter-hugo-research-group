@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Team
-subtitle:
+subtitle: Core, Collaborators, Governance
 
 content:
   # Choose which groups/teams of users to display.
@@ -25,6 +25,7 @@ content:
 #    - Grad Students
 #    - Administration
 #    - Alumni
+     - Governance
 
 
 design:
@@ -37,3 +38,5 @@ design:
   padding: ['20px', '0', '20px', '0']
     
 ---
+
+

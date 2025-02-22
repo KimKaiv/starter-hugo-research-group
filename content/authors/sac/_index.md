@@ -1,15 +1,15 @@
 ---
 # Display name
-title: UoBristol
+title: Scientific Advisory Committee
 
 # Username (this should match the folder name)
-authors: uobristol
+authors: sac
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position 
-role: Team Lead [Dr. Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/)
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -64,17 +64,25 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: 
-  - Collaborating Groups
+  - Governance
 
 # Profile text from below the "---"
 
 ---
-The Bristol team draws from experts on trends and projections in climate-altering 
-emissions, scientists studying climate variability and change on time scales from 
-hours to millions of years, and modellers of climate impacts such as flooding and 
-drought. The team is led from the School of Geographical Sciences, top-ranked in 
-every UK Research Assessment Exercise/Excellence Framework, with strong expertise 
-in quantitative simulation.
+The purpose of the CRUCIAL Scientific Advisory Committee (SAC) is to provide advice
+on the topic of markets and the choice of data used to settle them as well as to 
+serve as arbitrators should any ambiguity or dispute arise concerning the settlement 
+of a market. The SAC or its individual members may provide, where appropriate, 
+other independent scientific advice: e.g., regarding methodology, experimental design, and data analysis. 
+The SAC or its individual members may also review scientific publications produced by CRUCIAL.
+ 
+
+### Membership
+
+- Peter Atkinson, Lancaster Environment Centre
+- Shi-Ling Hsu, Florida State University
+- David Stainforth, LSE and Grantham Institute 
+- Philippe Trainar, SCOR Roundation for Science
 
 
 

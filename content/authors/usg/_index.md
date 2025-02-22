@@ -1,15 +1,15 @@
 ---
 # Display name
-title: UoBristol
+title: User Steering Group
 
 # Username (this should match the folder name)
-authors: uobristol
+authors: usg
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position 
-role: Team Lead [Dr. Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/)
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -64,17 +64,27 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: 
-  - Collaborating Groups
+  - Governance
 
 # Profile text from below the "---"
 
 ---
-The Bristol team draws from experts on trends and projections in climate-altering 
-emissions, scientists studying climate variability and change on time scales from 
-hours to millions of years, and modellers of climate impacts such as flooding and 
-drought. The team is led from the School of Geographical Sciences, top-ranked in 
-every UK Research Assessment Exercise/Excellence Framework, with strong expertise 
-in quantitative simulation.
+The CRUCIAL User Steering Group (USG) provides advice to CRUCIAL concerning which climate-related 
+risks and variables should be prioritized to be predicted using prediction markets.
+The USG can make recommendations regarding the recruitment of collaborating institutions 
+to participate in prediction markets. The USG can make recommendations and provide 
+advice on other aspects of the CRUCIAL project as appropriate. 
+
+### Membership
+
+- Kim Kaivanto, Lancaster University (Chair)
+- Mark Roulston, Lancaster University (Secretary)
+- Russ Bowdrey, MSCI
+- Mutahar Chalmers, Aon
+- Adrian Champion, Aon
+- Rob Lamb, JBA Trust
+- Cameron Rye, WTW
+- Alex Scott, JBA Trust
 
 
 
