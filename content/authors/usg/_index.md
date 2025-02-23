@@ -77,14 +77,14 @@ advice on other aspects of the CRUCIAL project as appropriate.
 
 ### Membership
 
-- Kim Kaivanto, Lancaster University (Chair)
-- Mark Roulston, Lancaster University (Secretary)
 - Russ Bowdrey, MSCI
 - Mutahar Chalmers, Aon
 - Adrian Champion, Aon
 - Rob Lamb, JBA Trust
 - Cameron Rye, WTW
 - Alex Scott, JBA Trust
+- Kim Kaivanto, Lancaster University (Chair)
+- Mark Roulston, Lancaster University (Secretary)
 
 
 
