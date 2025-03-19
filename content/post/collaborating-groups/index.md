@@ -2,7 +2,7 @@
 title: "Experts from UK universities strengthen LUMS’ climate risk forecasting initiative"
 subtitle: ""
 summary: "Teams of academic experts from seven UK universities have joined Lancaster University Management School’s CRUCIAL initiative."
-authors: ["LU media team"]
+authors: ["Lancaster University Press Team"]
 tags: ["Kim Kaivanto"]
 categories: []
 date: 2025-02-28T00:00:01Z
