@@ -55,7 +55,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
  - icon: github
    icon_pack: fab
-   link: https://github.com/dbaynard
+   link: https://github.com/fore-stun
  - icon: linkedin
    icon_pack: fab
    link: https://www.linkedin.com/in/david-baynard/ 
@@ -81,5 +81,5 @@ David runs Fore Stun Ltd, a software engineering consultancy, working on bespoke
 Previously, as first engineering hire at a technology company servicing hedge fund traders, 
 he saw a diverse range of market behaviour and technical mistakes (and opportunities). He 
 studied and taught chemical engineering at the University of Cambridge and has a PhD in 
-Biotechnology from the same university. He is currently working on an outreach project 
+Biotechnology from the same institution. He is currently working on an outreach project 
 on professional ethics.
