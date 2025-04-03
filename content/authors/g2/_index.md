@@ -69,7 +69,7 @@ user_groups:
 # Profile text from below the "---"
 
 ---
-For 25 years, Atmospheric G2 (formerly WSI) has provided its global energy trading 
+For 25 years, [Atmospheric G2](https://atmosphericg2.com/) (formerly WSI) has provided its global energy trading 
 clients with best-in-class weather and climate forecasts, seasonal tropical cyclone 
 forecasts, as well as value-added products such as energy demand and renewable 
 energy forecasts.  They help their clients objectively evaluate weather forecast 
