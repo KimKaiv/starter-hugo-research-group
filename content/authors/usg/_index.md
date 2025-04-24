@@ -81,6 +81,7 @@ advice on other aspects of the CRUCIAL project as appropriate.
 - Mutahar Chalmers, Aon
 - Adrian Champion, Aon
 - Rob Lamb, JBA Trust
+- Hannah Nissan, Howden Group Holdings
 - Cameron Rye, WTW
 - Alex Scott, JBA Trust
 - Kim Kaivanto, Lancaster University (Chair)
