@@ -5,7 +5,7 @@ title: "Tracking evolving views of the 2024 Atlantic hurricane season with an ex
 prediction market"
 authors: ["Mark Roulston", "Kim Kaivanto", "Ralf Toumi"]
 date: 2025-04-30T00:00:00+00:00
-doi: ""
+doi: "10.1002/wea.7730"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-04-30T00:00:00+00:000
@@ -14,7 +14,7 @@ publishDate: 2025-04-30T00:00:00+00:000
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_RMetS Weather_"
@@ -45,7 +45,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: /CAHM24/CAHM24_W_Preprint.pdf
+url_pdf: https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.7730
 url_code:
 url_dataset: https://doi.org/10.7910/DVN/SUDJSQ
 url_poster:
