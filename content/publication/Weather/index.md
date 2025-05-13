@@ -45,7 +45,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.7730
+url_pdf: /CAHM24/CAHM24_Weather.pdf
 url_code:
 url_dataset: https://doi.org/10.7910/DVN/SUDJSQ
 url_poster:
