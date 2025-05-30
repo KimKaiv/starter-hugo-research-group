@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Organisation
-subtitle: Core, Collaborators, Governance
+subtitle: Core Team, Collaborators, Governance
 
 content:
   # Choose which groups/teams of users to display.
@@ -18,14 +18,14 @@ content:
   user_groups:
      - Core Team
      - Collaborating Groups
+     - Governance
 #    - Visitors
-#    - Collaborating Groups
 #    - Principal Investigators
 #    - Researchers
 #    - Grad Students
 #    - Administration
 #    - Alumni
-     - Governance
+
 
 
 design:

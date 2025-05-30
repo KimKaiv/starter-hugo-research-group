@@ -12,6 +12,7 @@ image:
   focal_point: "Top"
   preview_only: false
 
+# Used for displaying prices of outcomes
 # <p><iframe src="https://...." frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 # rm=minimal 
 # https://stackoverflow.com/questions/23446449/google-sheet-embed-url-documentation  ## for details on options

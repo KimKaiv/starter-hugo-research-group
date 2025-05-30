@@ -31,21 +31,6 @@ design:
 advanced:    
   css_class: #fullscreen 
 
-##
-## Many planning, policy, and investment decisions require high-quality information on 
-## the risks and uncertainties of future climate change. While there are many relevant 
-## sources of information and expertise, decision makers face significant difficulties 
-## in accessing, interpreting, and appraising such information.
-
-## Our approach recognises the multiple challenges currently affecting the provision of 
-## climate-risk information: adverse incentives, abundance of methodological choice, 
-## the need for a level playing field among a diverse range of scientific and social-
-## scientific disciplines, the circularity problem in unconditional forecasts, and 
-## persistent data gaps. 
-##
-
-#<center>{{< figure src="June2018.gif"  >}}</center>
-#<span style="font-size:17px">Figure: The evolution of prices in a joint-outcome market for UK monthly temperature and rainfall for June 2018. The participants were 24 teams from British universities. The black dots show the values of temperature and rainfall for previous Junes and the blue cross shows the actual value for June 2018.</span>
 
 ---
 

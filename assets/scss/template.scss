@@ -7,3 +7,14 @@
 .cta-group {
   justify-content: center;
 }
+
+// Table Header, Table Data cell 
+th, td {
+  padding-right: 30px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+}
+
+// Hover-over color change by table row
+// color options e.g. MediumSeaGreen, LightGreen, MediumAquaGreen
+tr:hover {background-color: MediumSeaGreen; }
