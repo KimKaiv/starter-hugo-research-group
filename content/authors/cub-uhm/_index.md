@@ -3,7 +3,7 @@
 title: Boulder + Mānoa 
 
 # Username (this should match the folder name)
-authors: cub
+authors: cub-uhm
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,7 +13,7 @@ role: Team Lead [Dr. Pedro DiNezio](https://experts.colorado.edu/display/fisid_1
 
 # Organizations/Affiliations
 organizations:
- - name: CU Boulder AOS
+ - name: CU Boulder ATOC
    url: "https://www.colorado.edu/atoc/"
  - name: UoH Mānoa ATMO
    url: "https://www.soest.hawaii.edu/atmo/"
