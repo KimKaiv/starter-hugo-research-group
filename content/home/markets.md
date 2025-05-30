@@ -37,14 +37,14 @@ advanced:
 
 | Market                                            | Census period        | Open                   | Close       | Status    |
 |:---                                               |:---                  |:---                    |:---         |:---       | 
-|Atlantic Hurricane Market 2025                     | 1 Jun -- 30 Nov 2025 | 14:00 BST 2 Jun 2025  | 24:00 BST 30 Nov 2025 | Scheduled |
-|El Niño–Southern Oscillation Market Sep--Nov 2025  | 1 Sep -- 30 Nov 2025 | 14:00 BST 9 Jun 2025  | 24:00 BST 30 Nov 2025 | Scheduled |
-|El Niño–Southern Oscillation Market Dec--Feb 2025/6| 1 Dec -- 28 Feb 2026 | 14:00 BST 10 Jun 2025 | 24:00 BST 28 Feb 2026 | Scheduled |
-|El Niño–Southern Oscillation Market Mar--May 2026  | 1 Mar -- 31 May 2026 | 14:00 BST 11 Jun 2025 | 24:00 BST 31 May 2026 | Scheduled |
-|El Niño–Southern Oscillation Market Jun--Aug 2026  | 1 Jun -- 31 Aug 2026 | 14:00 BST 12 Jun 2025 | 24:00 BST 31 Aug 2026 | Scheduled |
-|El Niño–Southern Oscillation Market Sep--Nov 2026  | 1 Sep -- 30 Nov 2026 | 14:00 BST 13 Jun 2025 | 24:00 BST 30 Nov 2026 | Scheduled |
-|El Niño–Southern Oscillation Market Dec--Feb 2026/7| 1 Dec -- 28 Feb 2027 | 14:00 BST 16 Jun 2025 | 24:00 BST 28 Feb 2027 | Scheduled |
-| [Atlantic Hurricane Market 2024](/market/cahm24/) | 1 Jun -- 30 Nov 2024 | 09:00 UTC 11 Dec 2023 | 24:00 BST 30 Nov 2024 | Settled |
+|Atlantic Hurricane Market 2025                     | 1 Jun -- 30 Nov 2025 | 13:00 UTC 2 Jun 2025  | 24:00 UTC 30 Nov 2025 | Scheduled |
+|El Niño–Southern Oscillation Market Sep--Nov 2025  | 1 Sep -- 30 Nov 2025 | 13:00 UTC 9 Jun 2025  | 24:00 UTC 30 Nov 2025 | Scheduled |
+|El Niño–Southern Oscillation Market Dec--Feb 2025/6| 1 Dec -- 28 Feb 2026 | 13:00 UTC 10 Jun 2025 | 24:00 UTC 28 Feb 2026 | Scheduled |
+|El Niño–Southern Oscillation Market Mar--May 2026  | 1 Mar -- 31 May 2026 | 13:00 UTC 11 Jun 2025 | 24:00 UTC 31 May 2026 | Scheduled |
+|El Niño–Southern Oscillation Market Jun--Aug 2026  | 1 Jun -- 31 Aug 2026 | 13:00 UTC 12 Jun 2025 | 24:00 UTC 31 Aug 2026 | Scheduled |
+|El Niño–Southern Oscillation Market Sep--Nov 2026  | 1 Sep -- 30 Nov 2026 | 13:00 UTC 13 Jun 2025 | 24:00 UTC 30 Nov 2026 | Scheduled |
+|El Niño–Southern Oscillation Market Dec--Feb 2026/7| 1 Dec -- 28 Feb 2027 | 13:00 UTC 16 Jun 2025 | 24:00 UTC 28 Feb 2027 | Scheduled |
+| [Atlantic Hurricane Market 2024](/market/cahm24/) | 1 Jun -- 30 Nov 2024 | 09:00 UTC 11 Dec 2023 | 24:00 UTC 30 Nov 2024 | Settled |
 
 </div>
 
