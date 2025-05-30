@@ -69,9 +69,11 @@ user_groups:
 # Profile text from below the "---"
 
 ---
-This team is composed of experts from the 
-[University of Colorado Boulder](https://www.colorado.edu/atoc/) and the 
-[University of Hawaiʻi at Mānoa](https://www2.hawaii.edu/~ckaramp/), 
+This team, which is composed of experts from the 
+[Department of Atmospheric and Oceanic Sciences](https://www.colorado.edu/atoc/)
+at the [University of Colorado Boulder](https://www.colorado.edu/) and the 
+[Karamperidou Research Group](https://www2.hawaii.edu/~ckaramp/) at the 
+[Department of Atmospheric Sciences](https://www.soest.hawaii.edu/atmo/), [University of Hawai‘i at Mānoa](https://manoa.hawaii.edu/), 
 combines deep knowledge in ENSO prediction using both dynamical models and machine 
 learning techniques. Their research has made significant strides in enhancing the 
 scientific understanding of the dynamics behind extreme El Niño events and prolonged 
