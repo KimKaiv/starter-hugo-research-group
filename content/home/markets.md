@@ -37,7 +37,7 @@ advanced:
 
 | Market                                            | Census period        | Open                   | Close       | Status    |
 |:---                                               |:---                  |:---                    |:---         |:---       | 
-|Atlantic Hurricane Market 2025                     | 1 Jun -- 30 Nov 2025 | 13:00 UTC 2 Jun 2025  | 24:00 UTC 30 Nov 2025 | Scheduled |
+|Atlantic Hurricane Market 2025                     | 1 Jun -- 30 Nov 2025 | 13:00 UTC 2 Jun 2025  | 24:00 UTC 30 Nov 2025 | Live |
 |El Niño–Southern Oscillation Market Sep--Nov 2025  | 1 Sep -- 30 Nov 2025 | 13:00 UTC 9 Jun 2025  | 24:00 UTC 30 Nov 2025 | Scheduled |
 |El Niño–Southern Oscillation Market Dec--Feb 2025/6| 1 Dec -- 28 Feb 2026 | 13:00 UTC 10 Jun 2025 | 24:00 UTC 28 Feb 2026 | Scheduled |
 |El Niño–Southern Oscillation Market Mar--May 2026  | 1 Mar -- 31 May 2026 | 13:00 UTC 11 Jun 2025 | 24:00 UTC 31 May 2026 | Scheduled |
