@@ -47,6 +47,8 @@ See: [All CAHM24 bulletins](/tag/cahm24)
 
 See: [Hurricane Season 2024 Summary](/post/cahm24-season-so-far/)
 
+See: [Article published in *RMetS Weather* journal on CAHM24](https://www.crucialab.net/publication/weather/)
+
 
 <br> 
 
