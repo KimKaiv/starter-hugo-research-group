@@ -39,7 +39,7 @@ The Climate Risk and Uncertainty Collective Intelligence Aggregation Laboratory 
 
 The climate experts come from eight collaborating British universities (Cardiff, Imperial, Newcastle, Oxford, Bristol, Exeter, Glasgow and Reading), the Universities of Colorado Boulder and Hawai’i at Mānoa in the U.S., and Atmospheric G2, a weather forecasting company also based in the U.S.
 
-Participants in CRUCIAL’s market --- which is funded by SCOR Foundation for Science, the philanthropic arm of the French reinsurer, SCOR --- do not have to pay to take part but are compensated based on contributions they make to the accuracy of the collective forecasts. Participants might base their predictions on different types of models — including Artificial Intelligence (AI) as well as more traditional climate models --- which are all aggregated into a single probabilistic forecast.
+Participants in CRUCIAL's market --- which is funded by SCOR Foundation for Science, the philanthropic arm of the French reinsurer, SCOR --- do not have to pay to take part but are compensated based on contributions they make to the accuracy of the collective forecasts. Participants might base their predictions on different types of models — including Artificial Intelligence (AI) as well as more traditional climate models --- which are all aggregated into a single probabilistic forecast.
 
 Both El Niño and La Niña events tend to peak in northern hemisphere winter and decay into the spring, by which time the oscillation is more likely to be in a neutral state and predicting how it will evolve is harder. Coupling between the ocean and the atmosphere, that lies at the heart of the oscillation, is weaker in spring. This may also contribute to the difficulty of forecasting ENSO. Some types of models can forecast better during spring than other types, so it is hoped that improving and combining predictions from multiple models will allow skilful predictions beyond the “spring predictability barrier”.
 
@@ -58,6 +58,8 @@ Director of CRUCIAL, Dr Kim Kaivanto from LUMS, explained:
 
 <br>
 
-The original version of this post appeared 4 June 2025 as the LUMS news item [Researchers to use the power of markets to break El Niño’s ‘Spring Barrier’](https://www.lancaster.ac.uk/news/researchers-to-use-the-power-of-markets-to-break-el-ninos-spring-barrier)
+The original version of this post appeared 4 June 2025 as the LU/LUMS news item 
+[Researchers to use the power of markets to break El Niño’s ‘Spring Barrier’](https://www.lancaster.ac.uk/news/researchers-to-use-the-power-of-markets-to-break-el-ninos-spring-barrier)
+
 
 <br>
