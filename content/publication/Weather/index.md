@@ -17,8 +17,8 @@ publishDate: 2025-04-30T00:00:00+00:000
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_RMetS Weather_"
-publication_short: "_Weather_"
+publication: "_RMetS Weather_ 80(8): 277--280"
+publication_short: "_Weather_ 80(8): 277--280"
 
 # Abstract.
 abstract: "Before the 2024 Atlantic hurricane season began the consensus was that it would be
