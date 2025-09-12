@@ -29,7 +29,7 @@ lessons, and opportunities opened up by previous day's presentations and the
 people and institutions present.
 <br><br>
 CRUCIAL's presentation on Day 1 was given by Mark Roulston, and Kim Kaivanto
-represented CRUCIAL and Lancaster Univerwity in the round-table on Day 2.
+represented CRUCIAL and Lancaster University in the round-table on Day 2.
 <br><br>
 Many thanks to [Erica Thompson](https://profiles.ucl.ac.uk/66106) and 
 [Marina Baldissera Pacchetti](https://profiles.ucl.ac.uk/96761-marina-baldissera-pacchetti)
