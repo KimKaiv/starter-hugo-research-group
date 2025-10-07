@@ -21,10 +21,10 @@ assembled an inter- and trans-disciplinary group of researchers with interests a
 the intersection of climate modelling and the financial sector for a two-day workshop 
 on _Climate, Models, and Finance_ that was conducted under Chatham House Rules. 
 <br><br>
-Day 1 (Sept 4) featured 11 presentations from a combination of academic, public-body, 
+**Day 1** (Sept 4) featured 11 presentations from a combination of academic, public-body, 
 and private-sector experts and researchers. 
 <br><br>
-Day 2 (Sept 5) featured a round-table discussion to tease out the key insights, 
+**Day 2** (Sept 5) featured a round-table discussion to tease out the key insights, 
 lessons, and opportunities opened up by previous day's presentations and the 
 people and institutions present.
 <br><br>
