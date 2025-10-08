@@ -1,7 +1,7 @@
 ---
 title: "AGORA Trading Guide v1.1"
-subtitle: "A guide to participating in CRUCIAL prediction markets on the AGORA platform; API update"
-summary: "Guide to using CRUCIAL's AGORA prediction market platform; API update"
+subtitle: "A guide to participating in CRUCIAL prediction markets on the AGORA platform --- API update"
+summary: "Guide to using CRUCIAL's AGORA prediction market platform --- API update"
 authors: ["Mark Roulston"]
 tags: ["Mark Roulston"]
 categories: []
