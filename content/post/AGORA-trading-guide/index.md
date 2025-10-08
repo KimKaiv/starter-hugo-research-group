@@ -26,10 +26,16 @@ image:
 projects: []
 
 url_pdf: /AGORA/Trading_Guide_v1.1.pdf
+# url_code: /AGORA/agora_api_wrapper_functions.R
+# url_code: /AGORA/agora-client-x86_64-pc-windows-msvc_2025-10-06.zip
 
 ---
 
 > This October 2nd 2025 version v1.1 of the trading guide includes documentation of the newly introduced AGORA Application Programming Interface (API), for programmatic access to prices as well as for executing trades. 
+
+> Download from here: [R code API wrapper functions](/AGORA/agora_api_wrapper_functions.R)
+
+> Download from here: [Win x86 Agora client executable](/AGORA/agora-client-x86_64-pc-windows-msvc_2025-10-06.zip)
 
 CRUCIAL is an initiative to use prediction markets, with expert participants, to elicit and 
 aggregate the diverse expertise and knowledge of the participants and produce unified 
