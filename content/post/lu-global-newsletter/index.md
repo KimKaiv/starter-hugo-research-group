@@ -42,6 +42,6 @@ CRUCIAL is continuing to expand to involve more participants from universities a
 
 <br>
 
-The original version of this post appeared 17 October 2025 in [Issue 8 of Lancaster University's Global Newsletter](https://lancasteruniversitymarketing.createsend.com/t/ViewEmail/j/296678942204D0382540EF23F30FEDED/C67FD2F38AC4859C/).  
+The original version of this post appeared 13 October 2025 in [Issue 8 of Lancaster University's Global Newsletter](https://lancasteruniversitymarketing.createsend.com/t/ViewEmail/j/296678942204D0382540EF23F30FEDED/C67FD2F38AC4859C/).  
 
 <br>
