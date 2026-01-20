@@ -17,7 +17,11 @@ summary: "On 18 December 2025, SCOR's London Office hosted the [SCOR Foundation 
 [Kristian Strømmen](https://www.physics.ox.ac.uk/our-people/strommen) and [Andrew McRae](https://www.linkedin.com/in/attmcrae/) of the [Oxford AOPP Team](https://www.crucialab.net/author/oxford-aopp/), [Michael Meredith](https://www.linkedin.com/in/michael-meredith-ocean/) Joint Director of the UK National Climate Science Partnership, and [Philippe Trainar](https://www.linkedin.com/in/philippe-trainar-7532947/), Director of the SCOR Foundation for Science, which funds CRUCIAL."
 
 
-abstract: "Kim Kaivanto:<br> [A market for synthesizing climate predictions.](https://youtu.be/IVXpVfSeDSo?si=R7KnKnUtqG3ZkvY-&t=536)<br><br>  
+abstract: "SCOR Foundation for Science, which funds the CRUCIAL project, hosted a workshop on the project at the London offices of SCOR. The workshop was chaired by [Philippe Trainar](https://www.linkedin.com/in/philippe-trainar-7532947/), Director of the SCOR Foundation for Science. The afternoon comprised of four presentations, beginning with a general and a more technical introduction to CRUCIAL and its approach, followed by further presentations by [Symeon Koumoutsaris](https://www.linkedin.com/in/koumoutsaris/), Global Head of Cat Research & Development at SCOR, 
+[Kristian Strømmen](https://www.physics.ox.ac.uk/our-people/strommen) and [Andrew McRae](https://www.linkedin.com/in/attmcrae/) of the [Oxford AOPP Team](https://www.crucialab.net/author/oxford-aopp/), and [Michael Meredith](https://www.linkedin.com/in/michael-meredith-ocean/) Joint Director of the UK National Climate Science Partnership.<br>
+
+
+Kim Kaivanto:<br> [A market for synthesizing climate predictions.](https://youtu.be/IVXpVfSeDSo?si=R7KnKnUtqG3ZkvY-&t=536)<br><br>  
 Mark Roulston:<br> [How do its prediction markets work?](https://youtu.be/IVXpVfSeDSo?si=Ecn4IWwU9Oeiz0QQ&t=4509)<br><br>  
 Symeon Koumoutsaris:<br> [Managing Climate-Related Catastrophe Risk at SCOR: Tools, Challenges, and Innovations.](https://youtu.be/IVXpVfSeDSo?si=55VgAxVA2GZj4LFA&t=9291)<br><br>  
 Kristian Strømmen and Andrew McRae:<br> [A market participant's perspective.](https://youtu.be/IVXpVfSeDSo?si=wfkosxD8r8gWKUd4&t=13250)<br><br>  
