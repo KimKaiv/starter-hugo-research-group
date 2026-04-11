@@ -1,12 +1,12 @@
 ---
 title: "AGORA Trading Guide v1.1"
-subtitle: "A guide to participating in CRUCIAL prediction markets on the AGORA platform --- API update"
-summary: "Guide to using CRUCIAL's AGORA prediction market platform --- API update"
-authors: ["Mark Roulston"]
-tags: ["Mark Roulston"]
+subtitle: "A guide to participating in CRUCIAL prediction markets on the AGORA platform --- API update (April 2026)"
+summary: "Guide to using CRUCIAL's AGORA prediction market platform --- API update (April 2026)"
+authors: ["Mark Roulston","Kim Kaivanto"]
+tags: ["Mark Roulston","Kim Kaivanto"]
 categories: []
-date: 2025-10-02T00:00:01Z
-lastmod: 2025-10-02T00:00:01Z
+date: 2026-04-11T00:00:01Z
+lastmod: 2026-04-11T00:00:01Z
 featured: true
 draft: false
 
@@ -32,11 +32,16 @@ url_pdf: /AGORA/Trading_Guide_v1.1.pdf
 ---
 
 > This October 2nd 2025 version v1.1 of the trading guide includes documentation of the newly introduced AGORA Application Programming Interface (API), for programmatic access to prices as well as for executing trades. 
+In April 2026 we have added MacOS and Linux clients (see below). 
 
 > Download from here: [R code API wrapper functions](/AGORA/agora_api_wrapper_functions.R)
 
 > Download from here: [Win x86 Agora client executable](/AGORA/agora-client-x86_64-pc-windows-msvc_2025-10-06.zip)
 
+> Download from here: [MacOS client (aarch64)](/AGORA/agora-client-aarch64-macos-2025-11-11.tar.zst)
+
+> Download from here: [Linux client (x86-64; musl)](/AGORA/agora-client-x86_64-linux-musl-2025-11-11-3c19d94a1ee787037f7d0bbfb997e84e19df8047.zip)
+ 
 CRUCIAL is an initiative to use prediction markets, with expert participants, to elicit and 
 aggregate the diverse expertise and knowledge of the participants and produce unified 
 probability forecasts of climate-related risks. These forecasts can evolve as new 
