@@ -32,7 +32,7 @@ url_pdf: /AGORA/Trading_Guide_v1.1.pdf
 ---
 
 > This October 2nd 2025 version v1.1 of the trading guide includes documentation of the newly introduced AGORA Application Programming Interface (API), for programmatic access to prices as well as for executing trades. 
-In April 2026 we have added MacOS and Linux clients (see below). 
+In April 2026 we have added MacOS and Linux clients as well as a Jupyter notebook (see below). 
 
 > Download from here: [R code API wrapper functions](/AGORA/agora_api_wrapper_functions.R)
 
@@ -41,6 +41,8 @@ In April 2026 we have added MacOS and Linux clients (see below).
 > Download from here: [MacOS client (aarch64)](/AGORA/agora-client-aarch64-macos-2025-11-11.tar.zst)
 
 > Download from here: [Linux client (x86-64; musl)](/AGORA/agora-client-x86_64-linux-musl-2025-11-11-3c19d94a1ee787037f7d0bbfb997e84e19df8047.zip)
+
+> Download from here: [Python Jupyter notebook](/AGORA/notebook-crucial-trading.ipynb)
  
 CRUCIAL is an initiative to use prediction markets, with expert participants, to elicit and 
 aggregate the diverse expertise and knowledge of the participants and produce unified 
