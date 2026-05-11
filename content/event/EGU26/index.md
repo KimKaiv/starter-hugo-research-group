@@ -7,12 +7,12 @@ event_url: 'https://meetingorganizer.copernicus.org/EGU26/EGU26-419.html'
 location: "[Austria Center Vienna](https://www.acv.at/en/)"
 address:
   street: 
-  city: 'Vienna, Austria'
+  city: 
   region: 
   postcode: 
   country: 
 
-summary: 'We demonstrate the viability of highly granular, two-dimensional (joint) outcome spaces with markets for monthly UK rainfall and temperature.'
+summary: 'The usefulness of predictions of physical climate risks to the financial sector is now appreciated but climate forecasting can also learn from the ability of financial markets to aggregate distributed information and expertise.'
 
 abstract: "The usefulness of predictions of physical climate risks to the financial sector is now appreciated but climate forecasting can also learn from the ability of financial markets to aggregate distributed information and expertise.  
 <br> <br>
@@ -50,7 +50,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/SKxrJNAm90s'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
