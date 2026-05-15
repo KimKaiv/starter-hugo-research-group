@@ -1,5 +1,5 @@
 ---
-title: 'CRUCIAL Sponsors Secial Session on Prediction Markets'
+title: 'CRUCIAL Sponsors Special Session on Prediction Markets'
 
 event: '3rd Financial Fraud, Misconduct and Market Manipulation Conference, 10--11 Sept 2026'
 event_url: 'https://wp.lancs.ac.uk/ffmm2026/'
