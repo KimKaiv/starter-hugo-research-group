@@ -3,7 +3,7 @@
 title: Colby College
 
 # Username (this should match the folder name)
-authors: colbycoll
+authors: colby-college
 
 # Is this the primary user of the site?
 superuser: false
