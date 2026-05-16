@@ -55,15 +55,16 @@ image:
 |---|---|
 | **Primary Data Source** | NOAA National Hurricane Center <br>https://www.nhc.noaa.gov/ <br> Japan Meteorological Agency <br> https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/RSMC_HP.htm  |
 | **Secondary Data Source** | World Meteorological Organization: The US NHC is the sole Regional Meteorological Specialized Center (RMSC) for Atlantic hurricanes while the Japan Meteorological Agency hosts the RMSC for Pacific typhoons. If either RMSC cannot fulfil these roles it would fall on the WMO to designate an alternative RMSC. |
-| **Source Reporting Date/Time** | 20YY-12-07 (i.e. any reclassification of storms after this date will not count in the settlement of the market). |
-| **Settlement Date/Time** | December |
+| **Source Reporting Date/Time** | First week of January (i.e. any reclassification of storms after this date will not count in the settlement of the market). |
+| **Settlement Date/Time** | January of the following year |
 
 ## Initialization
 
 | Field | Details |
 |---|---|
-| **Initialization Type** | Prior modelled using historical data. |
-| **Initial Prices** | Regularized Poisson fit to hurricanes (CAT1 to CAT5) observed since 1924. |
+| **Initialization Type** | Prior modelled using historical data. Historic Atlantic hurricane counts and Pacific typhoon counts are negatively correlated but this correlation will not be incorporated into the initial prices. The initial prices will be the product of two poisson distributions fitted to the hurricane and typhoon counts respectively. |
+
+![Initial prices in 2-dimensional market](initial_prices.png)
 
 ---
 
@@ -73,7 +74,7 @@ image:
 
 This market is to jointly predict the number of hurricanes that will occur in the Atlantic and the number of typhoons that will occur in the Northwest Pacific between May 1 and December 31 of the designated year (NB: This is longer than the conventional Atlantic hurricane season from June to November used in previous markets).
 
-The market will be settled in December following the end of the hurricane season using the number of hurricanes as determined by the U.S. National Hurricane Center (NHC) and the number of NW Pacific typhoons as determined by the Japanese Meteorological Agency (JMA). The NW Pacific covers the area north of the equator and between 100 deg. E and 180 deg. E.
+The market will be settled in January using the number of hurricanes as determined by the U.S. National Hurricane Center (NHC) and the number of NW Pacific typhoons as determined by the Japanese Meteorological Agency (JMA). The NW Pacific covers the area north of the equator and between 100 deg. E and 180 deg. E.
 
 Note 1: Hurricanes and typhoons that occur after December 31 will not count towards the total for market settlement UNLESS the cyclone was already a named storm on or before December 31.
 
