@@ -72,7 +72,7 @@ image:
 
 ### Description of Market
 
-This market is to predict the All India Summer Monsoon Rainfall, the weighted average of rainfall across India that falls between 1st June and 30th September, as reported by the Indian Institute of Tropical Meteorology. The rainfall is expressed as a percentage above or below the long-run mean of 880.6mm. 
+This market is to predict the All India Summer Monsoon Rainfall, the cumulative rainfall across India that falls between 1st June and 30th September, as reported by the Indian Institute of Tropical Meteorology. The rainfall is expressed as a percentage above or below the long-run mean of 880.6mm. 
 
 The market will close at 12:00 UTC on 30th September.
 
