@@ -41,8 +41,8 @@ L'Heureux, Michelle L., et al. (2024) "A relative sea surface temperature index 
 
 | Field | Details |
 |---|---|
-| **Market** | **OPER: RONI-###-YYYYMMM** (e.g. RONI-001-2025JJA). YYYY is the middle month of the period. The 3-digit number ensures chronological ordering when listed alphabetically. |
-| **Strip of Markets** | RONI-001-2025JJA <br>RONI-002-2025SON <br>RONI-003-2026DJF <br>RONI-004-2026MAM <br>RONI-005-2026JJA <br>RONI-006-2026SON |
+| **Market** | **OPER: RONI-###-YYYY-MMM** (e.g. RONI-001-2025-JJA). YYYY is the middle month of the period. The 3-digit number ensures chronological ordering when listed alphabetically. |
+| **Strip of Markets** | RONI-001-2025-JJA <br>RONI-002-2025-SON <br>RONI-003-2026-DJF <br>RONI-004-2026-MAM <br>RONI-005-2026-JJA <br>RONI-006-2026-SON |
 | **Underlying** | Relative Oceanic Niño Index |
 | **Prediction Period** | 3-month means for DJF, MAM, JJA, and SON |
 | **Prediction Horizon** | Up to 18 months (6 markets) ahead |
