@@ -79,6 +79,7 @@ The SAC or its individual members may also review scientific publications produc
 
 ### Membership
 
+- Michael Meredith (Chair), British Antarctic Survey, NERC
 - Peter Atkinson, Lancaster Environment Centre
 - Shi-Ling Hsu, Florida State University
 - David Stainforth, LSE and Grantham Institute 
